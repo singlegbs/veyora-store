@@ -127,3 +127,14 @@ const verifiedCorrections = {
   'Samsung NX24BG45411VGH Cooker': {description:'The Samsung NX24BG45411VGH gas cooker combines four burners with a grill. Auto ignition makes lighting the hob more convenient.', specs:'Four gas burners; grill; auto ignition.'}
 };
 PRODUCTS.forEach(p => { if (verifiedCorrections[p.name]) Object.assign(p, verifiedCorrections[p.name]); });
+// Omit details not independently established by the research shortlist.
+for (const p of PRODUCTS) {
+ if (p.name === 'TCL P211FLG Front Load Washer') {
+  p.description = 'This TCL front-load washer offers programmes for different laundry loads. Its inverter motor supports everyday washing.';
+  p.specs = 'Wash capacity: 10.5 kg; front load; inverter motor; 15 programmes; 1,200 rpm.';
+ }
+ if (p.name === 'Nasco NASD2-36 Refrigerator') {
+  p.description = 'Keep fresh food and frozen items together in this Nasco bottom-freezer refrigerator. Its separate compartments help organise groceries.';
+  p.specs = 'Bottom-freezer refrigerator; model: NASD2-36.';
+ }
+}
