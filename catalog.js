@@ -20,7 +20,7 @@ const approvedCatalog = [
  ['TCL 50S5K Smart TV','TVs',5799],
  ['Nasco NASD2-36 Refrigerator','Refrigerators',6159],
  ['Nasco NASGC-LME90I Cooker','Cookers',6459],
- ['TCL 75P7K TV','TVs',14299],
+ ['TCL 75P7K TV','TVs',14299,'images/75P7K.webp.png'],
  ['Samsung RT35CG5421S9GH Refrigerator','Refrigerators',11099],
  ['Midea MSAF-24CRN1 Air Conditioner','Air conditioners',11199],
  ['TCL 55T6D QLED TV','TVs',8189],
