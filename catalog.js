@@ -1,6 +1,6 @@
 // Approved Veyora appliance catalog, prices in Ghana cedis.
 const approvedCatalog = [
-['Samsung WD17T6300GP/SP Washer Dryer','Washing machines',18799],
+['Samsung WD17T6300GP/SP Washer Dryer','Washing machines',18799,'images/samsung-wd17t6300gp-sp.webp.png'],
 ['Midea MDRF632FGN46D 4-Door Refrigerator','Refrigerators',13199],
 ['TCL 65T6D QLED TV','TVs',12199],
 ['Nasco NAS-1200FL-DD Chest Freezer','Chest freezers',12399],
