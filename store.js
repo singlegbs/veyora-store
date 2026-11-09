@@ -2,7 +2,7 @@
 // Store interactions; public configuration and sample data are in products.js.
 const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const n=document.createElement(tag); if(cls)n.className=cls; if(text!==undefined)n.textContent=text; return n; };
-const money = n => `GH₵ ${Number(n).toFixed(2)}`;
+const money = n => `GH₵ ${Number(n).toLocaleString('en-GH', {minimumFractionDigits: 0, maximumFractionDigits: 2})}`;
 const byId = id => PRODUCTS.find(p=>p.id===id);
 let cart={}; try { cart=JSON.parse(sessionStorage.getItem('veyora-cart')||'{}')||{}; } catch(e) {}
 let filter='All', query='', selected=[];
