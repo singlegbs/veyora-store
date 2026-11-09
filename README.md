@@ -32,3 +32,4 @@ The following local product images come from VariBuy listings. Confirm usage rig
 
 - `images/F708TL.webp.png`: VariBuy product listing, https://varibuy.com/wp-content/uploads/2023/09/F708TL-450x450.avif. Confirm usage rights before reuse.
 - 
+- `images/MDRC698FZN01.webp.png`: VariBuy product listing, https://varibuy.com/product/midea-508l-double-door-chest-freezer-white-mdrc698fzn01/ (image https://varibuy.com/wp-content/uploads/2024/08/MDRC698FZN01.webp). Confirm usage rights before reuse.
