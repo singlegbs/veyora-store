@@ -33,3 +33,19 @@ The following local product images come from VariBuy listings. Confirm usage rig
 - `images/F708TL.webp.png`: VariBuy product listing, https://varibuy.com/wp-content/uploads/2023/09/F708TL-450x450.avif. Confirm usage rights before reuse.
 - 
 - `images/MDRC698FZN01.webp.png`: VariBuy product listing, https://varibuy.com/product/midea-508l-double-door-chest-freezer-white-mdrc698fzn01/ (image https://varibuy.com/wp-content/uploads/2024/08/MDRC698FZN01.webp). Confirm usage rights before reuse.
+
+## Additional photo source credits
+
+VariBuy listing images; confirm reuse rights before use.
+
+`images/NAS-425FL-G.webp.png`: https://varibuy.com/wp-content/uploads/2025/04/NAS-425FL-G-CHEST-FREEZER.webp
+
+`images/MDRC407FZN43D.webp.png`: https://varibuy.com/wp-content/uploads/2024/10/MDRC407FZN43D-CHEST-FREEZER.webp
+
+`images/NAS-500FL-DD.webp.png`: https://varibuy.com/wp-content/uploads/2024/11/NAS-500FL-DD-CHEST-FREEZER.webp
+
+`images/NAS-380SK.png`: https://varibuy.com/wp-content/uploads/2024/10/NAS-380SK-CHEST-FREEZER.png
+
+`images/WT12J4200MR.webp.png`: https://varibuy.com/wp-content/uploads/2023/03/WT12J4200MR-WASHER.webp
+
+`images/MF110W80B-T.webp.png`: https://varibuy.com/wp-content/uploads/2025/12/MF110W80B-T-FL-WASHING-MACHINE.webp
