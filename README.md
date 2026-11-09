@@ -56,3 +56,9 @@ VariBuy product listing images; confirm usage rights before reuse.
 - `images/50S5K-alt1.png`: https://varibuy.com/wp-content/uploads/2025/08/50S5K-1.webp
 - `images/50S5K-alt2.png`: https://varibuy.com/wp-content/uploads/2025/08/50S5K.webp
 - `images/NASGC-LME90I-main.png`: https://varibuy.com/wp-content/uploads/2023/04/NASGC-LME90I.webp
+
+### Nasco NASD2-36 refrigerator gallery
+- `images/NASD2-36-main.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASD2-36D.webp
+- `images/NASD2-36-alt1.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASD2-36D-NASCO-REFRIGERATOR.webp
+- `images/NASD2-36-alt2.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASD2-36D..webp
+- `images/NASD2-36-alt3.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASCO-NASD2-36D.webp
