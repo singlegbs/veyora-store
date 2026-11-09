@@ -71,3 +71,27 @@
   box.append(strip);
  };
 })();
+
+// Keep the page still while any store dialog is open, including on mobile Safari.
+(() => {
+ const style=document.createElement('style');
+ style.textContent=`dialog[open]{max-height:90vh;max-height:90dvh;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;box-sizing:border-box}dialog::backdrop{touch-action:none}`;
+ document.head.append(style);
+ let saved=null;
+ function syncModalScroll(){
+  const open=!!document.querySelector('dialog[open]');
+  if(open&&!saved){
+   const body=document.body,root=document.documentElement;
+   saved={y:window.scrollY,position:body.style.position,top:body.style.top,left:body.style.left,right:body.style.right,width:body.style.width,overflow:body.style.overflow,rootOverflow:root.style.overflow};
+   body.style.position='fixed';body.style.top=`-${saved.y}px`;body.style.left='0';body.style.right='0';body.style.width='100%';body.style.overflow='hidden';root.style.overflow='hidden';
+  } else if(!open&&saved){
+   const body=document.body,root=document.documentElement,old=saved;saved=null;
+   body.style.position=old.position;body.style.top=old.top;body.style.left=old.left;body.style.right=old.right;body.style.width=old.width;body.style.overflow=old.overflow;root.style.overflow=old.rootOverflow;window.scrollTo(0,old.y);
+  }
+ }
+ const showModal=HTMLDialogElement.prototype.showModal,close=HTMLDialogElement.prototype.close;
+ HTMLDialogElement.prototype.showModal=function(...args){const result=showModal.apply(this,args);syncModalScroll();return result;};
+ HTMLDialogElement.prototype.close=function(...args){const result=close.apply(this,args);syncModalScroll();return result;};
+ new MutationObserver(syncModalScroll).observe(document.body,{subtree:true,childList:true,attributes:true,attributeFilter:['open']});
+ syncModalScroll();
+})();
