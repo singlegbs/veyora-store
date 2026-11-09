@@ -80,3 +80,37 @@ $('#detail-buy').addEventListener('click',()=>{if(!detailProduct)return;const p=
 const basicCard=makeCard;
 makeCard=function(p){const card=basicCard(p);for(const node of [card.querySelector('.photo'),card.querySelector('h4')]){node.tabIndex=0;node.setAttribute('role','button');node.setAttribute('aria-label','View details for '+p.name);node.addEventListener('click',()=>openDetail(p));node.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openDetail(p);}});}return card;};
 renderCatalog();$('#rail').replaceChildren(...PRODUCTS.map(makeCard));
+
+// Present supported catalog details as short features and structured specifications.
+const featureStyle=document.createElement('style');
+featureStyle.textContent=`.detail-facts h3{font-size:1rem;margin:1.1rem 0 .45rem}.detail-facts ul{padding-left:1.15rem;margin:.2rem 0}.detail-facts li{margin:.25rem 0}.detail-facts dl{margin:0}.detail-facts .spec-row{display:grid;grid-template-columns:minmax(100px,40%) minmax(0,1fr);gap:.5rem;padding:.35rem 0;border-bottom:1px solid #e5ebe6}.detail-facts dt{font-weight:600}.detail-facts dd{margin:0;overflow-wrap:anywhere}@media(max-width:380px){.detail-facts .spec-row{grid-template-columns:minmax(80px,40%) minmax(0,1fr)}}`;
+document.head.append(featureStyle);
+const originalOpenDetail=openDetail;
+openDetail=function(p){
+  originalOpenDetail(p);
+  const old=$('#detail-specs'),box=document.createElement('div');
+  box.id='detail-specs';box.className='detail-facts';old.replaceWith(box);
+  const parts=String(p.specs||'').split(';').map(s=>s.trim().replace(/\.$/,'')).filter(Boolean);
+  const features=parts.filter(s=>!/^model\s*:/i.test(s)).slice(0,6);
+  if(features.length){
+    const heading=document.createElement('h3'),list=document.createElement('ul');heading.textContent='Features';box.append(heading,list);
+    features.forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item);});
+  }
+  if(parts.length){
+    const heading=document.createElement('h3'),list=document.createElement('dl');heading.textContent='Specifications';box.append(heading,list);
+    parts.forEach(part=>{
+      let label='Detail',value=part,split=part.indexOf(':');
+      if(split>0){label=part.slice(0,split).trim();value=part.slice(split+1).trim();}
+      else if(/\brpm\b/i.test(part))label='Spin speed';
+      else if(/\bprogrammes?\b/i.test(part))label='Programmes';
+      else if(/inch display/i.test(part))label='Display size';
+      else if(/\bHP\b/i.test(part))label='Power';
+      else if(/refrigerant/i.test(part))label='Refrigerant';
+      else if(/front load|top load|twin tub/i.test(part))label='Loading type';
+      else if(/\d-star/i.test(part))label='Energy rating';
+      else if(/finish/i.test(part))label='Finish';
+      const row=document.createElement('div'),term=document.createElement('dt'),definition=document.createElement('dd');
+      row.className='spec-row';term.textContent=label;definition.textContent=value;row.append(term,definition);list.append(row);
+    });
+  }
+};
