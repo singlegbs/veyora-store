@@ -26,6 +26,46 @@ $('#checkout-form').addEventListener('submit',e=>{e.preventDefault();if(!PAYSTAC
 // Close the store dialog before opening Paystack so the payment window is not covered.
 $('#checkout-form').addEventListener('submit',()=>$('#checkout-dialog').close(),true);
 
+
+// Cart feedback: a brief blue checkmark and a three-second status message.
+const originalNotify = notify;
+let statusTimer;
+notify = function(message) {
+  originalNotify(message);
+  clearTimeout(statusTimer);
+  statusTimer = setTimeout(() => {
+    if ($('#status').textContent === message) $('#status').textContent = '';
+    document.querySelectorAll('.dialog-status').forEach(node => {
+      if (node.textContent === message) node.textContent = '';
+    });
+  }, 3000);
+};
+const addedTimers = new WeakMap();
+document.addEventListener('click', event => {
+  const button = event.target.closest('button.add');
+  if (!button) return;
+  clearTimeout(addedTimers.get(button));
+  button.textContent = '✓ Added';
+  button.style.setProperty('background-color', '#1769d2', 'important');
+  button.style.setProperty('color', '#ffffff', 'important');
+  button.style.setProperty('border-color', '#1769d2', 'important');
+  addedTimers.set(button, setTimeout(() => {
+    button.textContent = 'Add to Cart';
+    button.style.removeProperty('background-color');
+    button.style.removeProperty('color');
+    button.style.removeProperty('border-color');
+  }, 3000));
+}, true);
+
+// Reload at the top without changing normal in-page navigation.
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+const navEntry = performance.getEntriesByType('navigation')[0];
+if (navEntry && navEntry.type === 'reload') {
+  if (location.hash) history.replaceState(history.state, '', location.pathname + location.search);
+  window.scrollTo(0, 0);
+  window.addEventListener('load', () => window.scrollTo(0, 0), { once: true });
+}
+
 $('#open-cart').addEventListener('click',()=>{renderCart();$('#cart-dialog').showModal();});$('#cart-checkout').addEventListener('click',()=>checkout(entries()));document.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',()=>$('#'+b.dataset.close).close()));
 $('#signup').addEventListener('submit',e=>{e.preventDefault();$('#signup-status').textContent='Thanks! Signup is coming soon; your email was not saved.';e.currentTarget.reset();});$('#prev').addEventListener('click',()=>$('#rail').scrollBy({left:-300,behavior:'smooth'}));$('#next').addEventListener('click',()=>$('#rail').scrollBy({left:300,behavior:'smooth'}));$('#rail').replaceChildren(...PRODUCTS.map(makeCard));
 // Customer accounts use only the public Supabase project key, never a service role key.
