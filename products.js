@@ -5,7 +5,7 @@ const PAYSTACK_PUBLIC_KEY = '';
 // Replace this array with your real products. Prices are in Ghana cedis (GHS).
 const PRODUCTS = [
   {id:'blender', name:'Everyday Blender', category:'Appliances', subcategory:'Kitchen', price:450, description:'Blend smoothies and sauces with ease.', image:'blender.jpg'},
-  {id:'air-fryer', name:'Compact Air Fryer', category:'Appliances', subcategory:'Kitchen', price:950, description:'A convenient companion for crisp favourites.', image:'air-fryer.jpg'},
+  {id:'toaster', name:'Everyday Toaster', category:'Appliances', subcategory:'Kitchen', price:350, description:'A simple essential for golden morning toast.', image:'toaster.jpg'},
   {id:'kettle', name:'Electric Kettle', category:'Appliances', subcategory:'Kitchen', price:320, description:'A simple essential for a comforting cup.', image:'kettle.jpg'},
   {id:'fan', name:'Rechargeable Fan', category:'Appliances', subcategory:'Cooling', price:580, description:'A refreshing breeze for your everyday spaces.', image:'fan.jpg'},
   {id:'art', name:'Abstract Wall Art', category:'Decor', subcategory:'Wall Art', price:380, description:'Bring a little personality to your walls.', image:'art.jpg'},
