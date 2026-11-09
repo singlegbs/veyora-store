@@ -42,7 +42,7 @@ const approvedCatalog = [
  ['Nasco NAS-250FL Chest Freezer','Chest freezers',3998],
  ['Nasco NAS-200FL-G Chest Freezer','Chest freezers',2998],
  ['TCL F711TL Washing Machine','Washing machines',4979],
- ['TCL F708TL Washing Machine','Washing machines',3998],
+ ['TCL F708TL Washing Machine','Washing machines',3998,'images/F708TL.webp.png'],
  ['Midea MT100W120/WG Washing Machine','Washing machines',3998],
  ['TCL 43S5K Smart TV','TVs',4489,'images/tcl-43s5k.png'],
  ['Nasco NAS-J50FBFL TV','TVs',3998],
