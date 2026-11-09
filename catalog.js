@@ -159,3 +159,10 @@ for (const p of PRODUCTS) {
   }
   if (p.name === 'Nasco NASGC-LME90I Cooker') p.image = 'images/NASGC-LME90I-main.png';
 }
+// Exact-listing Nasco refrigerator gallery, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NASD2-36 Refrigerator') {
+    p.image = 'images/NASD2-36-main.png';
+    p.images = ['images/NASD2-36-main.png', 'images/NASD2-36-alt1.png', 'images/NASD2-36-alt2.png', 'images/NASD2-36-alt3.png'];
+  }
+}
