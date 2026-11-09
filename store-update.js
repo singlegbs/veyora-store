@@ -60,3 +60,23 @@ $('#account-signout').addEventListener('click', async () => {
   catch (err) { $('#account-message').textContent = 'Could not log out. Please try again.'; }
   finally { button.disabled = false; }
 });
+
+// Accessible product details built from the public catalog only.
+const detailStyle=document.createElement('style');
+detailStyle.textContent=`.detail-dialog{width:min(760px,calc(100vw - 32px));max-height:90vh;overflow:auto}.detail-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px}.detail-photo{min-height:220px;background:#f5f7f5;border-radius:12px;display:grid;place-items:center;overflow:hidden}.detail-photo img{width:100%;max-height:360px;object-fit:contain}.detail-copy{min-width:0;overflow-wrap:anywhere}.detail-copy h2{margin-top:0}.detail-copy .buttons{display:flex;flex-wrap:wrap;gap:10px}.card .photo[role=button],.card h4[role=button]{cursor:pointer}.card .photo:focus-visible,.card h4:focus-visible{outline:3px solid #155bd5;outline-offset:3px}@media(max-width:600px){.detail-layout{grid-template-columns:1fr}.detail-photo{min-height:180px}.detail-photo img{max-height:240px}}`;
+document.head.append(detailStyle);
+const detailDialog=document.createElement('dialog');detailDialog.className='detail-dialog';detailDialog.setAttribute('aria-labelledby','detail-title');
+detailDialog.innerHTML='<div class="dialog-head"><span></span><button type="button" class="close" aria-label="Close product details">×</button></div><div class="detail-layout"><div class="detail-photo"></div><div class="detail-copy"><h2 id="detail-title"></h2><p id="detail-category"></p><p id="detail-price" class="price"></p><p id="detail-description"></p><p id="detail-specs"></p><p>Availability: Please confirm before ordering.</p><div class="buttons"><button type="button" class="add" id="detail-add">Add to Cart</button><button type="button" class="buy" id="detail-buy">Buy Now</button></div></div></div>';
+document.body.append(detailDialog);
+let detailProduct=null;
+function closeDetail(){if(!detailDialog.open)return;detailDialog.close();if(history.state && history.state.veyoraDetail)history.back();}
+function openDetail(p){detailProduct=p;const imageBox=detailDialog.querySelector('.detail-photo');imageBox.replaceChildren();if(p.image){const image=document.createElement('img');image.src=p.image;image.alt=p.name;imageBox.append(image);}else imageBox.textContent='Photo coming soon';$('#detail-title').textContent=p.name;$('#detail-category').textContent=p.category;$('#detail-price').textContent=money(p.price);$('#detail-description').textContent=p.description||'';$('#detail-specs').textContent=p.specs ? String(p.specs) : 'Specifications available on request.';$('#detail-add').textContent='Add to Cart';history.pushState({veyoraDetail:true},'');detailDialog.showModal();}
+detailDialog.querySelector('.close').addEventListener('click',closeDetail);
+detailDialog.addEventListener('cancel',e=>{e.preventDefault();closeDetail();});
+detailDialog.addEventListener('click',e=>{if(e.target===detailDialog)closeDetail();});
+window.addEventListener('popstate',()=>{if(detailDialog.open)detailDialog.close();});
+$('#detail-add').addEventListener('click',()=>{if(!detailProduct)return;add(detailProduct.id);const b=$('#detail-add');b.textContent='✓ Added';b.style.color='#155bd5';setTimeout(()=>{b.textContent='Add to Cart';b.style.color='';},1800);});
+$('#detail-buy').addEventListener('click',()=>{if(!detailProduct)return;const p=detailProduct;closeDetail();checkout([{product:p,quantity:1}]);});
+const basicCard=makeCard;
+makeCard=function(p){const card=basicCard(p);for(const node of [card.querySelector('.photo'),card.querySelector('h4')]){node.tabIndex=0;node.setAttribute('role','button');node.setAttribute('aria-label','View details for '+p.name);node.addEventListener('click',()=>openDetail(p));node.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openDetail(p);}});}return card;};
+renderCatalog();$('#rail').replaceChildren(...PRODUCTS.map(makeCard));
