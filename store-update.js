@@ -39,3 +39,24 @@ signup.addEventListener('submit',async e=>{
  catch(err){status.textContent='Could not save your email. Please try again.';}
  finally{button.disabled=false;}
 });
+
+// Account menu uses the existing customer session and sign-out flow.
+const accountDialog = document.createElement('dialog');
+accountDialog.setAttribute('aria-labelledby', 'account-title');
+accountDialog.innerHTML = '<div class="dialog-head"><h2 id="account-title">My Account</h2><button type="button" class="close" aria-label="Close account">×</button></div><p id="account-email"></p><p id="account-message" role="status"></p><button type="button" class="primary full" id="account-signout">Log out</button>';
+document.body.append(accountDialog);
+accountDialog.querySelector('.close').addEventListener('click', () => accountDialog.close());
+accountDialog.addEventListener('click', e => { if (e.target === accountDialog) accountDialog.close(); });
+$('#account-label').addEventListener('click', async () => {
+  const {data, error} = await supa.auth.getSession();
+  if (error || !data.session) { authState(null); notify('Please log in to your account.'); return; }
+  $('#account-email').textContent = data.session.user.email || '';
+  $('#account-message').textContent = '';
+  accountDialog.showModal();
+});
+$('#account-signout').addEventListener('click', async () => {
+  const button = $('#account-signout'); button.disabled = true;
+  try { const {error} = await supa.auth.signOut(); if (error) throw error; authState(null); accountDialog.close(); notify('You are logged out.'); }
+  catch (err) { $('#account-message').textContent = 'Could not log out. Please try again.'; }
+  finally { button.disabled = false; }
+});
