@@ -29,3 +29,6 @@ The following local product images come from VariBuy listings. Confirm usage rig
 - `images/NASF2-400FDR.webp.png`: https://varibuy.com/product/nasco-360l-2-star-french-door-refrigerator-cross-door-fridge-freezer-combination-nasf2-400fdr/ (image https://varibuy.com/wp-content/uploads/2026/02/NASF2-400FDR-4-DOOR-REFRIGERATOR.webp)
 - `images/C211WDG.webp.png`: https://varibuy.com/product/tcl-10-5kg-6kg-dd-inverter-washer-dryer-combo-1200-rpm-dark-grey-16-programs-c211wdg/ (image https://varibuy.com/wp-content/uploads/2024/08/C211WDG-TCL-WASHER-DRYER.webp)
 - `images/75P7K.webp.png`: VariBuy listing, https://varibuy.com/product/tcl-75-p7k-qled-4k-google-tv-2025-4k-hdr-led-tv-google-assistant-bbc-iplayer-dolby-atmos-dolby-vision-hdr10-120hz-game-accelerator-motion-clarity-75p7k/ ; image https://varibuy.com/wp-content/uploads/2025/04/75P7K.webp. Confirm usage rights before reuse.
+
+- `images/F708TL.webp.png`: VariBuy product listing, https://varibuy.com/wp-content/uploads/2023/09/F708TL-450x450.avif. Confirm usage rights before reuse.
+- 
