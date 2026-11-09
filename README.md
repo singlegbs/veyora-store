@@ -18,3 +18,13 @@ The sources and licenses for the other old placeholder images, including the liv
 `products.js` holds legacy sample product data and public Paystack and Supabase configuration. `catalog.js` replaces the sample array for the current appliance catalog. The Paystack key uses live mode; do not enter payment details during testing. Live payment success depends on account approval. Never put a Paystack secret key or Supabase service-role key in this public repository.
 
 Orders are stored as pending; verify successful payment reference and amount in Paystack before fulfillment, and update status manually in Supabase. Public inserts do not establish that an order is paid.
+
+### Additional appliance images
+
+The following local product images come from VariBuy listings. Confirm usage rights before reuse.
+
+- `images/MDRF632FGN46D.webp.png`: https://varibuy.com/product/midea-470l-frost-free-4-door-refrigerator-w-electronic-display-424l-net-capacity-quattro-inverter-compressor-mdrf632fgn46d/ (image https://varibuy.com/wp-content/uploads/2024/10/MDRF632FGN46D-1.webp)
+- `images/65T6D.webp.png`: https://varibuy.com/product/tcl-65-t6d-premium-qled-google-tv-2026-colourful-quantum-crystal-bionic-colour-optimization-technology-hva-panel-ai-cinematic-agent-aipq-processor-dolby-vision-dolby-atmos-slim-uni-b/ (image https://varibuy.com/wp-content/uploads/2026/05/65T6D.webp)
+- `images/NAS-1200FL-DD.webp.png`: https://varibuy.com/product/nasco-800l-double-door-chest-freezer-silver-nas-1200fl-dd/ (image https://varibuy.com/wp-content/uploads/2024/11/NAS-1200FL-DD-1.webp)
+- `images/NASF2-400FDR.webp.png`: https://varibuy.com/product/nasco-360l-2-star-french-door-refrigerator-cross-door-fridge-freezer-combination-nasf2-400fdr/ (image https://varibuy.com/wp-content/uploads/2026/02/NASF2-400FDR-4-DOOR-REFRIGERATOR.webp)
+- `images/C211WDG.webp.png`: https://varibuy.com/product/tcl-10-5kg-6kg-dd-inverter-washer-dryer-combo-1200-rpm-dark-grey-16-programs-c211wdg/ (image https://varibuy.com/wp-content/uploads/2024/08/C211WDG-TCL-WASHER-DRYER.webp)
