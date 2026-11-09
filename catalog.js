@@ -151,3 +151,11 @@ const imageBatchSix = {
 'Midea MF110W80B/T Front Load Washer': 'images/MF110W80B-T.webp.png'
 };
 for (const p of PRODUCTS) if (imageBatchSix[p.name]) p.image = imageBatchSix[p.name];
+// Locally hosted exact-model product photos.
+for (const p of PRODUCTS) {
+  if (p.name === 'TCL 50S5K Smart TV') {
+    p.image = 'images/50S5K-main.png';
+    p.images = ['images/50S5K-main.png', 'images/50S5K-alt1.png', 'images/50S5K-alt2.png'];
+  }
+  if (p.name === 'Nasco NASGC-LME90I Cooker') p.image = 'images/NASGC-LME90I-main.png';
+}
