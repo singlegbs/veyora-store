@@ -45,3 +45,8 @@ dialog{border:0;border-radius:16px;padding:24px;width:min(480px,calc(100% - 32px
 .filter-list{flex-direction:row;overflow-x:auto;max-width:100%;padding-bottom:8px}.filter{white-space:nowrap;border:1px solid #e1e9df}
 .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:26px 12px}.buttons{flex-wrap:wrap}.buttons button{flex:1 1 100%}.desc{min-height:0}.details{flex-wrap:wrap}
 .rail{grid-auto-columns:72%}.banner{padding:26px;display:block}.signup{margin-top:20px}.footer-grid{grid-template-columns:1fr 1fr;gap:12px}.footer-grid>div:first-child{grid-column:1/-1}}
+/* Slide-in cart drawer, with a reduced-motion alternative. */
+#cart-dialog { position:fixed; inset:0 0 0 auto; margin:0; width:min(440px,100%); height:100dvh; max-height:none; border-radius:0; overflow-y:auto; }
+#cart-dialog[open] { animation:cart-enter .24s ease-out; }
+@keyframes cart-enter { from { transform:translateX(100%); } to { transform:translateX(0); } }
+@media (prefers-reduced-motion:reduce) { #cart-dialog[open] { animation:none; } }
