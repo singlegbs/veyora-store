@@ -48,3 +48,26 @@
   const beginCheckout=checkout;checkout=function(items){beginCheckout(items);if(!$('#checkout-dialog').open)return;const summary=$('#checkout-summary');summary.replaceChildren();items.forEach(({product,quantity})=>{const row=el('div','checkout-line');row.append(thumb(product),el('span','',`${quantity} × ${product.name} — ${money(product.price*quantity)}`));summary.append(row);});summary.append(el('div','checkout-total','Total: '+money(total(items))));};
   renderCatalog();$('#rail').replaceChildren(...PRODUCTS.map(makeCard));sync();
 })();
+
+// Product galleries use only the locally stored, model-specific photos.
+(() => {
+ const css=document.createElement('style');
+ css.textContent=`.detail-photo{display:flex!important;flex-direction:column;min-width:0;gap:10px}.detail-photo>img{max-width:100%;max-height:360px;object-fit:contain}.gallery-thumbs{display:flex;gap:8px;max-width:100%;overflow-x:auto;padding:3px}.gallery-thumbs button{flex:0 0 60px;width:60px;height:60px;padding:3px;border:1px solid #ccd9ce;border-radius:8px;background:#fff;cursor:pointer}.gallery-thumbs button[aria-pressed=true]{border:2px solid #08764d}.gallery-thumbs img{width:100%;height:100%;object-fit:contain}.gallery-thumbs button:focus-visible{outline:3px solid #08764d;outline-offset:2px}`;
+ document.head.append(css);
+ const previousOpen=openDetail;
+ openDetail=function(product){
+  previousOpen(product);
+  const photos=Array.isArray(product.images)?product.images.filter(Boolean):[];
+  const box=detailDialog.querySelector('.detail-photo'),main=box.querySelector('img');
+  if(!main||photos.length<2)return;
+  const strip=document.createElement('div');strip.className='gallery-thumbs';strip.setAttribute('aria-label','Product photos');
+  photos.forEach((src,index)=>{
+   const button=document.createElement('button'),thumb=document.createElement('img');
+   button.type='button';button.setAttribute('aria-label','View product photo '+(index+1));button.setAttribute('aria-pressed',String(index===0));
+   thumb.src=src;thumb.alt='';thumb.loading='lazy';button.append(thumb);
+   button.addEventListener('click',()=>{main.src=src;strip.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));});
+   strip.append(button);
+  });
+  box.append(strip);
+ };
+})();
