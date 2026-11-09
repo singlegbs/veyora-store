@@ -62,3 +62,9 @@ VariBuy product listing images; confirm usage rights before reuse.
 - `images/NASD2-36-alt1.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASD2-36D-NASCO-REFRIGERATOR.webp
 - `images/NASD2-36-alt2.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASD2-36D..webp
 - `images/NASD2-36-alt3.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/04/NASCO-NASD2-36D.webp
+### Samsung RT35CG5421S9GH refrigerator gallery
+- `images/RT35CG5421S9GH-main.webp.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/10/RT35CG5421S9GH.webp
+- `images/RT35CG5421S9GH-alt1.webp.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/10/RT35CG5421S9GH-1.webp
+- `images/RT35CG5421S9GH-alt2.webp.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/10/SAMSUNG-RT35CG5421S9GH.webp
+- `images/RT35CG5421S9GH-alt3.webp.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/10/RT35CG5421S9GH-REF.webp
+Listing: https://varibuy.com/product/samsung-345l-frost-free-top-mount-refrigerator-with-twist-ice-maker-rt35cg5421s9gh/ . Confirm usage rights before reuse.
