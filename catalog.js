@@ -166,3 +166,10 @@ for (const p of PRODUCTS) {
     p.images = ['images/NASD2-36-main.png', 'images/NASD2-36-alt1.png', 'images/NASD2-36-alt2.png', 'images/NASD2-36-alt3.png'];
   }
 }
+// Samsung refrigerator exact-model gallery, hosted locally.
+for (const p of PRODUCTS) {
+  if (p.name === 'Samsung RT35CG5421S9GH Refrigerator') {
+    p.image = 'images/RT35CG5421S9GH-main.webp.png';
+    p.images = ['images/RT35CG5421S9GH-main.webp.png', 'images/RT35CG5421S9GH-alt1.webp.png', 'images/RT35CG5421S9GH-alt2.webp.png', 'images/RT35CG5421S9GH-alt3.webp.png'];
+  }
+}
