@@ -141,3 +141,13 @@ for (const p of PRODUCTS) {
 
 // Locally hosted product image from the supplier listing.
 for (const p of PRODUCTS) if (p.name === 'Midea MDRC698FZN01 Chest Freezer') p.image = 'images/MDRC698FZN01.webp.png';
+// Locally hosted product photos.
+const imageBatchSix = {
+'Nasco NAS-425FL-G Chest Freezer': 'images/NAS-425FL-G.webp.png',
+'Midea MDRC407FZN43D Chest Freezer': 'images/MDRC407FZN43D.webp.png',
+'Nasco NAS-500FL-DD Chest Freezer': 'images/NAS-500FL-DD.webp.png',
+'Nasco NAS-380SK Chest Freezer': 'images/NAS-380SK.png',
+'Samsung WT12J4200MR Twin Tub Washer': 'images/WT12J4200MR.webp.png',
+'Midea MF110W80B/T Front Load Washer': 'images/MF110W80B-T.webp.png'
+};
+for (const p of PRODUCTS) if (imageBatchSix[p.name]) p.image = imageBatchSix[p.name];
