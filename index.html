@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#063c2d"><title>Veyora Store | Home appliances & decor</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="https://js.paystack.co/v2/inline.js"></script>
+<script defer src="products.js"></script><script defer src="store.js"></script>
+</head><body id="home">
+<header class="top"><div class="wrap header">
+<a class="brand" href="#home"><img src="photo-dcedf36b.jpg" alt="Veyora Store logo"><span>Veyora Store</span></a>
+<nav class="nav" aria-label="Main navigation"><a href="#home">Home</a><a href="#appliances" data-nav="Appliances">Appliances</a><a href="#decor" data-nav="Decor">Decor</a><a href="#contact">Contact</a></nav>
+<button class="cart-button" id="open-cart">Cart <span id="cart-count">0</span></button></div></header>
+<section class="hero"><div class="wrap"><span class="eyebrow">Thoughtful finds for everyday living</span><h1>Shop</h1><p>Make home your favourite place, with appliances and accents made for living well.</p></div></section>
+<main><div class="wrap"><div class="intro"><div><span class="eyebrow">Veyora collections</span><h2>Find your kind of home.</h2><p>Explore thoughtful essentials for every corner.</p></div></div>
+<div class="catalog"><aside class="filters"><h3>Category</h3><div class="filter-list" id="filters" aria-label="Product filters"></div></aside>
+<div class="products"><section class="product-section" id="appliances"><h3>Home Appliances</h3><div class="grid" id="appliances-grid"></div></section>
+<section class="product-section" id="decor"><h3>Home Decor</h3><div class="grid" id="decor-grid"></div></section></div></div>
+<section class="recommend"><div class="rec-head"><h2>Explore our recommendations</h2><div class="arrows"><button id="prev" aria-label="Previous recommendations">←</button><button id="next" aria-label="Next recommendations">→</button></div></div><div class="rail" id="rail"></div></section>
+<section class="banner"><div><h2>Ready to refresh your home?</h2><p>Thoughtful finds and inspiration for spaces you love.</p></div><div><form class="signup" id="signup"><label class="eyebrow" for="signup-email">Your email</label><input id="signup-email" type="email" placeholder="you@example.com" required><button>Send</button></form><p class="signup-status" id="signup-status"></p></div></section>
+</div></main>
+<footer class="footer" id="contact"><div class="wrap"><div class="footer-grid"><div><h3>Veyora Store</h3><p>Home appliances and decor for the spaces you love.</p></div><div><h3>About</h3><a href="#home">Our store</a><a href="#appliances">Shop appliances</a><a href="#decor">Shop decor</a></div><div><h3>Support</h3><a href="https://wa.me/233538181600">WhatsApp +233 53 818 1600</a><a href="mailto:bright@primeprospect.net">bright@primeprospect.net</a><p>Social media: <a href="#" aria-label="Social media placeholder">Coming soon</a></p></div></div><div class="copyright">© 2026 Veyora Store · WhatsApp +233 53 818 1600</div></div></footer>
+<dialog id="cart-dialog" aria-labelledby="cart-title"><div class="dialog-head"><h2 id="cart-title">Your cart</h2><button class="close" data-close="cart-dialog" aria-label="Close cart">×</button></div><div id="cart-items"></div><div class="total"><span>Total</span><span id="cart-total"></span></div><button class="primary full" id="cart-checkout">Checkout</button></dialog>
+<dialog id="checkout-dialog" aria-labelledby="checkout-title"><div class="dialog-head"><h2 id="checkout-title">Checkout</h2><button class="close" data-close="checkout-dialog" aria-label="Close checkout">×</button></div><p id="checkout-summary"></p><form class="checkout-form" id="checkout-form"><label for="customer-email">Email address</label><input type="email" id="customer-email" required autocomplete="email"><p class="muted">Your payment is handled securely by Paystack.</p><button class="primary full">Continue to Paystack</button></form></dialog>
+<div class="status" id="status" role="status" aria-live="polite"></div>
+</body></html>
