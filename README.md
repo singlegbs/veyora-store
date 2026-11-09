@@ -49,3 +49,10 @@ VariBuy listing images; confirm reuse rights before use.
 `images/WT12J4200MR.webp.png`: https://varibuy.com/wp-content/uploads/2023/03/WT12J4200MR-WASHER.webp
 
 `images/MF110W80B-T.webp.png`: https://varibuy.com/wp-content/uploads/2025/12/MF110W80B-T-FL-WASHING-MACHINE.webp
+
+### Additional photo credits
+VariBuy product listing images; confirm usage rights before reuse.
+- `images/50S5K-main.png`: https://varibuy.com/wp-content/uploads/2025/08/50S5K-2K-FHD-TV-1.webp
+- `images/50S5K-alt1.png`: https://varibuy.com/wp-content/uploads/2025/08/50S5K-1.webp
+- `images/50S5K-alt2.png`: https://varibuy.com/wp-content/uploads/2025/08/50S5K.webp
+- `images/NASGC-LME90I-main.png`: https://varibuy.com/wp-content/uploads/2023/04/NASGC-LME90I.webp
