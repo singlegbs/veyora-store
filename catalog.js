@@ -138,3 +138,6 @@ for (const p of PRODUCTS) {
   p.specs = 'Bottom-freezer refrigerator; model: NASD2-36.';
  }
 }
+
+// Locally hosted product image from the supplier listing.
+for (const p of PRODUCTS) if (p.name === 'Midea MDRC698FZN01 Chest Freezer') p.image = 'images/MDRC698FZN01.webp.png';
