@@ -1,10 +1,9 @@
-// PUBLIC storefront configuration. Add only the Paystack PUBLIC key at launch.
-const PAYSTACK_PUBLIC_KEY = '';
+// PUBLIC storefront configuration. TEST key only; replace with a Paystack LIVE public key before accepting real payments. Never use a secret key here.
+const PAYSTACK_PUBLIC_KEY = 'pk_test_766a0378c703db5ccdae88d83e74adf40b303db2';
 // Supabase public project URL and publishable client key: safe in browser code.
 // Never place a service-role or secret key in this file.
 const SUPABASE_URL = 'https://cbptcinonijwqnpxlann.supabase.co';
 const SUPABASE_ANON_KEY = 'sb_publishable_XMjrteHA5m08xyCfzRHslw_shG3DorM';
-
 // SAMPLE DATA ONLY: replace this entire array with real products before launch.
 // Every product, image, rating and GHS price below is a PLACEHOLDER.
 const PRODUCTS = [
