@@ -108,3 +108,22 @@ const applianceDetails = [
  /* 50 */ ['The Nasco NASGC-SNIPER50B-G cooker combines four burners with an oven in a compact format. Its glass lid helps cover the hob when not in use.','Four burners; oven; 50 × 50 cm; glass lid.']
 ];
 if (applianceDetails.length === PRODUCTS.length) PRODUCTS.forEach((p,i) => { p.description = applianceDetails[i][0]; p.specs = applianceDetails[i][1]; });
+
+// Correct or omit conflicting and unsupported specifications from the shortlist.
+const verifiedCorrections = {
+  'TCL P211FLG Front Load Washer': {description:'This TCL front-load washer offers programmes for different laundry loads. Its inverter motor and steam wash provide flexible care options.', specs:'Wash capacity: 10.5 kg; front load; inverter motor; steam wash.'},
+  'Midea MDRC698FZN01 Chest Freezer': {description:'The Midea MDRC698FZN01 offers a large chest-freezer compartment for keeping frozen food together. Its chest format makes it useful for stocking up.', specs:'Capacity: 508 L; chest freezer.'},
+  'Nasco NAS-500FL-DD Chest Freezer': {description:'The NAS-500FL-DD provides two-door access to chest-freezer storage. Keep frozen items together for home or business use.', specs:'Double-door chest freezer.'},
+  'Nasco NAS-380SK Chest Freezer': {description:'This Nasco chest freezer offers dedicated frozen storage for home or business. Its chest format keeps frozen groceries together.', specs:'Chest freezer.'},
+  'Midea MF110W80B/T Front Load Washer': {description:'Care for everyday laundry with this Midea front-load washing machine. Select from its wash programmes to suit different loads.', specs:'Wash capacity: 8 kg; front load.'},
+  'TCL 50S5K Smart TV': {description:'Watch films and entertainment on the TCL 50S5K smart TV. Its 50-inch Full HD display brings viewing into the living room.', specs:'50-inch display; Full HD; smart TV.'},
+  'Midea MDRC345FZG43 Chest Freezer': {description:'The Midea MDRC345FZG43 can switch between fridge and freezer use. Its 249-litre compartment and hovering lid help make food storage convenient.', specs:'Capacity: 249 L; convertible fridge/freezer; multi-angle hovering lid; LED light.'},
+  'Nasco NAS-250FL Chest Freezer': {description:'Stock up on frozen groceries with the Nasco NAS-250FL chest freezer. Its chest format keeps frozen items together.', specs:'Chest freezer; 2-star rating.'},
+  'Nasco NAS-200FL-G Chest Freezer': {description:'The gold Nasco NAS-200FL-G provides dedicated freezer storage for the home. Its chest format keeps frozen groceries together.', specs:'150 L stated capacity; 145 L net capacity; gold finish.'},
+  'Midea MT100W120/WG Washing Machine': {description:'This Midea twin-tub washer separates washing and spinning for hands-on laundry care. Its dual pulsator helps handle regular loads.', specs:'Wash capacity: 12 kg; twin tub; dual pulsator.'},
+  'TCL 43S5K Smart TV': {description:'Enjoy your favourite shows on the TCL 43S5K smart TV. Its 43-inch Full HD display brings entertainment into your home.', specs:'43-inch display; Full HD; smart TV.'},
+  'Nasco NAS-J50FBFL TV': {description:'The Nasco NAS-J50FBFL brings a 50-inch Full HD display to your living room. It includes digital satellite TV support.', specs:'50-inch display; Full HD; digital satellite TV.'},
+  'Midea 30AMG5G027 Cooker': {description:'Prepare meals with the Midea 30AMG5G027 gas cooker. Its five burners and grill give you space for different cooking tasks.', specs:'Five gas burners; grill; auto ignition; rotisserie.'},
+  'Samsung NX24BG45411VGH Cooker': {description:'The Samsung NX24BG45411VGH gas cooker combines four burners with a grill. Auto ignition makes lighting the hob more convenient.', specs:'Four gas burners; grill; auto ignition.'}
+};
+PRODUCTS.forEach(p => { if (verifiedCorrections[p.name]) Object.assign(p, verifiedCorrections[p.name]); });
