@@ -186,3 +186,11 @@ The four locally hosted images `images/mdrf632fgn46d-2.webp.png` through `images
 - https://varibuy.com/wp-content/uploads/2024/10/MDRF632FGN46D-REF.webp
 
 Confirm usage rights before reuse.
+
+### Nasco NASF2-400FDR and TCL C211WDG galleries
+
+`images/nasf2-400fdr-2.webp.png` is from the exact-model VariBuy listing: https://varibuy.com/product/nasco-360l-2-star-french-door-refrigerator-cross-door-fridge-freezer-combination-nasf2-400fdr/
+
+`images/c211wdg-2.webp.png`, `images/c211wdg-3.webp.png`, and `images/c211wdg-4.webp.png` are from the exact-model VariBuy listing: https://varibuy.com/product/tcl-10-5kg-6kg-dd-inverter-washer-dryer-combo-1200-rpm-dark-grey-16-programs-c211wdg/
+
+Confirm image usage rights before reuse.
