@@ -225,3 +225,8 @@ Confirm image reuse rights before use.
 - `images/samsung-wd90f22-1.webp.png` through `images/samsung-wd90f22-3.webp.png`: VariBuy exact WD90F22BCSNQ listing, https://varibuy.com/product/samsung-22kg-11kg-ai-eco-bubble-washer-dryer-wd90f22bcsnq/
 - `images/cecotec-2500-1.png`, `images/cecotec-2500-2.png`, `images/cecotec-2500-third.png`: Cecotec official A01_EU01_100467 gallery, https://cecotec.es/es/mini-lavavajillas-compactos/bolero-aguazero-2500-s-bi-black-glass
 Confirm usage rights before reuse.
+
+### Samsung RF48A4000M9/GH photo credits
+- `images/samsung-rf48a4000m9gh-1.jpg` and `images/samsung-rf48a4000m9gh-3.jpg`: Goodluck Africa exact-model listing, https://goodluckafrica.com/product/samsung-468ltr-refrigerators-4-doors-french-door-rf48a4000m9-gh/
+- `images/samsung-rf48-supplier-3.webp.png` and `images/samsung-rf48-supplier-4.webp.png`: VariBuy exact-model listing, https://varibuy.com/product/samsung-511l-4-door-french-door-refrigerator-with-twin-cooling-plus-and-digital-inverter-technology-rf48a4000m9-gh/
+Confirm image usage rights before reuse.
