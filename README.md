@@ -104,3 +104,9 @@ Confirm image usage rights before reuse.
 - `images/nas-210-1.png`: VariBuy NAS-210 listing https://varibuy.com/product/nasco-200l-chest-freezer-nas-210/ .
 
 Confirm image usage rights before reuse.
+
+### Additional Nasco product images
+- `images/nasf2-320fld-1.webp.png`: VariBuy NASF2-320FLD listing, https://varibuy.com/product/nasco-280l-3-star-top-mount-refrigerator-w-dispenser-nasf2-320fld/ ; image https://varibuy.com/wp-content/uploads/2024/06/NASF2-320FLD.webp
+- `images/NASD2-20FL-main.webp.png`: VariBuy NASD2-20FL listing, https://varibuy.com/product/nasco-158l-bottom-mount-freezer-refrigerator-nasd2-20fl/ ; image https://varibuy.com/wp-content/uploads/2023/08/NASCO-NASD2-20FL-REF.webp
+- `images/nas-200fl-g-1.webp.png`: VariBuy NAS-200FL-G listing, https://varibuy.com/product/nasco-145l-2-star-chest-freezer-nas-200fl-g/ ; image https://varibuy.com/wp-content/uploads/2024/12/NASCO-NAS-200FL-G-FREEZER.webp
+Confirm image usage rights before reuse.
