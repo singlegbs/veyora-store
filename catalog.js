@@ -325,3 +325,10 @@ for (const p of PRODUCTS) {
     p.image = p.images[0];
   }
 }
+// Exact-model Nasco air conditioner gallery, hosted locally.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NAS-J12-N1-ECO Air Conditioner') {
+    p.images = [1, 2, 3, 4].map(n => `images/nas-j12-eco-${n}.webp.png`);
+    p.image = p.images[0];
+  }
+}
