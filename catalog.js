@@ -365,3 +365,5 @@ PRODUCTS.push({
   image: 'images/tcl-xa82i-1.webp.png',
   images: ['images/tcl-xa82i-1.webp.png', 'images/tcl-xa82i-2.webp.png', 'images/tcl-tac-12csa-xa82i-angle3.jpg', 'images/tcl-tac-12csa-xa82i-angle4.jpg']
 });
+// LG ARTCOOL mirror-finish inverter air conditioner.
+PRODUCTS.push({ id:'lg-s4-q12jartb', name:'LG S4-Q12JARTB ARTCOOL 1.5HP Inverter Air Conditioner', category:'Air conditioners', subcategory:'Air conditioners', price:12999, description:'LG’s ARTCOOL split air conditioner pairs a mirror-finish front with an inverter compressor for contemporary cooling. An ioniser and smart diagnosis add practical air-care and troubleshooting functions.', specs:'Capacity: 1.5 HP; Type: split air conditioner; Compressor: dual inverter; Refrigerant: R410A; Features: ioniser, LG ThinQ, smart diagnosis; Finish: mirror glass.', image:'images/lg-s4-q12jartb-official-1.jpg', images:['images/lg-s4-q12jartb-official-1.jpg','images/lg-s4-q12jartb-official-2.jpg','images/lg-s4-q12jartb-official-3.jpg'] });
