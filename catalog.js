@@ -392,3 +392,27 @@ try {
     sessionStorage.setItem('veyora-cart', JSON.stringify(cart));
   }
 } catch (e) { /* Storage may be unavailable. */ }
+
+// Replace the earlier top-mount refrigerator with a premium side-by-side model.
+for (const product of PRODUCTS) {
+  if (product.name === 'Samsung RT35CG5421S9GH Refrigerator') {
+    Object.assign(product, {
+      id: 'samsung-rs80f65g4fgh',
+      name: 'Samsung RS80F65G4FGH Side-by-Side Refrigerator',
+      category: 'Refrigerators', subcategory: 'Refrigerators', price: 27999,
+      description: 'Give fresh and frozen food room to stay organised in this Samsung side-by-side refrigerator. Its non-plumbed ice and water dispenser brings refreshments within easy reach.',
+      specs: 'Net capacity: 609 L; Type: side-by-side; Frost-free; Digital inverter compressor; Non-plumbed water and ice dispenser; All Around Cooling; Power Cool; Power Freeze.',
+      features: ['Side-by-side storage', 'Non-plumbed ice and water dispenser', 'Digital inverter compressor', 'All Around Cooling', 'Power Cool and Power Freeze'],
+      image: 'images/samsung-rs80-front.webp.png',
+      images: ['images/samsung-rs80-front.webp.png', 'images/samsung-rs80-2.webp.png', 'images/samsung-rs80-3.webp.png']
+    });
+  }
+}
+// Do not silently substitute a different product in a returning visitor's cart.
+try {
+  const cart = JSON.parse(sessionStorage.getItem('veyora-cart') || '{}');
+  if (cart && Object.prototype.hasOwnProperty.call(cart, 'appliance-22')) {
+    delete cart['appliance-22'];
+    sessionStorage.setItem('veyora-cart', JSON.stringify(cart));
+  }
+} catch (e) { /* Storage may be unavailable. */ }
