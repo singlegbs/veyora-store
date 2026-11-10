@@ -579,3 +579,5 @@ PRODUCTS.push({
   image: 'images/bruhm-bhg90fb-1.jpg',
   images: ['images/bruhm-bhg90fb-1.jpg','images/bruhm-bhg90fb-2.jpg','images/bruhm-bhg90fb-3.jpg']
 });
+
+PRODUCTS.push({id:'corner-wing-90cm-black-hood',name:'90cm Corner Wing Black Cooker Hood Extractor',category:'Cookers',subcategory:'Cookers',price:6999,description:'Give your kitchen a bold finish with this 90cm black corner-wing extractor. Its distinctive profile adds a contemporary touch to the cooking area.',specs:'90cm; corner-wing cooker hood; electric; black finish.',features:['90cm corner-wing design','Black finish'],image:'images/corner-wing-black-hood.webp.png',images:['images/corner-wing-black-hood.webp.png']});
