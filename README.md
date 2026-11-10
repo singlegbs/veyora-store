@@ -216,3 +216,5 @@ The local images `images/samsung-rs70f65k4tgh-1.png` through `images/samsung-rs7
 - `images/nasco-j50fbfl-g-jumia.jpg`: Nasco NAS-J50FBFL-G product graphic on Jumia listing, https://www.jumia.com.gh/50-google-smart-4k-hdr-led-tv-nas-j50fbfl-g-black-nasco-mpg13389151.html .
 - `images/tcl-43s5k-official-{1,2,3}`: TCL product gallery, https://www.tcl.com/global/en/tvs/s5k .
 Confirm image reuse rights before use.
+- `images/lg-p800r3agnc-{1,2,3}.jpg`: LG official product photos, https://www.lg.com/africa/washing-machines/lg-p800r3agnc . Confirm usage rights before reuse.
+- `images/wanbo-vali1pro-{1,2,3}.png`: Wanbo official product photos, https://wanbo.cn/products/wanbo-vali-1-pro-google-tv-projector . Confirm usage rights before reuse.
