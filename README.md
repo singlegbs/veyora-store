@@ -168,3 +168,7 @@ Confirm image usage rights before reuse.
 ### Midea MDRS710FGF46D side-by-side refrigerator images
 
 The four files `images/midea-mdrs710-01.webp.png` through `images/midea-mdrs710-04.webp.png` were sourced, in order, from the VariBuy exact-model listing: https://varibuy.com/product/midea-548l-frost-free-side-by-side-refrigerator-w-led-display-water-dispenser-inverter-compressor-multi-air-flow-cooling-child-lock-bru-steel-mdrs710fgf46d-copy/ . Original images: https://varibuy.com/wp-content/uploads/2026/05/MDRS710FGF46D.webp ; https://varibuy.com/wp-content/uploads/2026/05/MDRS710FGF46D-REF.webp ; https://varibuy.com/wp-content/uploads/2026/05/MIDEA-MDRS710FGF46D.webp ; https://varibuy.com/wp-content/uploads/2026/05/MDRS710FGF46D-1.webp . Confirm image usage rights before reuse.
+
+### TCL 55T6D TV gallery
+
+`images/tcl-55t6d-02.webp.png`, `images/tcl-55t6d-03.webp.png`, and `images/tcl-55t6d-04.webp.png` are from the VariBuy exact-model listing: https://varibuy.com/product/tcl-55-t6d-premium-qled-google-tv-2026-colourful-quantum-crystal-bionic-colour-optimization-technology-hva-panel-ai-cinematic-agent-aipq-processor-dolby-vision-dolby-atmos-slim-uni-b/ . Confirm image usage rights before reuse.
