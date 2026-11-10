@@ -172,3 +172,6 @@ The four files `images/midea-mdrs710-01.webp.png` through `images/midea-mdrs710-
 ### TCL 55T6D TV gallery
 
 `images/tcl-55t6d-02.webp.png`, `images/tcl-55t6d-03.webp.png`, and `images/tcl-55t6d-04.webp.png` are from the VariBuy exact-model listing: https://varibuy.com/product/tcl-55-t6d-premium-qled-google-tv-2026-colourful-quantum-crystal-bionic-colour-optimization-technology-hva-panel-ai-cinematic-agent-aipq-processor-dolby-vision-dolby-atmos-slim-uni-b/ . Confirm image usage rights before reuse.
+
+### Nasco NAS-J12-N1-ECO air conditioner gallery
+Images `images/nas-j12-eco-1.webp.png` through `images/nas-j12-eco-4.webp.png` are from the VariBuy exact-model listing https://varibuy.com/product/nasco-1-5hp-r22-split-air-conditioner-golden-nas-j12-n1-eco/. Original images, in order: https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO-1.webp, https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO-NASCO-AC.webp, https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO.webp, https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO-AC.webp. Confirm image usage rights before reuse.
