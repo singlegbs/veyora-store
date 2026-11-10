@@ -175,3 +175,14 @@ The four files `images/midea-mdrs710-01.webp.png` through `images/midea-mdrs710-
 
 ### Nasco NAS-J12-N1-ECO air conditioner gallery
 Images `images/nas-j12-eco-1.webp.png` through `images/nas-j12-eco-4.webp.png` are from the VariBuy exact-model listing https://varibuy.com/product/nasco-1-5hp-r22-split-air-conditioner-golden-nas-j12-n1-eco/. Original images, in order: https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO-1.webp, https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO-NASCO-AC.webp, https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO.webp, https://varibuy.com/wp-content/uploads/2025/06/NAS-J12-N1-ECO-AC.webp. Confirm image usage rights before reuse.
+
+### Midea MDRF632FGN46D refrigerator gallery
+
+The four locally hosted images `images/mdrf632fgn46d-2.webp.png` through `images/mdrf632fgn46d-5.webp.png` were obtained from the exact-model VariBuy listing: https://varibuy.com/product/midea-470l-frost-free-4-door-refrigerator-w-electronic-display-424l-net-capacity-quattro-inverter-compressor-mdrf632fgn46d/ . Sources in order:
+
+- https://varibuy.com/wp-content/uploads/2024/10/MDRF632FGN46D.webp
+- https://varibuy.com/wp-content/uploads/2024/10/MIDEA-MDRF632FGN46D-1.webp
+- https://varibuy.com/wp-content/uploads/2024/10/MIDEA-MDRF632FGN46D.webp
+- https://varibuy.com/wp-content/uploads/2024/10/MDRF632FGN46D-REF.webp
+
+Confirm usage rights before reuse.
