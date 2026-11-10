@@ -245,3 +245,14 @@ for (const p of PRODUCTS) {
     p.images = [1, 2, 3, 4, 5, 6].map(n => `images/samsung-nx24-${n}.webp.png`);
   }
 }
+// Locally hosted exact-model refrigerator and cooker photographs.
+for (const p of PRODUCTS) {
+  if (p.name === 'Midea MDRT241FTGN50 Refrigerator') {
+    p.images = [1, 2, 3].map(n => `images/Midea MDRT241 view ${n}.webp.png`);
+    p.image = p.images[0];
+  }
+  if (p.name === 'Nasco NASGC-LME90B Cooker') {
+    p.image = 'images/nasgc-lme90b-source.webp.png';
+    p.images = [p.image];
+  }
+}
