@@ -339,3 +339,16 @@ for (const p of PRODUCTS) {
     p.image = p.images[0];
   }
 }
+// Exact-model Nasco refrigerator and TCL washer-dryer gallery photographs.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NASF2-400FDR French Door Refrigerator') {
+    p.images = ['images/NASF2-400FDR.webp.png', 'images/nasf2-400fdr-2.webp.png'];
+    p.image = p.images[0];
+  }
+  if (p.name === 'TCL C211WDG Washer Dryer') {
+    p.images = ['images/C211WDG.webp.png', 'images/c211wdg-2.webp.png', 'images/c211wdg-3.webp.png', 'images/c211wdg-4.webp.png'];
+    p.image = p.images[0];
+  }
+  // Supplier capacity figures conflict; omit until confirmed.
+  if (p.name === 'Midea MDRF632FGN46D 4-Door Refrigerator') p.specs = 'Four doors; frost-free; inverter compressor.';
+}
