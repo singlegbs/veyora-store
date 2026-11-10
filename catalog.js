@@ -429,3 +429,9 @@ PRODUCTS.push({
 });
 // Official TCL gallery for the exact 43S5K model.
 for (const product of PRODUCTS) { if (product.name === 'TCL 43S5K Smart TV') { product.image = 'images/tcl-43s5k-official-1.png'; product.images = ['images/tcl-43s5k-official-1.png', 'images/tcl-43s5k-official-2.webp', 'images/tcl-43s5k-official-3.webp']; } }
+
+// Owner-selected additions, priced in Ghana cedis.
+PRODUCTS.push(
+  { id: 'sunnywalk-2hp-r410', name: 'Sunnywalk 2.0HP R410 Split Air Conditioner', category: 'Air conditioners', subcategory: 'Air conditioners', price: 5899, description: 'Bring cooling to your room with this Sunnywalk split air conditioner. Its 2.0HP system pairs an indoor unit with an outdoor unit for everyday comfort.', specs: '2.0HP; split air conditioner; R410 refrigerant.', features: ['2.0HP cooling', 'Split-system design', 'R410 refrigerant'], image: 'images/sunnywalk-2hp-r410.webp.png', images: ['images/sunnywalk-2hp-r410.webp.png'] },
+  { id: 'nasco-nas-j50fbfl-g', name: 'Nasco NAS-J50FBFL-G 50-inch Google Smart TV', category: 'TVs', subcategory: 'TVs', price: 4989, description: 'Bring your favourite entertainment together on this 50-inch Nasco Google Smart TV. Browse Google Play and enjoy Netflix, YouTube and Prime Video, with Chromecast built in for streaming from compatible devices.', specs: '50-inch display; Google TV; Google Play; Chromecast built-in; Netflix; YouTube; Prime Video.', features: ['Google TV and Google Play', 'Chromecast built-in', 'Netflix, YouTube and Prime Video'], image: 'images/nasco-j50fbfl-g-jumia.jpg', images: ['images/nasco-j50fbfl-g-jumia.jpg'] }
+);
