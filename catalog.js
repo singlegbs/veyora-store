@@ -286,3 +286,12 @@ for (const p of PRODUCTS) {
   };
   if (images[p.name]) { p.image = images[p.name]; p.images = [p.image]; }
 }
+// Locally hosted exact-model product photography.
+for (const p of PRODUCTS) {
+  const galleries = {
+    'Samsung WA80F13S5CNQ Washing Machine': ['images/samsung-wa80f13s5cnq-1.png', 'images/samsung-wa80f13s5cnq-3.png', 'images/samsung-wa80f13s5cnq-dynamic.jpg'],
+    'TCL TAC-24CSA/TPH11I Air Conditioner': [1, 2, 3, 4].map(n => `images/tcl-tac-24csa-tph11i-${n}.webp.webp`),
+    'Samsung RT28HAR4DSA Refrigerator': ['images/samsung-rt28har4dsa-1.jpg']
+  };
+  if (galleries[p.name]) { p.images = galleries[p.name]; p.image = p.images[0]; }
+}
