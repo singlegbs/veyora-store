@@ -211,3 +211,9 @@ for (const p of PRODUCTS) {
     p.images = ['images/nas-210-1.png'];
   }
 }
+// Locally hosted exact-model Nasco images.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NASF2-320FLD Refrigerator') p.image = 'images/nasf2-320fld-1.webp.png';
+  if (p.name === 'Nasco NASD2-20FL Refrigerator') p.image = 'images/NASD2-20FL-main.webp.png';
+  if (p.name === 'Nasco NAS-200FL-G Chest Freezer') p.image = 'images/nas-200fl-g-1.webp.png';
+}
