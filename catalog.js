@@ -439,3 +439,43 @@ PRODUCTS.push(
 PRODUCTS.push({ id: 'lg-p800r3agnc', name: 'LG P800R3AGNC 8kg Twin Tub Washing Machine', category: 'Washing machines', subcategory: 'Washing machines', price: 4299, description: 'Make laundry day simpler with this 8kg LG twin tub washer. Wash Dynamics combines washing motions for everyday loads, while 3+1 wash programs help you select a cycle for different fabrics.', specs: 'Capacity: 8 kg; Type: twin tub; 3+1 wash programs; Wash Dynamics Technology; Wind Jet Dry.', features: ['8kg twin-tub capacity', 'Wash Dynamics Technology', '3+1 wash programs', 'Wind Jet Dry'], image: 'images/lg-p800r3agnc-1.jpg', images: ['images/lg-p800r3agnc-1.jpg', 'images/lg-p800r3agnc-2.jpg', 'images/lg-p800r3agnc-3.jpg'] });
 // Owner-selected Wanbo smart projector.
 PRODUCTS.push({ id: 'wanbo-vali-1-pro', name: 'Wanbo Vali 1 Pro Smart Projector', category: 'Projectors', subcategory: 'Projectors', price: 6249, description: 'Bring movie nights home with the Wanbo Vali 1 Pro in warm white. Google TV brings entertainment together, while MEMC motion processing and Dolby audio add to the viewing experience.', specs: 'Native resolution: Full HD 1080p; 4K content supported; Google TV 14; MEMC; Dolby audio; Memory: 2GB RAM and 32GB storage; Finish: warm white.', features: ['Full HD 1080p with 4K content support', 'Google TV 14', 'MEMC and Dolby audio', '2GB RAM and 32GB storage'], image: 'images/wanbo-vali1pro-1.png', images: ['images/wanbo-vali1pro-1.png', 'images/wanbo-vali1pro-2.png', 'images/wanbo-vali1pro-3.png'] });
+
+// Owner-selected appliances and projectors.
+PRODUCTS.push(
+  {
+    id: 'wanbo-cube-2-pro-beige-green',
+    name: 'Wanbo Cube 2 Pro Full HD Smart Projector',
+    category: 'Projectors', subcategory: 'Projectors', price: 4599,
+    description: 'Bring entertainment home with the Wanbo Cube 2 Pro in beige green. Its compact design combines Full HD projection with smart entertainment and ToF autofocus.',
+    specs: 'Native resolution: Full HD 1080p; ToF autofocus; Android TV 11; finish: beige green.',
+    features: ['Full HD 1080p projection', 'ToF autofocus', 'Android TV 11', 'Beige green finish'],
+    image: 'images/wanbo-cube2pro-beigegreen.png', images: ['images/wanbo-cube2pro-beigegreen.png']
+  },
+  {
+    id: 'samsung-sp-lsp7tuaxgh',
+    name: 'Samsung The Premiere LSP7T 4K Laser Projector',
+    category: 'Projectors', subcategory: 'Projectors', price: 46799,
+    description: 'Turn your room into a big-screen entertainment space with Samsung The Premiere. This ultra-short-throw laser projector delivers a 4K picture of up to 120 inches and brings smart entertainment to the screen.',
+    specs: 'Model: SP-LSP7TUAXGH; up to 120-inch picture; 4K UHD; ultra-short throw; laser; Smart Hub.',
+    features: ['Up to 120-inch picture', '4K laser projection', 'Ultra-short-throw design', 'Smart Hub entertainment'],
+    image: 'images/samsung-lsp7t-1.webp.png', images: ['images/samsung-lsp7t-1.webp.png', 'images/samsung-lsp7t-2.webp.png', 'images/samsung-lsp7t-3.webp.png']
+  },
+  {
+    id: 'samsung-wd90f22bcsnq',
+    name: 'Samsung WD90F22BCSNQ 22kg/11kg Bespoke AI Washer Dryer',
+    category: 'Washing machines', subcategory: 'Washing machines', price: 19999,
+    description: 'Care for large laundry loads with this dark grey Samsung Bespoke AI washer-dryer. EcoBubble and AI Wash+ combine with a 7-inch display and connected controls for a flexible laundry routine.',
+    specs: 'Wash: 22 kg; dry: 11 kg; Bespoke AI; EcoBubble; 7-inch LCD; AI Wash+; Wi-Fi; voice enabled; Speed Shot; child lock; dark grey.',
+    features: ['22kg wash and 11kg dry capacity', 'Bespoke AI and EcoBubble', '7-inch LCD and AI Wash+', 'Wi-Fi and voice enabled', 'Speed Shot and child lock'],
+    image: 'images/samsung-wd90f22-1.webp.png', images: ['images/samsung-wd90f22-1.webp.png', 'images/samsung-wd90f22-2.webp.png', 'images/samsung-wd90f22-3.webp.png']
+  },
+  {
+    id: 'cecotec-bolero-aguazero-2500-s-bi-black-glass',
+    name: 'Cecotec Bolero Aguazero 2500 S-BI Black Glass Dishwasher',
+    category: 'Dishwashers', subcategory: 'Dishwashers', price: 8999,
+    description: 'Keep the kitchen looking streamlined with this compact black-glass dishwasher. Six place settings, five programmes and touch controls make it a convenient choice for everyday dishes.',
+    specs: 'Semi-integrated compact dishwasher; 6 place settings; 1380 W; 5 programmes; touch controls; delay start; child lock; cutlery basket; black glass.',
+    features: ['Six place settings', 'Five wash programmes', 'Touch control and delay start', 'Child lock and cutlery basket'],
+    image: 'images/cecotec-2500-1.png', images: ['images/cecotec-2500-1.png', 'images/cecotec-2500-2.png', 'images/cecotec-2500-third.png']
+  }
+);
