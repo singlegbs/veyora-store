@@ -427,3 +427,5 @@ PRODUCTS.push({
   image: 'images/samsung-rs80-front.webp.png',
   images: ['images/samsung-rs80-front.webp.png', 'images/samsung-rs80-2.webp.png', 'images/samsung-rs80-3.webp.png']
 });
+// Official TCL gallery for the exact 43S5K model.
+for (const product of PRODUCTS) { if (product.name === 'TCL 43S5K Smart TV') { product.image = 'images/tcl-43s5k-official-1.png'; product.images = ['images/tcl-43s5k-official-1.png', 'images/tcl-43s5k-official-2.webp', 'images/tcl-43s5k-official-3.webp']; } }
