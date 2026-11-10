@@ -270,3 +270,10 @@ for (const p of PRODUCTS) {
     p.image = p.images[0];
   }
 }
+// Exact-model Nasco television photograph, hosted locally.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NAS-J50FBFL TV') {
+    p.images = ['images/nasco-nas-j50fbfl-1.jpg'];
+    p.image = p.images[0];
+  }
+}
