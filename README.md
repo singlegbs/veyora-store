@@ -123,3 +123,7 @@ The four images `images/midea-mdrc698fzn01-1.jpg` through `images/midea-mdrc698f
 - https://appliancitymall.com/wp-content/uploads/MIDEA-508LTRS-CHEST-FREEZER-MDRC698FZN01-SIDE-OPEN-2.jpg
 
 Confirm image usage rights before reuse.
+
+### Nasco NASF2-320FLD refrigerator gallery
+
+Images `images/nasco-nasf2-320fld-1.jpg` through `images/nasco-nasf2-320fld-4.jpg` are from Mehia's exact-model listing: https://mehia.com.gh/product/nasco-280ltr-top-mounted-freezer-nasf2-320fld/ . Confirm image usage rights before reuse.
