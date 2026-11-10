@@ -114,3 +114,12 @@ Confirm image usage rights before reuse.
 ### TCL P211FLG washer gallery
 
 `images/tcl-p211flg-1.jpg`, `images/tcl-p211flg-3.jpg`, `images/tcl-p211flg-4.jpg`, and `images/tcl-p211flg-5.jpg` are sourced from the Mehia exact-model listing: https://mehia.com.gh/product/tcl-front-load-inverter-10-5kg-washing-machine-p211flg/ . Confirm image usage rights before reuse.
+
+### Midea MDRC698FZN01 chest freezer gallery
+The four images `images/midea-mdrc698fzn01-1.jpg` through `images/midea-mdrc698fzn01-4.jpg` are from the [Appliancity exact-model listing](https://appliancitymall.com/midea-508l-chest-freezer-mdrc698fzn01/). Source images, in order:
+- https://appliancitymall.com/wp-content/uploads/MIDEA-508LTRS-CHEST-FREEZER-MDRC698FZN01-FRONT.jpg
+- https://appliancitymall.com/wp-content/uploads/MIDEA-508LTRS-CHEST-FREEZER-MDRC698FZN01-SIDE-OPEN-1.jpg
+- https://appliancitymall.com/wp-content/uploads/MIDEA-508LTRS-CHEST-FREEZER-MDRC698FZN01-FRONT-OPEN-1.jpg
+- https://appliancitymall.com/wp-content/uploads/MIDEA-508LTRS-CHEST-FREEZER-MDRC698FZN01-SIDE-OPEN-2.jpg
+
+Confirm image usage rights before reuse.
