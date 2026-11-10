@@ -318,3 +318,10 @@ try {
     sessionStorage.setItem('veyora-cart', JSON.stringify(existing));
   }
 } catch (e) { /* Storage may be unavailable. */ }
+// Locally hosted exact-model TCL 55T6D photographs.
+for (const p of PRODUCTS) {
+  if (p.name === 'TCL 55T6D QLED TV') {
+    p.images = ['images/tcl-55t6d-02.webp.png', 'images/tcl-55t6d-03.webp.png', 'images/tcl-55t6d-04.webp.png'];
+    p.image = p.images[0];
+  }
+}
