@@ -96,3 +96,4 @@ Images `images/midea-mt100w120wg-1.webp.png` through `images/midea-mt100w120wg-3
 - https://varibuy.com/wp-content/uploads/2023/06/MT100W120-WG-WASHER-1.webp
 
 Confirm image usage rights before reuse.
+- `images/samsung-wd17t6300gp-{1..5}.webp.png`: VariBuy Samsung WD17T6300GP/SP listing: https://varibuy.com/product/samsung-17kg-10kg-eco-bubble-washer-dryer-w-ai-control-air-wash-1100-rpm-hygiene-steam-wifi-embedded-smart-app-support-inox-wd17t6300gp-sp/ . Original images: https://varibuy.com/wp-content/uploads/2024/07/WD17T6300GP-SP.webp ; https://varibuy.com/wp-content/uploads/2024/07/WD17T6300GP-SP-1.webp ; https://varibuy.com/wp-content/uploads/2024/07/SAMSUNG-WD17T6300GP-SP-1.webp ; https://varibuy.com/wp-content/uploads/2024/07/WD17T6300GP-SP-SAMSUNG-WASHER-DRYER-1.webp ; https://varibuy.com/wp-content/uploads/2024/07/SAMSUNG-WD17T6300GP-SP.webp . Confirm usage rights before reuse.
