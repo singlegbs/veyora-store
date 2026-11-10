@@ -164,3 +164,7 @@ Confirm image usage rights before reuse.
 - `images/samsung-rt28har4dsa-1.jpg`: Electroland, https://electrolandgh.com/product/samsung-duracool-234ltr-top-mount-fridge/
 
 Confirm image usage rights before reuse.
+
+### Midea MDRS710FGF46D side-by-side refrigerator images
+
+The four files `images/midea-mdrs710-01.webp.png` through `images/midea-mdrs710-04.webp.png` were sourced, in order, from the VariBuy exact-model listing: https://varibuy.com/product/midea-548l-frost-free-side-by-side-refrigerator-w-led-display-water-dispenser-inverter-compressor-multi-air-flow-cooling-child-lock-bru-steel-mdrs710fgf46d-copy/ . Original images: https://varibuy.com/wp-content/uploads/2026/05/MDRS710FGF46D.webp ; https://varibuy.com/wp-content/uploads/2026/05/MDRS710FGF46D-REF.webp ; https://varibuy.com/wp-content/uploads/2026/05/MIDEA-MDRS710FGF46D.webp ; https://varibuy.com/wp-content/uploads/2026/05/MDRS710FGF46D-1.webp . Confirm image usage rights before reuse.
