@@ -263,3 +263,10 @@ for (const p of PRODUCTS) {
     p.image = p.images[0];
   }
 }
+// Exact-model Midea cooker photographs, hosted locally.
+for (const p of PRODUCTS) {
+  if (p.name === 'Midea 30AMG5G027 Cooker') {
+    p.images = ['images/midea-30amg5g027-1.jpg', 'images/midea-30amg5g027-4.jpg'];
+    p.image = p.images[0];
+  }
+}
