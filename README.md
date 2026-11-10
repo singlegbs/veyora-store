@@ -127,3 +127,7 @@ Confirm image usage rights before reuse.
 ### Nasco NASF2-320FLD refrigerator gallery
 
 Images `images/nasco-nasf2-320fld-1.jpg` through `images/nasco-nasf2-320fld-4.jpg` are from Mehia's exact-model listing: https://mehia.com.gh/product/nasco-280ltr-top-mounted-freezer-nasf2-320fld/ . Confirm image usage rights before reuse.
+
+### Samsung NX24BG45411VGH cooker gallery
+
+Images `images/samsung-nx24-1.webp.png` through `images/samsung-nx24-6.webp.png` were sourced in order from VariBuy's exact-model listing: https://varibuy.com/product/samsung-4-burner-50x60-gas-cooker-w-grill-auto-ignition-silver-nx24bg45411vgh/. Confirm image usage rights before reuse.
