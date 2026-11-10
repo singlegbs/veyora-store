@@ -523,3 +523,17 @@ PRODUCTS.push({
     'https://images.samsung.com/is/image/samsung/p6pim/ae/lh75wafplgcxue/gallery/ae-wafx-p-lh75wafplgcxue-548877124?$Q90_684_547_JPG$'
   ]
 });
+// Owner-selected Candy island cooker hood; manufacturer images.
+PRODUCTS.push({
+  id: 'candy-cvmi970lx', name: 'Candy CVMI-970LX 90cm Island Cooker Hood',
+  category: 'Cookers', subcategory: 'Cookers', price: 7999,
+  description: 'Create a polished kitchen centrepiece with this 90cm Candy island cooker hood. Its stainless-steel finish, LED lighting and three extraction speeds bring practical control to your cooking space.',
+  specs: 'Model: CVMI970LX; 90cm island cooker hood; stainless steel; button control; three speeds; LED lighting; aluminium grease filter.',
+  features: ['90cm island design', 'Stainless-steel finish', 'Three extraction speeds', 'LED lighting and button controls'],
+  image: 'https://www.candy-home.com/h-image/haier-product/2024/8/17225275/1_36900382_19_01_l_cvm670lx-M.jpg?w=1000&h=742&f=jpeg&q=80&s=HVfxHm_k4JydsnQ8',
+  images: [
+    'https://www.candy-home.com/h-image/haier-product/2024/8/17225275/1_36900382_19_01_l_cvm670lx-M.jpg?w=1000&h=742&f=jpeg&q=80&s=HVfxHm_k4JydsnQ8',
+    'https://www.candy-home.com/h-image/haier-product/2024/8/17225285/1_36900382_19_02_l_cvm670lx-32238-M.jpg?w=1000&h=743&f=jpeg&q=80&s=DZ-c-vaHjPR957QG',
+    'https://www.candy-home.com/h-image/haier-product/2024/8/17225285/1_36900382_19_03_p_cvm670lx-90148-M.jpg?w=982&h=1000&f=jpeg&q=80&s=FwNLr-X7M3KYEZ7-'
+  ]
+});
