@@ -549,3 +549,5 @@ PRODUCTS.push({
   image: 'images/sunnywalk-55-smart-tv.webp.png',
   images: ['images/sunnywalk-55-smart-tv.webp.png']
 });
+// TCL TAC-48CHFA/FHI: official exact-model product photography.
+PRODUCTS.push({id:'tcl-tac-48chfa-fhi',name:'TCL TAC-48CHFA/FHI 5HP Inverter Floor Standing Air Conditioner',category:'Air conditioners',subcategory:'Air conditioners',price:23999,description:'Keep larger spaces comfortable with this floor-standing TCL air conditioner. Its inverter design, touch controls and long airflow combine flexible operation with a sleek upright profile.',specs:'Model: TAC-48CHFA/FHI; 5HP; floor-standing; inverter; R410 refrigerant; touch control; remote control.',features:['5HP floor-standing cooling','Inverter technology','Touch controls and remote','Long airflow'],image:'images/tcl-48chfa-1.png',images:['images/tcl-48chfa-1.png','images/tcl-48chfa-2.png','images/tcl-48chfa-3.png']});
