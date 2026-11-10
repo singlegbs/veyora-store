@@ -186,3 +186,5 @@ for (const p of PRODUCTS) {
     p.images = ['images/nasf2-250fld-1.png', 'images/nasf2-250fld-2.png', 'images/nasf2-250fld-3.png', 'images/nasf2-250fld-4.png', 'images/nasf2-250fld-5.png'];
   }
 }
+// Locally hosted Midea MT100W120/WG exact-model gallery.
+for (const p of PRODUCTS) { if (p.name === 'Midea MT100W120/WG Washing Machine') { p.image = 'images/midea-mt100w120wg-1.webp.png'; p.images = ['images/midea-mt100w120wg-1.webp.png', 'images/midea-mt100w120wg-2.webp.png', 'images/midea-mt100w120wg-3.webp.png']; } }
