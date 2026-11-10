@@ -204,3 +204,7 @@ Confirm image usage rights before reuse.
 
 - `images/lg-s4-q12jartb-official-{1,2,3}.jpg`: LG S4-Q12JARTB product gallery, https://www.lg.com/africa/residential-air-conditioners/lg-s4-q12jartb . Confirm usage rights before reuse.
 - 
+
+### Samsung RS70F65K4TGH refrigerator gallery
+
+The local images `images/samsung-rs70f65k4tgh-1.png` through `images/samsung-rs70f65k4tgh-3.png` are from Ghanaye Premier's exact-model listing https://ghanayepremier.com/?product=samsung-635l-side-by-side-refrigerator-rs70f65k4tgh . Source images in order: https://ghanayepremier.com/wp-content/uploads/2026/02/Samsung-Side-By-Side-Refrigerator-RS70F65K4TGH-1.png ; https://ghanayepremier.com/wp-content/uploads/2026/02/Samsung-Side-By-Side-Refrigerator-RS70F65K4TGH-3.png ; https://ghanayepremier.com/wp-content/uploads/2026/02/Samsung-Side-By-Side-Refrigerator-RS70F65K4TGH-2.png . Confirm image usage rights before reuse.
