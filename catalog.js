@@ -231,3 +231,10 @@ for (const p of PRODUCTS) {
     p.images = [1, 2, 3, 4].map(n => `images/midea-mdrc698fzn01-${n}.jpg`);
   }
 }
+// Exact-model Nasco NASF2-320FLD refrigerator gallery, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NASF2-320FLD Refrigerator') {
+    p.image = 'images/nasco-nasf2-320fld-1.jpg';
+    p.images = [1, 2, 3, 4].map(n => `images/nasco-nasf2-320fld-${n}.jpg`);
+  }
+}
