@@ -140,3 +140,6 @@ Images `images/samsung-nx24-1.webp.png` through `images/samsung-nx24-6.webp.png`
 - `images/nasgc-lme90b-source.webp.png`: VariBuy exact-model listing https://varibuy.com/product/nasco-90x60-5-burner-gas-cooker-w-grill-black-nasgc-lme90b/
 
 Confirm usage rights before reuse.
+### Nasco NAS-400FL-G freezer gallery
+
+The four locally hosted images `images/nas-400fl-g-1.jpg`, `images/nas-400fl-g-view3.jpg`, `images/nas-400fl-g-view4.jpg` and `images/nas-400fl-g-view5.jpg` are from CompuGhana's exact-model listing https://compughana.com/products/nasco-nas-400fl-g-288l-chest-freezer-golden. Original images: https://compughana.com/cdn/shop/files/project_79.jpg?v=1772536464&width=600, https://compughana.com/cdn/shop/files/project_81.jpg?v=1772536463&width=600, https://compughana.com/cdn/shop/files/project_82.jpg?v=1772536463&width=600 and https://compughana.com/cdn/shop/files/project_83.jpg?v=1772536464&width=600. Confirm usage rights before reuse.
