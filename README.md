@@ -68,3 +68,12 @@ VariBuy product listing images; confirm usage rights before reuse.
 - `images/RT35CG5421S9GH-alt2.webp.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/10/SAMSUNG-RT35CG5421S9GH.webp
 - `images/RT35CG5421S9GH-alt3.webp.png`: VariBuy listing, https://varibuy.com/wp-content/uploads/2023/10/RT35CG5421S9GH-REF.webp
 Listing: https://varibuy.com/product/samsung-345l-frost-free-top-mount-refrigerator-with-twist-ice-maker-rt35cg5421s9gh/ . Confirm usage rights before reuse.
+
+### Midea MF110W80B/T washer gallery
+Images `images/MF110W80B-T-gallery-1.webp.png` through `images/MF110W80B-T-gallery-5.webp.png` were sourced from VariBuy's exact-model product listing: https://varibuy.com/product/midea-8kg-front-load-washing-machine-bldc-inverter-motor-1400-rpm-15-programs-lunar-dial-integrated-digital-control-led-display-panel-mf110w80b-t/. The respective source images are:
+- https://varibuy.com/wp-content/uploads/2025/12/MIDEA-MF110W80B-T-FL-WASHING-MACHINE.webp
+- https://varibuy.com/wp-content/uploads/2025/12/MF110W80B-T-1.webp
+- https://varibuy.com/wp-content/uploads/2025/12/MF110W80B-T.webp
+- https://varibuy.com/wp-content/uploads/2025/12/MIDEA-MF110W80B-T.webp
+- https://varibuy.com/wp-content/uploads/2025/12/MIDEA-MF110W80B-T-WASHER-1.webp
+Confirm image usage rights before reuse.
