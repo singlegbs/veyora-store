@@ -233,3 +233,4 @@ Confirm image usage rights before reuse.
 - `images/tcl75c6k-official.png`: TCL 75C6K manufacturer support page, https://www.tcl.com/westafrica/en/support/model/75c6k.
 - `images/tcl-75c6k-side-1.png` and `images/tcl-75c6k-side-2.png`: Electroland exact-model 75C6K gallery, https://electrolandgh.com/product/tcl-75-qd-mini-4k-television/. Confirm usage rights before reuse.
 - `images/midea-msaf-12crn1-official.png`: Midea official exact-model photo, https://www.midea.com/ng/air-conditioners/split-aircons/r410-forest-fixed-speed-split-air-conditioner.msaf-12crni. Confirm reuse rights.
+- `images/midea-msaf-18crn1-official.png`: Midea official exact-model photo, https://www.midea.com/ng/air-conditioners/split-aircons/r410-forest-fixed-speed-split-air-conditioner.msaf-18crni. Confirm reuse rights.
