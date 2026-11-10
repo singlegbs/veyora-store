@@ -277,3 +277,12 @@ for (const p of PRODUCTS) {
     p.image = p.images[0];
   }
 }
+// Locally hosted exact-model Midea appliance photographs.
+for (const p of PRODUCTS) {
+  const images = {
+    'Midea MSAF24C-18CRDN1-R32 Inverter AC': 'images/midea-msaf24c-18crdn1-r32.png',
+    'Midea MSAF24B-12CRDN1-R32 Inverter AC': 'images/midea-msaf24b-12crdn1-r32.png',
+    'Midea MDRC345FZG43 Chest Freezer': 'images/midea-mdrc345fzg43-1.webp.png'
+  };
+  if (images[p.name]) { p.image = images[p.name]; p.images = [p.image]; }
+}
