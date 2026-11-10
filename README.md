@@ -194,3 +194,10 @@ Confirm usage rights before reuse.
 `images/c211wdg-2.webp.png`, `images/c211wdg-3.webp.png`, and `images/c211wdg-4.webp.png` are from the exact-model VariBuy listing: https://varibuy.com/product/tcl-10-5kg-6kg-dd-inverter-washer-dryer-combo-1200-rpm-dark-grey-16-programs-c211wdg/
 
 Confirm image usage rights before reuse.
+
+### TCL TAC-12CSA/XA82I air conditioner gallery
+- `images/tcl-xa82i-1.webp.png`: VariBuy exact-model listing, https://varibuy.com/wp-content/uploads/2023/07/TAC-12CSA-XA82I-1.webp
+- `images/tcl-xa82i-2.webp.png`: VariBuy exact-model listing, https://varibuy.com/wp-content/uploads/2023/07/TAC-12CSA-XA82I.webp
+- `images/tcl-tac-12csa-xa82i-angle3.jpg`: Omek Gigs exact-model listing, https://api.omekgh.com/wp-content/uploads/2026/10/tcl-1-5hp-inverter-split-air-conditioner-black-mirror-r410-t-3.png
+- `images/tcl-tac-12csa-xa82i-angle4.jpg`: Omek Gigs exact-model listing, https://api.omekgh.com/wp-content/uploads/2026/10/tcl-1-5hp-inverter-split-air-conditioner-black-mirror-r410-t-4.png
+Confirm image usage rights before reuse.
