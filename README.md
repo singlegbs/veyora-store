@@ -234,3 +234,8 @@ Confirm image usage rights before reuse.
 - `images/tcl-75c6k-side-1.png` and `images/tcl-75c6k-side-2.png`: Electroland exact-model 75C6K gallery, https://electrolandgh.com/product/tcl-75-qd-mini-4k-television/. Confirm usage rights before reuse.
 - `images/midea-msaf-12crn1-official.png`: Midea official exact-model photo, https://www.midea.com/ng/air-conditioners/split-aircons/r410-forest-fixed-speed-split-air-conditioner.msaf-12crni. Confirm reuse rights.
 - `images/midea-msaf-18crn1-official.png`: Midea official exact-model photo, https://www.midea.com/ng/air-conditioners/split-aircons/r410-forest-fixed-speed-split-air-conditioner.msaf-18crni. Confirm reuse rights.
+
+### Midea MDRS925CIM46M and Bruhm BHG-90FB galleries
+- `images/midea-mdrs925cim46m-{1,2,3,4}.webp.png`: VariBuy exact-model listing https://varibuy.com/product/midea-700l-4-star-frost-free-side-by-side-refrigerator-spacemaster-built-in-pitcher-auto-ice-maker-smart-home-connected-mdrs925cim46m/
+- `images/bruhm-bhg90fb-{1,2,3}.jpg`: Bruhm official exact-model gallery https://bruhm.com/gh/cooking/hood/90cm-hood/90cm-cooker-hood
+Confirm image usage rights before reuse.
