@@ -242,3 +242,6 @@ Confirm image usage rights before reuse.
 
 - `images/corner-wing-black-hood.webp.png`: VariBuy product listing, https://varibuy.com/product/90cm-corner-wing-black-hood-extractor/ . Confirm usage rights before reuse.
 - TCL F711TL gallery: Electroland, https://electrolandgh.com/product/tcl-top-load-washing-machine-11kg/ . The retailer title states 10.5 kg; its F711TL feature graphic states 11 kg. Confirm usage rights before reuse.
+
+### TCL 85C6K television gallery
+`images/tcl-85c6k-1.png`, `images/tcl-85c6k-2.webp`, and `images/tcl-85c6k-3.webp`: TCL official exact-model gallery, https://www.tcl.com/global/en/tvs/85c6k. Confirm image usage rights before reuse.
