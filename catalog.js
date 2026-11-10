@@ -581,3 +581,5 @@ PRODUCTS.push({
 });
 
 PRODUCTS.push({id:'corner-wing-90cm-black-hood',name:'90cm Corner Wing Black Cooker Hood Extractor',category:'Cookers',subcategory:'Cookers',price:6999,description:'Give your kitchen a bold finish with this 90cm black corner-wing extractor. Its distinctive profile adds a contemporary touch to the cooking area.',specs:'90cm; corner-wing cooker hood; electric; black finish.',features:['90cm corner-wing design','Black finish'],image:'images/corner-wing-black-hood.webp.png',images:['images/corner-wing-black-hood.webp.png']});
+// TCL F711TL retailer gallery, model identified on the source listing.
+{ const item = PRODUCTS.find(p => p.name === 'TCL F711TL Washing Machine'); if (item) { item.image = 'images/tcl-f711tl-electroland-1.webp.webp'; item.images = ['images/tcl-f711tl-electroland-1.webp.webp','images/tcl-f711tl-electroland-2.webp.webp','images/tcl-f711tl-electroland-3.webp.webp']; } }
