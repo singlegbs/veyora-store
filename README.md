@@ -209,3 +209,10 @@ Confirm image usage rights before reuse.
 
 The local images `images/samsung-rs70f65k4tgh-1.png` through `images/samsung-rs70f65k4tgh-3.png` are from Ghanaye Premier's exact-model listing https://ghanayepremier.com/?product=samsung-635l-side-by-side-refrigerator-rs70f65k4tgh . Source images in order: https://ghanayepremier.com/wp-content/uploads/2026/02/Samsung-Side-By-Side-Refrigerator-RS70F65K4TGH-1.png ; https://ghanayepremier.com/wp-content/uploads/2026/02/Samsung-Side-By-Side-Refrigerator-RS70F65K4TGH-3.png ; https://ghanayepremier.com/wp-content/uploads/2026/02/Samsung-Side-By-Side-Refrigerator-RS70F65K4TGH-2.png . Confirm image usage rights before reuse.
 - Samsung RS80F65G4FGH photographs: VariBuy product listing. `images/samsung-rs80-front.webp.png`: https://varibuy.com/wp-content/uploads/2025/07/SAMSUNG-RS80F65G4FGH-REFRIGERATOR.webp ; `images/samsung-rs80-2.webp.png`: https://varibuy.com/wp-content/uploads/2025/07/RS80F65G4FGH.webp ; `images/samsung-rs80-3.webp.png`: https://varibuy.com/wp-content/uploads/2025/07/SAMSUNG-RS80F65G4FGH-1.webp . Confirm usage rights before reuse.
+
+### Owner-selected product image sources
+- `images/sunnywalk-2hp-r410.webp.png`: VariBuy Sunnywalk 2.0HP R410 split AC listing, https://varibuy.com/product/sunnywalk-2-0hp-r410-split-air-conditioner/ .
+- `images/sunnywalk-55-smart-tv.webp.png`: VariBuy Sunnywalk 55-inch 4K Android Smart TV listing, https://varibuy.com/product/sunnywalk-55-4k-ultra-hd-android-smart-bezel-less-tv-w-bluetooth-connectivity/ .
+- `images/nasco-j50fbfl-g-jumia.jpg`: Nasco NAS-J50FBFL-G product graphic on Jumia listing, https://www.jumia.com.gh/50-google-smart-4k-hdr-led-tv-nas-j50fbfl-g-black-nasco-mpg13389151.html .
+- `images/tcl-43s5k-official-{1,2,3}`: TCL product gallery, https://www.tcl.com/global/en/tvs/s5k .
+Confirm image reuse rights before use.
