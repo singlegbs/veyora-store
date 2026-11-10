@@ -179,3 +179,10 @@ for (const p of PRODUCTS) {
     p.images = ['images/MF110W80B-T.webp.png', 'images/MF110W80B-T-gallery-1.webp.png', 'images/MF110W80B-T-gallery-2.webp.png', 'images/MF110W80B-T-gallery-3.webp.png', 'images/MF110W80B-T-gallery-4.webp.png', 'images/MF110W80B-T-gallery-5.webp.png'];
   }
 }
+// Nasco refrigerator exact-model gallery, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NASF2-250FLD Refrigerator') {
+    p.image = 'images/nasf2-250fld-1.png';
+    p.images = ['images/nasf2-250fld-1.png', 'images/nasf2-250fld-2.png', 'images/nasf2-250fld-3.png', 'images/nasf2-250fld-4.png', 'images/nasf2-250fld-5.png'];
+  }
+}
