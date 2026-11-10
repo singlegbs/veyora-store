@@ -537,3 +537,15 @@ PRODUCTS.push({
     'https://www.candy-home.com/h-image/haier-product/2024/8/17225285/1_36900382_19_03_p_cvm670lx-90148-M.jpg?w=982&h=1000&f=jpeg&q=80&s=FwNLr-X7M3KYEZ7-'
   ]
 });
+
+// Owner-selected Sunnywalk 55-inch Android television.
+PRODUCTS.push({
+  id: 'sunnywalk-55-android-tv',
+  name: 'Sunnywalk 55-inch 4K UHD Android Smart TV',
+  category: 'TVs', subcategory: 'TVs', price: 6299,
+  description: 'Enjoy big-screen entertainment with this 55-inch Sunnywalk Android Smart TV. Its bezel-less design and Bluetooth connectivity bring flexible viewing to your living space.',
+  specs: '55-inch; 4K UHD; Android 12; bezel-less design; Bluetooth.',
+  features: ['55-inch 4K UHD display', 'Android 12 Smart TV', 'Bezel-less design', 'Bluetooth connectivity'],
+  image: 'images/sunnywalk-55-smart-tv.webp.png',
+  images: ['images/sunnywalk-55-smart-tv.webp.png']
+});
