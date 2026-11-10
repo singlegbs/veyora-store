@@ -150,3 +150,8 @@ The four locally hosted images `images/nas-400fl-g-1.jpg`, `images/nas-400fl-g-v
 ### Nasco NAS-J50FBFL television photograph
 
 `images/nasco-nas-j50fbfl-1.jpg` is from Electroland's exact-model listing https://electrolandgh.com/product/nasco-50%E2%80%B3-led-digital-satellite-tv-nas-j50fbfl/ . Original image: https://electrolandgh.com/wp-content/uploads/2025/02/NAS-J50FBFL-1-scaled-1-1024x1024.jpg . Confirm image usage rights before reuse.
+
+### Additional Midea appliance photos
+- `images/midea-msaf24c-18crdn1-r32.png` and `images/midea-msaf24b-12crdn1-r32.png`: Electroland exact-model listing https://electrolandgh.com/product/midea-unicool-inverter-air-condition/ ; originals https://electrolandgh.com/wp-content/uploads/2026/01/MSAF24C-18CRDN1-R32-1-1-1024x1024.png and https://electrolandgh.com/wp-content/uploads/2026/01/MSAF24B-12CRDN1-R32-L-1024x1024.png .
+- `images/midea-mdrc345fzg43-1.webp.png`: VariBuy exact-model listing https://varibuy.com/product/midea-249l-chest-freezer-mdrc345fzg43/ ; original https://varibuy.com/wp-content/uploads/2023/05/MIDEA-MDRC345FZG43-FREEZER.webp .
+Confirm image usage rights before reuse.
