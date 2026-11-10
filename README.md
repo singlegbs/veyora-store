@@ -77,3 +77,12 @@ Images `images/MF110W80B-T-gallery-1.webp.png` through `images/MF110W80B-T-galle
 - https://varibuy.com/wp-content/uploads/2025/12/MIDEA-MF110W80B-T.webp
 - https://varibuy.com/wp-content/uploads/2025/12/MIDEA-MF110W80B-T-WASHER-1.webp
 Confirm image usage rights before reuse.
+
+### Nasco NASF2-250FLD refrigerator gallery
+The five images `images/nasf2-250fld-1.png` through `images/nasf2-250fld-5.png` are sourced in order from the VariBuy exact-model listing https://varibuy.com/product/nasco-210l-2-star-top-mount-refrigerator-w-water-dispenser-nasf2-250fld/:
+- https://varibuy.com/wp-content/uploads/2024/10/NASF2-250FLD-DD-REF.webp
+- https://varibuy.com/wp-content/uploads/2024/10/NASF2-250FLD-REFRIGERATOR-WITH-DISPENSER-1.webp
+- https://varibuy.com/wp-content/uploads/2024/10/NASF2-250FLD-REF.webp
+- https://varibuy.com/wp-content/uploads/2024/10/NASCO-NASF2-250FLD-REF.webp
+- https://varibuy.com/wp-content/uploads/2024/10/NASCO-NASF2-250FLD.webp
+Confirm image usage rights before reuse.
