@@ -196,3 +196,18 @@ for (const p of PRODUCTS) {
     p.images = [1, 2, 3, 4, 5].map(n => `images/samsung-wd17t6300gp-${n}.webp.png`);
   }
 }
+// Locally hosted exact-model Nasco appliance photos.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NASD2-24FL Refrigerator') {
+    p.image = 'images/nasd2-24fl-1.webp.png';
+    p.images = ['images/nasd2-24fl-1.webp.png', 'images/nasd2-24fl-3.webp.png', 'images/nasd2-24fl-4.webp.png', 'images/nasd2-24fl-5.webp.png'];
+  }
+  if (p.name === 'Nasco NAS-250FL Chest Freezer') {
+    p.image = 'images/nas-250fl-1.webp.png';
+    p.images = ['images/nas-250fl-1.webp.png', 'images/nas-250fl-2.webp.png'];
+  }
+  if (p.name === 'Nasco NAS-210 Chest Freezer') {
+    p.image = 'images/nas-210-1.png';
+    p.images = ['images/nas-210-1.png'];
+  }
+}
