@@ -12,3 +12,15 @@ dialog{border:0;border-radius:16px;padding:24px;width:min(480px,calc(100% - 32px
 a, button, [role="button"], input, select, textarea { -webkit-tap-highlight-color: transparent; }
 :is(a, button, [role="button"], input, select, textarea):focus:not(:focus-visible) { outline: none !important; }
 :is(a, button, [role="button"], input, select, textarea):focus-visible { outline: 3px solid #168653 !important; outline-offset: 3px; }
+
+/* Keep product imagery and card actions aligned while the catalog loads. */
+.hero { background-color: #00382a; }
+.grid .card, .rail .card { display: flex; flex-direction: column; min-width: 0; }
+.grid .card .buttons, .rail .card .buttons { margin-top: auto; }
+.photo { width: 100%; aspect-ratio: 1 / 1; }
+.photo img { object-fit: contain; }
+.grid, .rail, .detail-photo { min-width: 0; }
+@media (prefers-reduced-motion: no-preference) {
+  .photo img { animation: veyora-image-in .28s ease-out both; }
+  @keyframes veyora-image-in { from { opacity: .5; } to { opacity: 1; } }
+}
