@@ -173,3 +173,9 @@ for (const p of PRODUCTS) {
     p.images = ['images/RT35CG5421S9GH-main.webp.png', 'images/RT35CG5421S9GH-alt1.webp.png', 'images/RT35CG5421S9GH-alt2.webp.png', 'images/RT35CG5421S9GH-alt3.webp.png'];
   }
 }
+// Exact-model Midea washer gallery, hosted locally.
+for (const p of PRODUCTS) {
+  if (p.name === 'Midea MF110W80B/T Front Load Washer') {
+    p.images = ['images/MF110W80B-T.webp.png', 'images/MF110W80B-T-gallery-1.webp.png', 'images/MF110W80B-T-gallery-2.webp.png', 'images/MF110W80B-T-gallery-3.webp.png', 'images/MF110W80B-T-gallery-4.webp.png', 'images/MF110W80B-T-gallery-5.webp.png'];
+  }
+}
