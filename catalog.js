@@ -367,3 +367,28 @@ PRODUCTS.push({
 });
 // LG ARTCOOL mirror-finish inverter air conditioner.
 PRODUCTS.push({ id:'lg-s4-q12jartb', name:'LG S4-Q12JARTB ARTCOOL 1.5HP Inverter Air Conditioner', category:'Air conditioners', subcategory:'Air conditioners', price:12999, description:'LG’s ARTCOOL split air conditioner pairs a mirror-finish front with an inverter compressor for contemporary cooling. An ioniser and smart diagnosis add practical air-care and troubleshooting functions.', specs:'Capacity: 1.5 HP; Type: split air conditioner; Compressor: dual inverter; Refrigerant: R410A; Features: ioniser, LG ThinQ, smart diagnosis; Finish: mirror glass.', image:'images/lg-s4-q12jartb-official-1.jpg', images:['images/lg-s4-q12jartb-official-1.jpg','images/lg-s4-q12jartb-official-2.jpg','images/lg-s4-q12jartb-official-3.jpg'] });
+
+// Replace the earlier side-by-side selection with a competitively priced premium model.
+for (const product of PRODUCTS) {
+  if (product.id === 'midea-mdrs710fgf46d') {
+    Object.assign(product, {
+      id: 'samsung-rs70f65k4tgh',
+      name: 'Samsung RS70F65K4TGH 635L Side-by-Side Refrigerator',
+      category: 'Refrigerators',
+      subcategory: 'Refrigerators',
+      price: 19999,
+      description: 'Organise fresh and frozen groceries side by side in this spacious Samsung refrigerator. Its non-plumbed water and ice dispenser puts refreshment within easy reach.',
+      specs: 'Capacity: 635 L; Type: side-by-side; Defrost: frost-free; Compressor: digital inverter; Water and ice dispenser: non-plumbed; SpaceMax technology.',
+      image: 'images/samsung-rs70f65k4tgh-1.png',
+      images: ['images/samsung-rs70f65k4tgh-1.png', 'images/samsung-rs70f65k4tgh-2.png', 'images/samsung-rs70f65k4tgh-3.png']
+    });
+  }
+}
+// Remove the retired item's cart entry instead of silently changing it to another product.
+try {
+  const cart = JSON.parse(sessionStorage.getItem('veyora-cart') || '{}');
+  if (cart && Object.prototype.hasOwnProperty.call(cart, 'midea-mdrs710fgf46d')) {
+    delete cart['midea-mdrs710fgf46d'];
+    sessionStorage.setItem('veyora-cart', JSON.stringify(cart));
+  }
+} catch (e) { /* Storage may be unavailable. */ }
