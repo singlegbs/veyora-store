@@ -230,3 +230,5 @@ Confirm usage rights before reuse.
 - `images/samsung-rf48a4000m9gh-1.jpg` and `images/samsung-rf48a4000m9gh-3.jpg`: Goodluck Africa exact-model listing, https://goodluckafrica.com/product/samsung-468ltr-refrigerators-4-doors-french-door-rf48a4000m9-gh/
 - `images/samsung-rf48-supplier-3.webp.png` and `images/samsung-rf48-supplier-4.webp.png`: VariBuy exact-model listing, https://varibuy.com/product/samsung-511l-4-door-french-door-refrigerator-with-twin-cooling-plus-and-digital-inverter-technology-rf48a4000m9-gh/
 Confirm image usage rights before reuse.
+- `images/tcl75c6k-official.png`: TCL 75C6K manufacturer support page, https://www.tcl.com/westafrica/en/support/model/75c6k.
+- `images/tcl-75c6k-side-1.png` and `images/tcl-75c6k-side-2.png`: Electroland exact-model 75C6K gallery, https://electrolandgh.com/product/tcl-75-qd-mini-4k-television/. Confirm usage rights before reuse.
