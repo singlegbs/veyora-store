@@ -238,3 +238,10 @@ for (const p of PRODUCTS) {
     p.images = [1, 2, 3, 4].map(n => `images/nasco-nasf2-320fld-${n}.jpg`);
   }
 }
+// Exact-model Samsung cooker photographs, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'Samsung NX24BG45411VGH Cooker') {
+    p.image = 'images/samsung-nx24-1.webp.png';
+    p.images = [1, 2, 3, 4, 5, 6].map(n => `images/samsung-nx24-${n}.webp.png`);
+  }
+}
