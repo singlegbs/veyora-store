@@ -491,3 +491,19 @@ PRODUCTS.push({
   image: 'images/samsung-rf48a4000m9gh-1.jpg',
   images: ['images/samsung-rf48a4000m9gh-1.jpg', 'images/samsung-rf48a4000m9gh-3.jpg', 'images/samsung-rf48-supplier-3.webp.png', 'images/samsung-rf48-supplier-4.webp.png']
 });
+
+// Owner-selected Beko cooker hood; product images from Beko.
+PRODUCTS.push({
+  id: 'beko-bhcb61622bxh',
+  name: 'Beko BHCB61622BXH 60cm Stainless Steel Cooker Hood',
+  category: 'Cookers', subcategory: 'Cookers', price: 3699,
+  description: 'Give your kitchen a streamlined finish with this 60cm stainless-steel Beko cooker hood. Three speeds, LED illumination and dishwasher-safe filters make everyday cooking easier.',
+  specs: 'Model: BHCB61622BXH; 60 cm; stainless steel; wall-mounted; 3 speeds; LED illumination; dishwasher-safe filters; ducted or recirculation operation.',
+  features: ['60cm stainless-steel design', 'Three power levels', 'LED illumination', 'Dishwasher-safe filters', 'Ducted or recirculation operation'],
+  image: 'https://www.beko.com/content/dam/croatia-hr-aem/croatia-hr-aemProductCatalog/product-images/7703331104-BHCB61622BXH/7703331104-LO1-20220729-124040.png',
+  images: [
+    'https://www.beko.com/content/dam/croatia-hr-aem/croatia-hr-aemProductCatalog/product-images/7703331104-BHCB61622BXH/7703331104-LO1-20220729-124040.png',
+    'https://www.beko.com/content/dam/croatia-hr-aem/croatia-hr-aemProductCatalog/product-images/7703331104-BHCB61622BXH/7703331104-LO2-20220729-124051.png',
+    'https://www.beko.com/content/dam/croatia-hr-aem/croatia-hr-aemProductCatalog/product-images/7703331104-BHCB61622BXH/7703331104-LO3-20220117-100011.png'
+  ]
+});
