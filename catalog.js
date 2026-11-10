@@ -256,3 +256,10 @@ for (const p of PRODUCTS) {
     p.images = [p.image];
   }
 }
+// Exact-model Nasco NAS-400FL-G photographs, hosted locally.
+for (const p of PRODUCTS) {
+  if (p.name === 'Nasco NAS-400FL-G Chest Freezer') {
+    p.images = ['images/nas-400fl-g-1.jpg', 'images/nas-400fl-g-view3.jpg', 'images/nas-400fl-g-view4.jpg', 'images/nas-400fl-g-view5.jpg'];
+    p.image = p.images[0];
+  }
+}
