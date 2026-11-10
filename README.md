@@ -131,3 +131,12 @@ Images `images/nasco-nasf2-320fld-1.jpg` through `images/nasco-nasf2-320fld-4.jp
 ### Samsung NX24BG45411VGH cooker gallery
 
 Images `images/samsung-nx24-1.webp.png` through `images/samsung-nx24-6.webp.png` were sourced in order from VariBuy's exact-model listing: https://varibuy.com/product/samsung-4-burner-50x60-gas-cooker-w-grill-auto-ignition-silver-nx24bg45411vgh/. Confirm image usage rights before reuse.
+
+### Midea MDRT241FTGN50 and Nasco NASGC-LME90B photos
+
+- `images/Midea MDRT241 view 1.webp.png`: https://varibuy.com/wp-content/uploads/2024/09/MIDEA-MDRT241FTGN50-1.webp
+- `images/Midea MDRT241 view 2.webp.png`: https://varibuy.com/wp-content/uploads/2024/09/MDRT241FTGN50-BOTTOM-MOUNT-REF.webp
+- `images/Midea MDRT241 view 3.webp.png`: https://varibuy.com/wp-content/uploads/2024/09/MDRT241FTGN50-REF-1.webp
+- `images/nasgc-lme90b-source.webp.png`: VariBuy exact-model listing https://varibuy.com/product/nasco-90x60-5-burner-gas-cooker-w-grill-black-nasgc-lme90b/
+
+Confirm usage rights before reuse.
