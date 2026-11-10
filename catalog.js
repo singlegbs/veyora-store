@@ -352,3 +352,16 @@ for (const p of PRODUCTS) {
   // Supplier capacity figures conflict; omit until confirmed.
   if (p.name === 'Midea MDRF632FGN46D 4-Door Refrigerator') p.specs = 'Four doors; frost-free; inverter compressor.';
 }
+
+// Premium mirror-finish inverter air conditioner.
+PRODUCTS.push({
+  id: 'tcl-tac-12csa-xa82i',
+  name: 'TCL TAC-12CSA/XA82I 1.5HP Inverter Air Conditioner',
+  category: 'Air conditioners',
+  subcategory: 'Air conditioners',
+  price: 5399,
+  description: 'Bring a polished look to your space with this TCL split air conditioner. Its black mirror panel and inverter compressor pair modern styling with practical cooling.',
+  specs: 'Capacity: 1.5 HP (12,000 BTU/h); Compressor: inverter; Refrigerant: R410A; Finish: grey body with black mirror panel; Mode: cooling only; Copper pipes: 3 m; Voltage: 220–240 V, 50 Hz.',
+  image: 'images/tcl-xa82i-1.webp.png',
+  images: ['images/tcl-xa82i-1.webp.png', 'images/tcl-xa82i-2.webp.png', 'images/tcl-tac-12csa-xa82i-angle3.jpg', 'images/tcl-tac-12csa-xa82i-angle4.jpg']
+});
