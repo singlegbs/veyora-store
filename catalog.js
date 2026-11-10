@@ -332,3 +332,10 @@ for (const p of PRODUCTS) {
     p.image = p.images[0];
   }
 }
+// Exact-model Midea four-door refrigerator gallery, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'Midea MDRF632FGN46D 4-Door Refrigerator') {
+    p.images = ['images/MDRF632FGN46D.webp.png', 'images/mdrf632fgn46d-2.webp.png', 'images/mdrf632fgn46d-3.webp.png', 'images/mdrf632fgn46d-4.webp.png', 'images/mdrf632fgn46d-5.webp.png'];
+    p.image = p.images[0];
+  }
+}
