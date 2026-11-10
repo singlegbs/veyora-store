@@ -95,3 +95,37 @@
  new MutationObserver(syncModalScroll).observe(document.body,{subtree:true,childList:true,attributes:true,attributeFilter:['open']});
  syncModalScroll();
 })();
+
+// Keep touch gestures inside the topmost modal, including at scroll boundaries.
+(() => {
+  const css = document.createElement('style');
+  css.textContent = `dialog[open]{overscroll-behavior:contain;touch-action:pan-x pan-y}dialog::backdrop{touch-action:none}`;
+  document.head.append(css);
+  let point = null;
+  document.addEventListener('touchstart', e => {
+    if (e.touches.length === 1 && document.querySelector('dialog[open]')) {
+      point = {x:e.touches[0].clientX, y:e.touches[0].clientY};
+    } else point = null;
+  }, {passive:true, capture:true});
+  document.addEventListener('touchmove', e => {
+    const dialogs = Array.from(document.querySelectorAll('dialog[open]'));
+    if (!dialogs.length || !point || e.touches.length !== 1) return;
+    const dialog = dialogs[dialogs.length - 1], t = e.touches[0];
+    const dx = point.x - t.clientX, dy = point.y - t.clientY;
+    point = {x:t.clientX, y:t.clientY};
+    const rect = dialog.getBoundingClientRect();
+    if (!dialog.contains(e.target) || t.clientX < rect.left || t.clientX > rect.right || t.clientY < rect.top || t.clientY > rect.bottom) { e.preventDefault(); return; }
+    const vertical = Math.abs(dy) >= Math.abs(dx), delta = vertical ? dy : dx;
+    let node = e.target instanceof Element ? e.target : e.target.parentElement;
+    while (node && dialog.contains(node)) {
+      const cs = getComputedStyle(node), overflow = vertical ? cs.overflowY : cs.overflowX;
+      const pos = vertical ? node.scrollTop : node.scrollLeft;
+      const max = vertical ? node.scrollHeight-node.clientHeight : node.scrollWidth-node.clientWidth;
+      if (/(auto|scroll)/.test(overflow) && max > 1 && ((delta < 0 && pos > 0) || (delta > 0 && pos < max-1))) return;
+      if (node === dialog) break;
+      node = node.parentElement;
+    }
+    e.preventDefault();
+  }, {passive:false, capture:true});
+  document.addEventListener('touchend', () => { point = null; }, {passive:true, capture:true});
+})();
