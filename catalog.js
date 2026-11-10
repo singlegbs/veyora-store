@@ -557,3 +557,25 @@ PRODUCTS.push({id:'tcl-75c6k',name:'TCL 75C6K 75-inch QD-Mini LED 4K TV',categor
 { const item = PRODUCTS.find(p => p.name === 'Midea MSAF-12CRN1 Air Conditioner'); if (item) { item.image = 'images/midea-msaf-12crn1-official.png'; item.images = [item.image]; } }
 // Exact-model manufacturer photograph for Midea MSAF-18CRN1.
 { const item = PRODUCTS.find(p => p.name === 'Midea MSAF-18CRN1 Air Conditioner'); if (item) { item.image = 'images/midea-msaf-18crn1-official.png'; item.images = [item.image]; } }
+
+// Owner-selected premium refrigerator and cooker hood.
+PRODUCTS.push({
+  id: 'midea-mdrs925cim46m',
+  name: 'Midea MDRS925CIM46M 700L SPACEMASTER Side-by-Side Refrigerator',
+  category: 'Refrigerators', subcategory: 'Refrigerators', price: 16599,
+  description: 'Give fresh and frozen groceries room to breathe with the Midea SPACEMASTER side-by-side refrigerator. A built-in pitcher, automatic ice maker and smart home connectivity add convenience to a spacious frost-free design.',
+  specs: 'Model: MDRS925CIM46M; 700L net capacity; side-by-side; 4-star; frost-free; digital inverter; built-in pitcher; automatic ice maker; smart home connected.',
+  features: ['700L net capacity', 'Built-in pitcher and auto ice maker', 'Smart home connectivity', '4-star frost-free design'],
+  image: 'images/midea-mdrs925cim46m-1.webp.png',
+  images: ['images/midea-mdrs925cim46m-1.webp.png','images/midea-mdrs925cim46m-2.webp.png','images/midea-mdrs925cim46m-3.webp.png','images/midea-mdrs925cim46m-4.webp.png']
+});
+PRODUCTS.push({
+  id: 'bruhm-bhg-90fb',
+  name: 'Bruhm BHG-90FB 90cm Curved Glass Cooker Hood',
+  category: 'Cookers', subcategory: 'Cookers', price: 2489,
+  description: 'Bring a sleek finish to your kitchen with the Bruhm BHG-90FB ducted chimney hood. Curved glass, a stainless-steel panel and touch controls pair with bright LED lighting and heat auto-clean for practical everyday cooking.',
+  specs: 'Model: BHG-90FB; 90cm; ducted chimney hood; curved glass; 3-speed touch sensor controls; heat auto clean; stainless-steel panel; baffle filter; LED lights.',
+  features: ['90cm curved-glass chimney design', 'Three-speed touch sensor control', 'Strong suction and heat auto clean', 'Baffle filter and LED lights'],
+  image: 'images/bruhm-bhg90fb-1.jpg',
+  images: ['images/bruhm-bhg90fb-1.jpg','images/bruhm-bhg90fb-2.jpg','images/bruhm-bhg90fb-3.jpg']
+});
