@@ -224,3 +224,10 @@ for (const p of PRODUCTS) {
     p.images = ['images/tcl-p211flg-1.jpg', 'images/tcl-p211flg-3.jpg', 'images/tcl-p211flg-4.jpg', 'images/tcl-p211flg-5.jpg'];
   }
 }
+// Exact-model Midea chest freezer gallery, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'Midea MDRC698FZN01 Chest Freezer') {
+    p.image = 'images/midea-mdrc698fzn01-1.jpg';
+    p.images = [1, 2, 3, 4].map(n => `images/midea-mdrc698fzn01-${n}.jpg`);
+  }
+}
