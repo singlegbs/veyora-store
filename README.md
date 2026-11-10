@@ -86,3 +86,13 @@ The five images `images/nasf2-250fld-1.png` through `images/nasf2-250fld-5.png` 
 - https://varibuy.com/wp-content/uploads/2024/10/NASCO-NASF2-250FLD-REF.webp
 - https://varibuy.com/wp-content/uploads/2024/10/NASCO-NASF2-250FLD.webp
 Confirm image usage rights before reuse.
+
+### Midea MT100W120/WG washer gallery
+
+Images `images/midea-mt100w120wg-1.webp.png` through `images/midea-mt100w120wg-3.webp.png` are from the VariBuy exact-model listing https://varibuy.com/product/midea-12kg-twin-tub-washing-machine-mt100w120-wg-2/. Sources in order:
+
+- https://varibuy.com/wp-content/uploads/2023/06/MIDEA-MT100W120-WG-WASHER.webp
+- https://varibuy.com/wp-content/uploads/2023/06/MT100W120-WG-WASHER.webp
+- https://varibuy.com/wp-content/uploads/2023/06/MT100W120-WG-WASHER-1.webp
+
+Confirm image usage rights before reuse.
