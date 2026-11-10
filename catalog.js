@@ -507,3 +507,19 @@ PRODUCTS.push({
     'https://www.beko.com/content/dam/croatia-hr-aem/croatia-hr-aemProductCatalog/product-images/7703331104-BHCB61622BXH/7703331104-LO3-20220117-100011.png'
   ]
 });
+
+// Owner-selected interactive display; manufacturer images.
+PRODUCTS.push({
+  id: 'samsung-lh75wafplgcxue',
+  name: 'Samsung LH75WAFPLGCXUE 75-inch Interactive E-Board',
+  category: 'Interactive Displays', subcategory: 'Interactive Displays', price: 38099,
+  description: 'Bring collaboration into view with this 75-inch Samsung interactive display. Its 4K UHD screen, built-in camera and touch technology support engaging presentations and shared work.',
+  specs: 'Model: LH75WAFPLGCXUE; 75-inch IPS; 4K UHD; IR touch; 8ms response; built-in camera; Android; Wi-Fi and Bluetooth; 12/7 operation.',
+  features: ['75-inch 4K UHD IPS screen', 'IR touch and built-in camera', 'Android with Wi-Fi and Bluetooth', 'Designed for 12/7 operation'],
+  image: 'https://images.samsung.com/is/image/samsung/p6pim/ae/lh75wafplgcxue/gallery/ae-wafx-p-lh75wafplgcxue-548877160?$Q90_684_547_JPG$',
+  images: [
+    'https://images.samsung.com/is/image/samsung/p6pim/ae/lh75wafplgcxue/gallery/ae-wafx-p-lh75wafplgcxue-548877160?$Q90_684_547_JPG$',
+    'https://images.samsung.com/is/image/samsung/p6pim/ae/lh75wafplgcxue/gallery/ae-wafx-p-lh75wafplgcxue-548877123?$Q90_684_547_JPG$',
+    'https://images.samsung.com/is/image/samsung/p6pim/ae/lh75wafplgcxue/gallery/ae-wafx-p-lh75wafplgcxue-548877124?$Q90_684_547_JPG$'
+  ]
+});
