@@ -146,3 +146,7 @@ The four locally hosted images `images/nas-400fl-g-1.jpg`, `images/nas-400fl-g-v
 ### Midea 30AMG5G027 cooker photographs
 
 `images/midea-30amg5g027-1.jpg` and `images/midea-30amg5g027-4.jpg` are from Electroland's exact-model listing: https://electrolandgh.com/product/midea-5-burner-gas-cooker-with-oven-30amg5g027/ . Original files: https://electrolandgh.com/wp-content/uploads/2025/05/30AMG5G027-SILVER.jpg and https://electrolandgh.com/wp-content/uploads/2025/05/30AMG5G027.jpg . Confirm image usage rights before reuse.
+
+### Nasco NAS-J50FBFL television photograph
+
+`images/nasco-nas-j50fbfl-1.jpg` is from Electroland's exact-model listing https://electrolandgh.com/product/nasco-50%E2%80%B3-led-digital-satellite-tv-nas-j50fbfl/ . Original image: https://electrolandgh.com/wp-content/uploads/2025/02/NAS-J50FBFL-1-scaled-1-1024x1024.jpg . Confirm image usage rights before reuse.
