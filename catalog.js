@@ -188,3 +188,11 @@ for (const p of PRODUCTS) {
 }
 // Locally hosted Midea MT100W120/WG exact-model gallery.
 for (const p of PRODUCTS) { if (p.name === 'Midea MT100W120/WG Washing Machine') { p.image = 'images/midea-mt100w120wg-1.webp.png'; p.images = ['images/midea-mt100w120wg-1.webp.png', 'images/midea-mt100w120wg-2.webp.png', 'images/midea-mt100w120wg-3.webp.png']; } }
+
+// Exact-model Samsung washer-dryer gallery.
+for (const p of PRODUCTS) {
+  if (p.name === 'Samsung WD17T6300GP/SP Washer Dryer') {
+    p.image = 'images/samsung-wd17t6300gp-1.webp.png';
+    p.images = [1, 2, 3, 4, 5].map(n => `images/samsung-wd17t6300gp-${n}.webp.png`);
+  }
+}
