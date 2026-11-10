@@ -217,3 +217,10 @@ for (const p of PRODUCTS) {
   if (p.name === 'Nasco NASD2-20FL Refrigerator') p.image = 'images/NASD2-20FL-main.webp.png';
   if (p.name === 'Nasco NAS-200FL-G Chest Freezer') p.image = 'images/nas-200fl-g-1.webp.png';
 }
+// TCL P211FLG exact-model photographs, locally hosted.
+for (const p of PRODUCTS) {
+  if (p.name === 'TCL P211FLG Front Load Washer') {
+    p.image = 'images/tcl-p211flg-1.jpg';
+    p.images = ['images/tcl-p211flg-1.jpg', 'images/tcl-p211flg-3.jpg', 'images/tcl-p211flg-4.jpg', 'images/tcl-p211flg-5.jpg'];
+  }
+}
