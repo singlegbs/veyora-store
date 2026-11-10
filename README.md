@@ -201,3 +201,6 @@ Confirm image usage rights before reuse.
 - `images/tcl-tac-12csa-xa82i-angle3.jpg`: Omek Gigs exact-model listing, https://api.omekgh.com/wp-content/uploads/2026/10/tcl-1-5hp-inverter-split-air-conditioner-black-mirror-r410-t-3.png
 - `images/tcl-tac-12csa-xa82i-angle4.jpg`: Omek Gigs exact-model listing, https://api.omekgh.com/wp-content/uploads/2026/10/tcl-1-5hp-inverter-split-air-conditioner-black-mirror-r410-t-4.png
 Confirm image usage rights before reuse.
+
+- `images/lg-s4-q12jartb-official-{1,2,3}.jpg`: LG S4-Q12JARTB product gallery, https://www.lg.com/africa/residential-air-conditioners/lg-s4-q12jartb . Confirm usage rights before reuse.
+- 
