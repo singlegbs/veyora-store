@@ -239,3 +239,5 @@ Confirm image usage rights before reuse.
 - `images/midea-mdrs925cim46m-{1,2,3,4}.webp.png`: VariBuy exact-model listing https://varibuy.com/product/midea-700l-4-star-frost-free-side-by-side-refrigerator-spacemaster-built-in-pitcher-auto-ice-maker-smart-home-connected-mdrs925cim46m/
 - `images/bruhm-bhg90fb-{1,2,3}.jpg`: Bruhm official exact-model gallery https://bruhm.com/gh/cooking/hood/90cm-hood/90cm-cooker-hood
 Confirm image usage rights before reuse.
+
+- `images/corner-wing-black-hood.webp.png`: VariBuy product listing, https://varibuy.com/product/90cm-corner-wing-black-hood-extractor/ . Confirm usage rights before reuse.
