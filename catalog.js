@@ -479,3 +479,15 @@ PRODUCTS.push(
     image: 'images/cecotec-2500-1.png', images: ['images/cecotec-2500-1.png', 'images/cecotec-2500-2.png', 'images/cecotec-2500-third.png']
   }
 );
+
+// Owner-selected Samsung French door refrigerator.
+PRODUCTS.push({
+  id: 'samsung-rf48a4000m9gh',
+  name: 'Samsung RF48A4000M9/GH French Door Refrigerator',
+  category: 'Refrigerators', subcategory: 'Refrigerators', price: 15499,
+  description: 'Keep fresh and frozen groceries organised in this Samsung French door refrigerator. Twin Cooling Plus helps maintain separate cooling conditions, while the electronic display puts controls in view.',
+  specs: 'Model: RF48A4000M9/GH; French door; Twin Cooling Plus; electronic display; frost-free; digital inverter compressor.',
+  features: ['Twin Cooling Plus', 'Electronic display', 'Frost-free design', 'Digital inverter compressor'],
+  image: 'images/samsung-rf48a4000m9gh-1.jpg',
+  images: ['images/samsung-rf48a4000m9gh-1.jpg', 'images/samsung-rf48a4000m9gh-3.jpg', 'images/samsung-rf48-supplier-3.webp.png', 'images/samsung-rf48-supplier-4.webp.png']
+});
