@@ -295,3 +295,26 @@ for (const p of PRODUCTS) {
   };
   if (galleries[p.name]) { p.images = galleries[p.name]; p.image = p.images[0]; }
 }
+
+// Premium side-by-side replacement for the retired top-mount refrigerator.
+for (const p of PRODUCTS) {
+  if (p.name === 'Samsung RT35CG5421S9GH Refrigerator') {
+    Object.assign(p, {
+      id: 'midea-mdrs710fgf46d',
+      name: 'Midea MDRS710FGF46D Side-by-Side Refrigerator',
+      category: 'Refrigerators', subcategory: 'Refrigerators', price: 11199,
+      description: 'Organise fresh and frozen food side by side in this Midea refrigerator. Its brushed-steel finish, digital controls and built-in water dispenser bring practical style to the kitchen.',
+      specs: 'Type: side-by-side; Compressor: inverter; Defrost: frost-free; Display: digital; Water dispenser; Child lock; Finish: brushed steel.',
+      image: 'images/midea-mdrs710-01.webp.png',
+      images: [1, 2, 3, 4].map(n => `images/midea-mdrs710-0${n}.webp.png`)
+    });
+  }
+}
+// Do not silently replace a previously selected product in an existing cart.
+try {
+  const existing = JSON.parse(sessionStorage.getItem('veyora-cart') || '{}');
+  if (existing && Object.prototype.hasOwnProperty.call(existing, 'appliance-22')) {
+    delete existing['appliance-22'];
+    sessionStorage.setItem('veyora-cart', JSON.stringify(existing));
+  }
+} catch (e) { /* Storage may be unavailable. */ }
