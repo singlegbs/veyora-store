@@ -589,3 +589,9 @@ PRODUCTS.push({id:'tcl-85c6k',name:'TCL 85C6K 85-inch QD-Mini LED 4K TV',categor
 PRODUCTS.push({id:'lg-98ut9000',name:'LG 98UT9000 98-inch UHD AI 4K Smart TV',category:'TVs',subcategory:'TVs',price:40799,description:'Give films and sport a larger canvas with the LG 98UT9000. Its expansive 4K display, HDR10 Pro and alpha 8 AI processor bring vivid detail to your entertainment, while webOS and the Magic Remote keep viewing within easy reach.',specs:'Model: 98UT9000; 98-inch display; 4K UHD; HDR10 Pro; alpha 8 AI Processor 4K; webOS 24; 120Hz; Magic Remote.',features:['98-inch 4K UHD display','HDR10 Pro and alpha 8 AI processor','webOS 24 smart TV','120Hz and Magic Remote'],image:'images/lg-98ut9000-2.png',images:['images/lg-98ut9000-2.png','images/lg-98ut9000-3.png','images/lg-98ut9000-4.png']});
 // Exact-model retailer photos for the Midea MSAF-24CRN1.
 { const item = PRODUCTS.find(p => p.name === 'Midea MSAF-24CRN1 Air Conditioner'); if (item) { item.image = 'images/midea-msaf-24crn1-front.jpg'; item.images = ['images/midea-msaf-24crn1-front.jpg','images/midea-msaf-24crn1-second.jpg']; } }
+// Correct exact-model product imagery; see README for sources.
+[
+  ['candy-cvmi970lx', ['images/candy-cvmi970lx-1.webp.png', 'images/candy-cvmi970lx-2.webp.webp']],
+  ['appliance-50', ['images/nasco-sniper-front.webp.png']],
+  ['appliance-28', ['images/samsung-ar18trhgawk-ga-electroland.webp.webp']]
+].forEach(([id, images]) => { const item = PRODUCTS.find(p => p.id === id); if (item) { item.image = images[0]; item.images = images; } });
