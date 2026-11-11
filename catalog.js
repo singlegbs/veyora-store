@@ -607,3 +607,21 @@ PRODUCTS.push({id:'lg-98ut9000',name:'LG 98UT9000 98-inch UHD AI 4K Smart TV',ca
 { const item = PRODUCTS.find(p => p.id === 'candy-cvmi970lx'); if (item) item.images = [...item.images, 'images/candy-cvmi970lx-official-detail.jpg']; }
 // Model-labelled NASGC-SNIPER50B-G cooker graphic from the exact-model retailer listing.
 { const item = PRODUCTS.find(p => p.id === 'appliance-50'); if (item) item.images = [item.image, 'images/nasco-nasgc-sniper50b-g-spec.jpg']; }
+
+// Nasco beverage display and Samsung 98-inch TV; photo sources credited in README.
+PRODUCTS.push({
+  id:'nasco-nas-fl350-1dr', name:'Nasco NAS-FL350-1DR 288L Beverage Display Fridge',
+  category:'Coolers', subcategory:'Beverage coolers', price:5749,
+  description:'Keep drinks on display with the Nasco NAS-FL350-1DR beverage fridge. Its glass door and interior LED light make it easy to see the contents, while adjustable shelves help organise bottles and cans.',
+  specs:'Model: NAS-FL350-1DR; 288 L net capacity; toughened glass door; LED light; adjustable shelves and legs; adjustable thermostat; lock and key; direct cooling.',
+  features:['288 L net capacity','Glass door and interior LED light','Adjustable shelves and thermostat','Lock and key'],
+  image:'images/nasco-fl350-1.webp.png', images:['images/nasco-fl350-1.webp.png','images/nasco-fl350-2.webp.png','images/nasco-fl350-3.webp.png']
+});
+PRODUCTS.push({
+  id:'samsung-ua98du9000uxgh', name:'Samsung UA98DU9000UXGH 98-inch Crystal UHD 4K Smart TV',
+  category:'TVs', subcategory:'TVs', price:46999,
+  description:'Bring a cinematic scale to your entertainment with the Samsung DU9000 98-inch Crystal UHD TV. Its 4K picture, Tizen smart platform and Motion Xcelerator bring films, sport and games to the big screen.',
+  specs:'Model: UA98DU9000UXGH; 98-inch display; 4K UHD; Samsung Tizen OS; Motion Xcelerator 120Hz; Q-Symphony.',
+  features:['98-inch 4K Crystal UHD display','Samsung Tizen smart TV','Motion Xcelerator 120Hz','Q-Symphony soundbar compatibility'],
+  image:'images/samsung-ua98du9000uxgh-1.webp.png', images:['images/samsung-ua98du9000uxgh-1.webp.png','images/samsung-ua98du9000uxgh-2.webp.png','images/samsung-ua98du9000uxgh-3.webp.png']
+});
