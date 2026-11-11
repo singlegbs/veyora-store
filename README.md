@@ -275,3 +275,37 @@ All six additions use a GH₵1,000 gross price-minus-supplier-cost margin. On be
 - Samsung LH86WAFPLGCXUE: cost 43,999; price 44,999. Exact Ghana retail benchmark unverified. Official exact-model page and gallery: https://www.samsung.com/ae/business/smart-signage/interactive-display/86-interactive-e-board-android-with-built-in-camera-lh86wafplgcxue/ . Three official image IDs 548877203, 548877166, 548877167 under https://images.samsung.com/is/image/samsung/p6pim/ae/lh86wafplgcxue/gallery/ .
 
 No product photos were generated or retouched. No supplier photos were used in this batch. Image source attribution does not itself establish a redistribution license.
+
+## November 11, 2026 hunt batch 2 — six products
+Three TVs, two air conditioners and one vacuum. Each has three unaltered official exact-model gallery images; all 18 URLs decoded successfully from the store origin. Manufacturer images are linked directly. No supplier images used in this batch. No design changes.
+
+| Model | Supplier cost GHS | Veyora GHS | Exact Ghana benchmark |
+| --- | ---: | ---: | --- |
+| LG 55UA85006LA | 6,999 | 7,999 | CompuGhana 6,299 sale, in stock; Veyora is 1,700 higher |
+| LG OLED65C56LA | 30,999 | 31,999 | Unverified: no exact result in CompuGhana / Electroland searches |
+| LG 75NANO80A6A | 14,399 | 15,399 | Unverified: no exact result in CompuGhana / Electroland searches |
+| LG S4-Q18JLQAL | 9,799 | 10,799 | CompuGhana 7,799 sale, in stock; Veyora is 3,000 higher |
+| LG S4-Q09WAQAL | 7,359 | 8,359 | Unverified: no exact result in CompuGhana / Electroland searches |
+| Cecotec Conga Powerbag 4000 XL | 1,599 | 2,599 | Unverified: no exact Ghana benchmark confirmed in CompuGhana / Electroland searches |
+
+All six use cost plus GHS1,000 under the owner's updated automatic minimum-margin instruction. The two lower competitor prices are recorded honestly, not treated as competitive-price matches. Unverified benchmarks do not establish Ghana retail value.
+
+Official specifications and gallery credits:
+- LG 55UA85006LA: https://www.lg.com/eastafrica/tvs/lg-55ua85006la — gallery md07605243 medium13.jpg, medium02.jpg, medium03.jpg.
+- LG OLED65C56LA: https://www.lg.com/eastafrica/tvs/lg-oled65c56la — gallery md07606598 D-01.jpg and md07606936 D-02.jpg, D-03.jpg.
+- LG 75NANO80A6A: https://www.lg.com/africa/tvs/lg-75nano80a6a — gallery md07605380 medium14.jpg and md07605661 D-02.jpg, D-03.jpg.
+- LG S4-Q18JLQAL: https://www.lg.com/africa/residential-air-conditioners/lg-s4-q18jlqal — gallery md07589824 D-01.jpg, D-02.jpg, D-03.jpg.
+- LG S4-Q09WAQAL: https://www.lg.com/africa/residential-air-conditioners/lg-s4-q09waqal — gallery md07598500 D-01.jpg, D-02.jpg, D-03.jpg.
+- Cecotec Conga Powerbag 4000 XL, reference 08577: https://cecotec.es/es/aspiradores-de-trineo/conga-powerbag-4000-xl — media.cecotec.cloud/08577 gallery images _2pwz2w_1, _itgm5a_2, _ilweuq_3.
+
+Exact Ghana benchmark sources:
+- https://compughana.com/products/lg-led-55ua85006la-uhd-smart-satellite-4k-television
+- https://compughana.com/search?q=S4-Q18JLQAL&type=product
+
+Supplier price sources (internal sourcing record only; never store-facing):
+- https://varibuy.com/product/lg-55-uhd-ai-4k-webos25-smart-tv-w-ai-magic-remote-2025-hdr10-pro-%ce%b17-ai-processor-gen8-ai-serch-ai-chatbot-ai-concierge-55ua85006la/
+- https://varibuy.com/product/lg-65-oled-evo-ai-c5-4k-144hz-webos25-smart-tv-w-ai-magic-remote-2025-md-freesync-premium-smart-tv-ultra-slim-design-ai-magic-remote-webos25-dolby-vision-hdr10-hlg-dolby-atmos-oled65c56la/
+- https://varibuy.com/product/lg-75-nanocell-ai-nano80-4k-hdr10-webos25-smart-tv-w-ai-magic-remote-2025-75nano80a6a/
+- https://varibuy.com/product/lg-2-0hp-dualcool-r410-inverter-ac-energy-saving-faster-cooling-s4-q18jlqal/
+- https://varibuy.com/product/lg-1-0hp-dualcool-r410-inverter-ac-60-energy-saving-40-faster-cooling-s4-q09waqal/
+- https://varibuy.com/product/cecotec-890w-conga-powerbag-4000-xl-4l-bag-sledge-vacuum-cleaner-includes-bag-high-efficiency-filtration-telescopic-metal-tube-furniture-and-corner-accessories-included-7m-operating-radius-cong/
