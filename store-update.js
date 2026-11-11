@@ -114,3 +114,13 @@ openDetail=function(p){
     });
   }
 };
+// Helpful contact options in product details; no message is sent automatically.
+const detailContact=document.createElement('a');
+detailContact.className='detail-contact';detailContact.textContent='Order on WhatsApp';detailContact.target='_blank';detailContact.rel='noopener noreferrer';
+detailContact.style.cssText='display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:10px;background:#00382a;color:#fff;text-decoration:none;font-weight:700';
+detailDialog.querySelector('.detail-copy .buttons').append(detailContact);
+const detailTrust=document.createElement('p');detailTrust.style.cssText='font-size:.85rem;line-height:1.55;color:#53675d;margin:16px 0 0';
+detailTrust.textContent='Based in Accra · WhatsApp +233 53 818 1600 · hello@veyoragh.com';
+detailDialog.querySelector('.detail-copy .buttons').after(detailTrust);
+const openDetailWithContact=openDetail;
+openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.me/233538181600?text='+encodeURIComponent('Hello Veyora, I am interested in '+p.name+' ('+money(p.price)+').');};
