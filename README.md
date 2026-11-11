@@ -245,3 +245,5 @@ Confirm image usage rights before reuse.
 
 ### TCL 85C6K television gallery
 `images/tcl-85c6k-1.png`, `images/tcl-85c6k-2.webp`, and `images/tcl-85c6k-3.webp`: TCL official exact-model gallery, https://www.tcl.com/global/en/tvs/85c6k. Confirm image usage rights before reuse.
+
+- `images/lg-98ut9000-2.png`, `images/lg-98ut9000-3.png`, `images/lg-98ut9000-4.png`: VariBuy LG 98UT9000 product gallery, https://varibuy.com/product/lg-98-uhd-ai-ut90-4k-smart-tv-2024-i-magic-remote-hdr10-pro-webos24-120-hz-98ut9000/ . The supplier lists the base model without a regional suffix; confirm usage rights before reuse.
