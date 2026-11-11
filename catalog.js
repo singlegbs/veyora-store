@@ -601,3 +601,5 @@ PRODUCTS.push({id:'lg-98ut9000',name:'LG 98UT9000 98-inch UHD AI 4K Smart TV',ca
 { const item = PRODUCTS.find(p => p.id === 'nasco-nas-j50fbfl-g'); if (item) { item.image = 'images/nasco-j50fbfl-g-official-1.jpg'; item.images = ['images/nasco-j50fbfl-g-official-1.jpg','images/nasco-j50fbfl-g-official-2.jpg','images/nasco-j50fbfl-g-official-3.jpg','images/nasco-j50fbfl-g-official-4.jpg']; } }
 // Exact-model Wanbo Cube 2 Pro beige-green retailer gallery; source in README.
 { const item = PRODUCTS.find(p => p.id === 'wanbo-cube-2-pro-beige-green'); if (item) { item.image = 'images/wanbo-cube2pro-currys-1.jpg'; item.images = ['images/wanbo-cube2pro-currys-1.jpg','images/wanbo-cube2pro-currys-2.jpg','images/wanbo-cube2pro-currys-3.jpg']; } }
+// Exact-model TCL 75P7K manufacturer gallery; source in README.
+{ const item = PRODUCTS.find(p => p.name === 'TCL 75P7K TV'); if (item) { item.image = 'images/tcl-75p7k-1.png'; item.images = ['images/tcl-75p7k-1.png','images/tcl-75p7k-2.webp','images/tcl-75p7k-3.webp']; } }
