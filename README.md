@@ -258,3 +258,7 @@ Confirm image usage rights before reuse.
 - `images/wanbo-cube2pro-currys-1.jpg`, `images/wanbo-cube2pro-currys-2.jpg`, `images/wanbo-cube2pro-currys-3.jpg`: Currys exact-model beige-green product gallery, https://www.currys.co.uk/products/wanbo-cube-2-pro-smart-full-hd-home-cinema-projector-beige-green-10294631.html. Confirm image usage rights before reuse.
 
 - `images/tcl-75p7k-1.png`, `images/tcl-75p7k-2.webp`, `images/tcl-75p7k-3.webp`: TCL 75P7K manufacturer gallery, https://www.tcl.com/westafrica/en/tvs/p7k. Confirm image usage rights before reuse.
+
+### Nasco display cooler and Samsung 98-inch television images
+- `images/nasco-fl350-{1,2,3}.webp.png`: VariBuy exact-model NAS-FL350-1DR product gallery, https://varibuy.com/product/nasco-288l-commercial-beverage-refrigerator-nas-fl350-1dr/ . Confirm image usage rights before reuse.
+- `images/samsung-ua98du9000uxgh-{1,2,3}.webp.png`: VariBuy exact-model UA98DU9000UXGH product gallery, https://varibuy.com/product/samsung-98-crystal-uhd-du9000-4k-tizen-os-smart-tv-2024-ua98du9000uxgh/ . Confirm image usage rights before reuse.
