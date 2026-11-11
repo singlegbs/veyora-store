@@ -603,3 +603,5 @@ PRODUCTS.push({id:'lg-98ut9000',name:'LG 98UT9000 98-inch UHD AI 4K Smart TV',ca
 { const item = PRODUCTS.find(p => p.id === 'wanbo-cube-2-pro-beige-green'); if (item) { item.image = 'images/wanbo-cube2pro-currys-1.jpg'; item.images = ['images/wanbo-cube2pro-currys-1.jpg','images/wanbo-cube2pro-currys-2.jpg','images/wanbo-cube2pro-currys-3.jpg']; } }
 // Exact-model TCL 75P7K manufacturer gallery; source in README.
 { const item = PRODUCTS.find(p => p.name === 'TCL 75P7K TV'); if (item) { item.image = 'images/tcl-75p7k-1.png'; item.images = ['images/tcl-75p7k-1.png','images/tcl-75p7k-2.webp','images/tcl-75p7k-3.webp']; } }
+// Candy CVMI970LX: detail image from the manufacturer's exact-model gallery.
+{ const item = PRODUCTS.find(p => p.id === 'candy-cvmi970lx'); if (item) item.images = [...item.images, 'images/candy-cvmi970lx-official-detail.jpg']; }
