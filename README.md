@@ -309,3 +309,22 @@ Supplier price sources (internal sourcing record only; never store-facing):
 - https://varibuy.com/product/lg-2-0hp-dualcool-r410-inverter-ac-energy-saving-faster-cooling-s4-q18jlqal/
 - https://varibuy.com/product/lg-1-0hp-dualcool-r410-inverter-ac-60-energy-saving-40-faster-cooling-s4-q09waqal/
 - https://varibuy.com/product/cecotec-890w-conga-powerbag-4000-xl-4l-bag-sledge-vacuum-cleaner-includes-bag-high-efficiency-filtration-telescopic-metal-tube-furniture-and-corner-accessories-included-7m-operating-radius-cong/
+
+## November 11 catalog batch: 87 to 93
+All six use three manufacturer-hosted exact-model gallery images. No supplier photography or design changes in this batch. Prices apply the owner's minimum GH₵1,000 gross-margin instruction, including competitor conflicts; not a competitiveness claim.
+
+| Model | Supplier cost GHS | Store GHS | Exact Ghana benchmark |
+|---|---:|---:|---|
+| Midea YL2037S-W | 1,698 | 2,698 | Electroland 1,699 |
+| LG OLED77C56LA | 56,999 | 57,999 | Unverified after CompuGhana and Electroland searches |
+| LG OLED83C56LA | 75,999 | 76,999 | Unverified after CompuGhana and Electroland searches |
+| LG S4-Q12JA28J | 8,999 | 9,999 | CompuGhana 6,699 |
+| LG S4-Q24K228E | 13,699 | 14,699 | Unverified after CompuGhana and Electroland searches |
+| LG F2Y1TYP6JP | 6,999 | 7,999 | CompuGhana 6,499 |
+
+Sources checked November 11, 2026:
+- Supplier Midea: https://varibuy.com/product/midea-3-tap-water-dispenser-yl2037s/ ; televisions: https://varibuy.com/product-category/television/?orderby=date&per_page=48 ; LG ACs: https://varibuy.com/product-category/air-conditioners/?filter_brands=lg ; washers: https://varibuy.com/product-category/washing-machine/?filter_brands=lg
+- Midea official specs and gallery: https://www.midea.com/me/water-treatment/topload-water-dispenser/midea-top-loading-water-dispenser-3-temperatures-single-tap.yl2037s-w ; exact retailer SKU https://electrolandgh.com/product/midea-water-dispenser/ . Official confirms white, single faucet/three temperatures and 20L cabinet; conflicting generic retailer specs were not used.
+- LG OLED official galleries: https://www.lg.com/eastafrica/tvs/lg-oled77c56la and https://www.lg.com/eastafrica/tvs/lg-oled83c56la . Both exact-model pages publish the same three C5 assets in images/tvs/md07605364/gallery/large01.jpg through large03.jpg; these were explicitly labelled for the models on those pages.
+- LG AC official galleries: https://www.lg.com/eastafrica/split-air-conditioners/lg-s4-q12ja28j (md07588219) and https://www.lg.com/eastafrica/split-air-conditioners/lg-s4-q24k228e (md07588244), large01.jpg, large04.jpg and large06.jpg. Exact benchmark https://compughana.com/products/lg-dual-inverter-wi-mosquito-away-1-5hp-r410-s4-q12ja28j-air-conditioner . No health guarantees asserted.
+- LG washer official gallery/specifications: https://www.lg.com/ae/washing-machines/lg-f2y1typ6jp , md07604915/gallery/large01.jpg, large02.jpg, large06.jpg. Exact benchmark https://compughana.com/products/lg-7kg-f2y1typ6jp-ai-ddtm-front-load-washing-machine-matte-black . Retailer URL says 7kg, but its heading/SKU and LG confirm 8kg; official 8kg capacity used.
