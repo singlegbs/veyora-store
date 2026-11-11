@@ -256,3 +256,5 @@ Confirm image usage rights before reuse.
 
 ### Wanbo Cube 2 Pro beige-green gallery
 - `images/wanbo-cube2pro-currys-1.jpg`, `images/wanbo-cube2pro-currys-2.jpg`, `images/wanbo-cube2pro-currys-3.jpg`: Currys exact-model beige-green product gallery, https://www.currys.co.uk/products/wanbo-cube-2-pro-smart-full-hd-home-cinema-projector-beige-green-10294631.html. Confirm image usage rights before reuse.
+
+- `images/tcl-75p7k-1.png`, `images/tcl-75p7k-2.webp`, `images/tcl-75p7k-3.webp`: TCL 75P7K manufacturer gallery, https://www.tcl.com/westafrica/en/tvs/p7k. Confirm image usage rights before reuse.
