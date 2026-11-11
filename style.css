@@ -24,3 +24,31 @@ a, button, [role="button"], input, select, textarea { -webkit-tap-highlight-colo
   .photo img { animation: veyora-image-in .28s ease-out both; }
   @keyframes veyora-image-in { from { opacity: .5; } to { opacity: 1; } }
 }
+
+/* Veyora premium storefront: quiet framing, clear hierarchy and responsive controls. */
+body { background: #f8faf7; color: #122e23; }
+.top { border-bottom: 1px solid #e5ebe5; }
+.shop-panel { box-shadow: 0 -10px 35px rgba(0,38,25,.07); }
+.grid { gap: 22px 16px; align-items: stretch; }
+.grid .card, .rail .card { background: #fff; border: 1px solid #e5ece5; border-radius: 18px; padding: 10px; box-shadow: 0 4px 18px rgba(0,45,30,.045); transition: box-shadow .22s ease, transform .22s ease; }
+.photo { flex: none; aspect-ratio: 1 / 1; background: #f1f4f0; border-radius: 12px; }
+.photo img { object-fit: contain; padding: 12px; filter: drop-shadow(0 8px 12px rgba(0,35,23,.09)); transition: transform .3s ease; }
+.badge { color: #174434; border: 1px solid #e0e9df; font-weight: 650; }
+.card h4 { color: #073c2c; font-size: 1rem; line-height: 1.3; overflow-wrap: anywhere; margin: 14px 2px 6px; }
+.card .product-description { color: #596e61; font-size: .81rem; line-height: 1.45; margin: 0 2px 10px; }
+.card .details { margin: auto 2px 12px; padding-top: 8px; }
+.card .price, .detail-copy .price { color: #295b19; font-size: 1.04rem; border-left: 4px solid #a9ed36; padding-left: 8px; white-space: normal; }
+.card .buttons button { min-height: 40px; padding: 9px 7px; font-size: .75rem; }
+.card .buttons .add, .detail-copy .buttons .add { background: #a9ed36; border-color: #a9ed36; color: #00382a; }
+.card .buttons .buy, .detail-copy .buttons .buy { background: #00382a; color: #fff; }
+.filter { transition: background-color .18s ease, color .18s ease; }
+.filter.active { background: #dff1c6; }
+dialog.detail-dialog { border: 1px solid #dfe9df; border-radius: 20px; }
+.detail-dialog .detail-photo { min-width: 0; min-height: 0; aspect-ratio: 1 / 1; background: #f1f4f0; border-radius: 16px; }
+.detail-dialog .detail-photo img { height: 100%; max-height: 100%; object-fit: contain; padding: 18px; filter: drop-shadow(0 8px 12px rgba(0,35,23,.09)); }
+.detail-dialog .detail-copy h2 { color: #00382a; line-height: 1.2; }
+.detail-dialog .detail-copy .price { font-size: 1.3rem; }
+.detail-dialog .detail-copy .buttons button { min-height: 44px; }
+@media (hover:hover) and (prefers-reduced-motion:no-preference) { .card:hover { transform: translateY(-3px); box-shadow: 0 12px 25px rgba(0,45,30,.11); } .card:hover .photo img { transform: scale(1.035); } }
+@media (max-width:700px) { .grid { gap: 12px; } .grid .card, .rail .card { padding: 8px; border-radius: 14px; } .card h4 { font-size: .9rem; } .card .product-description { font-size: .76rem; } .card .price { font-size: .9rem; } .card .buttons button { min-height: 40px; } .badge { font-size: .58rem; max-width: calc(100% - 16px); overflow-wrap: anywhere; } }
+@media (prefers-reduced-motion:reduce) { .card, .photo img, .filter { transition: none !important; animation: none !important; } }
