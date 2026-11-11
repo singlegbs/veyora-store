@@ -253,3 +253,6 @@ Confirm image usage rights before reuse.
 - `images/nasco-sniper-front.webp.png`: VariBuy exact-model NASGC-SNIPER50B-G listing, https://varibuy.com/product/nasco-4-burner-50x50cm-gas-cooker-w-grill-black-nasgc-sniper50b-g/
 - `images/nasco-nasgc-sniper50b-g-spec.jpg`: Electroland exact-model listing, https://electrolandgh.com/product/nasco-4-burner-as-cooker-with-rill-nasgc-sniper50b/
 - `images/samsung-ar18trhgawk-ga-electroland.webp.webp`: Electroland exact-model listing, https://electrolandgh.com/product/samsung-2-0hp-r410-split-ac-ar18trhgawk-ga/. Confirm image reuse rights.
+
+### Wanbo Cube 2 Pro beige-green gallery
+- `images/wanbo-cube2pro-currys-1.jpg`, `images/wanbo-cube2pro-currys-2.jpg`, `images/wanbo-cube2pro-currys-3.jpg`: Currys exact-model beige-green product gallery, https://www.currys.co.uk/products/wanbo-cube-2-pro-smart-full-hd-home-cinema-projector-beige-green-10294631.html. Confirm image usage rights before reuse.
