@@ -328,3 +328,30 @@ Sources checked November 11, 2026:
 - LG OLED official galleries: https://www.lg.com/eastafrica/tvs/lg-oled77c56la and https://www.lg.com/eastafrica/tvs/lg-oled83c56la . Both exact-model pages publish the same three C5 assets in images/tvs/md07605364/gallery/large01.jpg through large03.jpg; these were explicitly labelled for the models on those pages.
 - LG AC official galleries: https://www.lg.com/eastafrica/split-air-conditioners/lg-s4-q12ja28j (md07588219) and https://www.lg.com/eastafrica/split-air-conditioners/lg-s4-q24k228e (md07588244), large01.jpg, large04.jpg and large06.jpg. Exact benchmark https://compughana.com/products/lg-dual-inverter-wi-mosquito-away-1-5hp-r410-s4-q12ja28j-air-conditioner . No health guarantees asserted.
 - LG washer official gallery/specifications: https://www.lg.com/ae/washing-machines/lg-f2y1typ6jp , md07604915/gallery/large01.jpg, large02.jpg, large06.jpg. Exact benchmark https://compughana.com/products/lg-7kg-f2y1typ6jp-ai-ddtm-front-load-washing-machine-matte-black . Retailer URL says 7kg, but its heading/SKU and LG confirm 8kg; official 8kg capacity used.
+
+## November 11, 2026 — final seven hunt additions (93 to 100)
+All seven priced at supplier cost + GHS 1,000 under the owner's updated automatic-add rule. Supplier name is internal documentation only, never storefront copy. No existing prices or design changed.
+
+| Exact model | VariBuy cost GHS | Store GHS | Ghana benchmark |
+|---|---:|---:|---|
+| LG 65QNED82A6A |13,299|14,299|No exact result at CompuGhana or Electroland; unverified|
+| LG 55QNED82A6A |11,499|12,499|No exact result at CompuGhana or Electroland; unverified|
+| LG OLED65C46LA |30,599|31,599|No exact result at CompuGhana or Electroland; unverified|
+| LG GC-X24FFCAB |35,999|36,999|CompuGhana exact SKU 31,999; store 5,000 higher|
+| LG S4-Q18KL28E |11,799|12,799|CompuGhana exact model 9,799; store 3,000 higher|
+| LG DFB425FP |12,299|13,299|CompuGhana exact SKU 11,299; store 2,000 higher|
+| LG 43LR60006LA |4,099|5,099|CompuGhana exact-model search 3,549; store 1,550 higher|
+
+Supplier sources: https://varibuy.com/product-category/television/?filter_brands=lg&per_page=48 ; https://varibuy.com/product/lg-671l-black-glass-instaview-french-door-refrigerator-knock-twice-essence-black-steel-gc-x24ffcab/ ; https://varibuy.com/product-category/air-conditioners/?filter_brands=lg ; https://varibuy.com/product/lg-14-place-settings-free-standing-steam-dishwasher-quadwash-inverter-dd-dfb425fp/
+
+Benchmarks: https://compughana.com/products/lg-fridge-instaview-671l-essence-black-steel-fridge ; https://compughana.com/products/lg-dual-inverter-wi-mosquito-away-2-0hp-r410-s4-q18kl28e-air-conditioner ; https://compughana.com/products/lg-dishwasher-dfb425fp-14-plates-silver ; https://compughana.com/search?q=43LR60006LA&type=product . Missing TV benchmarks were checked with exact-model searches at CompuGhana and Electroland; absence of a result is not evidence of competitiveness.
+
+### Official exact-model photo and specification credits
+Three original manufacturer gallery images per addition, externally hosted. All 21 decoded successfully from the live store origin and were visually reviewed; no generated or retouched photos, no supplier photos in this batch.
+- 65QNED82A6A: https://www.lg.com/africa/tvs/lg-65qned82a6a ; gallery https://www.lg.com/africa/images/tvs/md07605349/gallery/ — d-01v.jpg, D-02.jpg, D-03.jpg (front, rear, side).
+- 55QNED82A6A: https://www.lg.com/africa/tvs/lg-55qned82a6a ; gallery https://www.lg.com/africa/images/tvs/md07605348/gallery/ — medium01.jpg, medium02.jpg, medium03.jpg (front, rear, side).
+- OLED65C46LA: https://www.lg.com/eastafrica/tvs/lg-oled65c46la ; gallery https://www.lg.com/eastafrica/images/tvs/md07600155/gallery/ — medium05.jpg, medium06.jpg, medium07.jpg. TV-only images selected, not the soundbar-bundle images.
+- GC-X24FFCAB: https://www.lg.com/africa/refrigerators/lg-gc-x24ffcab ; gallery https://www.lg.com/africa/images/refrigerators/md07602854/gallery/ — D-01.jpg, D-02.jpg, D-03.jpg (front, stocked interior, empty interior).
+- S4-Q18KL28E: https://www.lg.com/eastafrica/split-air-conditioners/lg-s4-q18kl28e ; gallery https://www.lg.com/eastafrica/images/split-air-conditioners/md07588244/gallery/ — medium01.jpg, medium04.jpg, medium06.jpg. Shared manufacturer image directory also appears on related capacity pages; selected from this exact-model page.
+- DFB425FP: https://www.lg.com/sg/dishwashers/dfb425fp/ ; gallery https://www.lg.com/content/dam/channel/wcms/sg/images/dishwasher/dfb425fp_apzqesl_easl_sg_c/gallery/ — DFB425FP_Integrated_Dishwashers_Z1.jpg, Z2.jpg and Z3.jpg, each with /jcr:content/renditions/thum-1600x1062.jpeg?w=800 . Singapore official page marks this model discontinued locally; supplier listing remains offered. No Ghana warranty inferred from Singapore page.
+- 43LR60006LA: https://www.lg.com/africa/tvs/lg-43lr60006la ; gallery https://www.lg.com/africa/images/tvs/md07597761/gallery/ — medium01.jpg, medium02.jpg, medium03.jpg. Official exact-model page and gallery alts identify 43-inch; some thumbnail filenames include 32, so full gallery images from exact page used. Listed as HD per official page, not 4K.
