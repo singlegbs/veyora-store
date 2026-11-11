@@ -247,3 +247,9 @@ Confirm image usage rights before reuse.
 `images/tcl-85c6k-1.png`, `images/tcl-85c6k-2.webp`, and `images/tcl-85c6k-3.webp`: TCL official exact-model gallery, https://www.tcl.com/global/en/tvs/85c6k. Confirm image usage rights before reuse.
 
 - `images/lg-98ut9000-2.png`, `images/lg-98ut9000-3.png`, `images/lg-98ut9000-4.png`: VariBuy LG 98UT9000 product gallery, https://varibuy.com/product/lg-98-uhd-ai-ut90-4k-smart-tv-2024-i-magic-remote-hdr10-pro-webos24-120-hz-98ut9000/ . The supplier lists the base model without a regional suffix; confirm usage rights before reuse.
+
+### Photo correction sources
+- `images/candy-cvmi970lx-1.webp.png` and `images/candy-cvmi970lx-2.webp.webp`: VariBuy exact-model CVMI-970LX listing, https://varibuy.com/product/candy-italian-90cm-island-cooker-hood-electronic-control-stainless-steel-cvmi-970lx/
+- `images/nasco-sniper-front.webp.png`: VariBuy exact-model NASGC-SNIPER50B-G listing, https://varibuy.com/product/nasco-4-burner-50x50cm-gas-cooker-w-grill-black-nasgc-sniper50b-g/
+- `images/nasco-nasgc-sniper50b-g-spec.jpg`: Electroland exact-model listing, https://electrolandgh.com/product/nasco-4-burner-as-cooker-with-rill-nasgc-sniper50b/
+- `images/samsung-ar18trhgawk-ga-electroland.webp.webp`: Electroland exact-model listing, https://electrolandgh.com/product/samsung-2-0hp-r410-split-ac-ar18trhgawk-ga/. Confirm image reuse rights.
