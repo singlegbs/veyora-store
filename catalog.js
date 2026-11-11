@@ -597,3 +597,5 @@ PRODUCTS.push({id:'lg-98ut9000',name:'LG 98UT9000 98-inch UHD AI 4K Smart TV',ca
 ].forEach(([id, images]) => { const item = PRODUCTS.find(p => p.id === id); if (item) { item.image = images[0]; item.images = images; } });
 // Use the model-labelled image until the other gallery photos are verified.
 { const item = PRODUCTS.find(p => p.name === 'Midea MSAF-24CRN1 Air Conditioner'); if (item) { item.image = 'images/midea-msaf-24crn1-electroland.jpg'; item.images = [item.image]; } }
+// Manufacturer gallery for the exact NAS-J50FBFL-G model.
+{ const item = PRODUCTS.find(p => p.id === 'nasco-nas-j50fbfl-g'); if (item) { item.image = 'images/nasco-j50fbfl-g-official-1.jpg'; item.images = ['images/nasco-j50fbfl-g-official-1.jpg','images/nasco-j50fbfl-g-official-2.jpg','images/nasco-j50fbfl-g-official-3.jpg','images/nasco-j50fbfl-g-official-4.jpg']; } }
