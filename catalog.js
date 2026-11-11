@@ -595,3 +595,5 @@ PRODUCTS.push({id:'lg-98ut9000',name:'LG 98UT9000 98-inch UHD AI 4K Smart TV',ca
   ['appliance-50', ['images/nasco-sniper-front.webp.png']],
   ['appliance-28', ['images/samsung-ar18trhgawk-ga-electroland.webp.webp']]
 ].forEach(([id, images]) => { const item = PRODUCTS.find(p => p.id === id); if (item) { item.image = images[0]; item.images = images; } });
+// Use the model-labelled image until the other gallery photos are verified.
+{ const item = PRODUCTS.find(p => p.name === 'Midea MSAF-24CRN1 Air Conditioner'); if (item) { item.image = 'images/midea-msaf-24crn1-electroland.jpg'; item.images = [item.image]; } }
