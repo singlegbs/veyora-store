@@ -676,3 +676,16 @@ PRODUCTS.push(...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-12.12.55.jpeg"
   }
 ]);
+
+// Catalog additions: Air conditioners
+PRODUCTS.push(...[
+  {
+    "id": "appliance-bruhmbas12rc3w",
+    "name": "Bruhm Split AC BAS-12RC3W R32 1.5hp",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 5299,
+    "description": "Bruhm Split AC BAS-12RC3W R32 1.5hp.",
+    "image": ""
+  }
+]);
