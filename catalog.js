@@ -601,5 +601,50 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 3999,
     "description": "Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg"
+  },
+  {
+    "id": "appliance-bruhmbhg60fb",
+    "name": "Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1299,
+    "description": "Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbhg90fb",
+    "name": "Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1399,
+    "description": "Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHG-90FB.webp"
+  },
+  {
+    "id": "appliance-bruhmbht60fb",
+    "name": "Bruhm BHT-60FB 60cm T-Shape Chimney Style Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1399,
+    "description": "Bruhm BHT-60FB 60cm T-Shape Chimney Style Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHT-60FB.jpg"
+  },
+  {
+    "id": "appliance-bruhmbht90fb",
+    "name": "Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1999,
+    "description": "Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB.jpg"
+  },
+  {
+    "id": "appliance-bruhmbhv60fb",
+    "name": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1599,
+    "description": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHV-60FB.jpg"
   }
 ]);
