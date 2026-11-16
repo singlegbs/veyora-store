@@ -646,5 +646,14 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 1599,
     "description": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHV-60FB.jpg"
+  },
+  {
+    "id": "appliance-bruhmbwf070g",
+    "name": "Bruhm BWF-070G 7kg Front Load Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 3699,
+    "description": "Bruhm BWF-070G 7kg Front Load Washing Machine.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-01-BWF-070G.png"
   }
 ]);
