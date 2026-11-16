@@ -367,5 +367,41 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 10899,
     "description": "Bruhm LED BTF-75W UHD VIDAA Smart OS TV.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png"
+  },
+  {
+    "id": "appliance-bruhmbas12ic3w",
+    "name": "Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 4499,
+    "description": "Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg"
+  },
+  {
+    "id": "appliance-bruhmbas24ic3b",
+    "name": "Bruhm Split AC BAS-24IC3B WiFi Smart",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 8899,
+    "description": "Bruhm Split AC BAS-24IC3B WiFi Smart.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/BAS-09ICQB-BAS-12ICQB-BAS-18ICQB-BAS-24ICQB-3.jpg"
+  },
+  {
+    "id": "appliance-tamashiiax2420",
+    "name": "Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 6899,
+    "description": "Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/09/TAMASHI-SPLIT-AC-IAX2420-2.5HP.png"
+  },
+  {
+    "id": "appliance-haierhsu12pa12hi",
+    "name": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 6899,
+    "description": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290.",
+    "image": ""
   }
 ]);
