@@ -1,1 +1,1138 @@
-PRODUCTS.splice(0, PRODUCTS.length, ...[{"id":"appliance-bruhmbtf100w","name":"Bruhm LED BTF 100W 100-inch QLED Web Smart TV","category":"TVs","subcategory":"TVs","price":26990,"description":"A 100-inch QLED display makes this Bruhm Web smart television a large-screen entertainment option. Its smart operating system brings connected viewing to the QLED screen.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-2.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-3.jpg"],"specs":"Screen size: 100 inches; Display: QLED; Operating system: Web Smart TV"},{"id":"appliance-haierh65s80gux","name":"Haier H65S80GUX 65-inch QLED Google TV","category":"TVs","subcategory":"TVs","price":11290,"description":"Enjoy a 65-inch QLED screen with 3840 × 2160 resolution and Google TV. Wi-Fi, Bluetooth and Dolby Audio support connected home entertainment.","image":"https://image.haier.com/sa/tvs/W020260825516735800548_1200.png","images":["https://image.haier.com/sa/tvs/W020260825516735800548_1200.png","https://image.haier.com/sa/tvs/W020260825516736359292_1200.png","https://image.haier.com/sa/tvs/W020260825516737176937_1200.png","https://image.haier.com/sa/tvs/W020260825516737495108_1200.png","https://image.haier.com/sa/tvs/W020260825516737808228_1200.png","https://image.haier.com/sa/tvs/W020260825516738022732_1200.png"],"specs":"Product: Haier H65S80GUX 65-inch QLED Google TV; Feature: QLED Technology: Delivers vibrant colours, improved colour accuracy and detailed images using Quantum Dot technology.; Feature: 4K UHD Resolution: Produces sharp and detailed visuals with 3840 × 2160 resolution.; Feature: Google TV: Provides access to popular streaming apps, Google Assistant, Chromecast and personalised content recommendations.; Feature: AI Picture Quality: Automatically optimises picture quality by adjusting colour, contrast and sharpness according to the content.; Feature: MEMC Technology: Reduces motion blur and improves clarity during fast-moving scenes."},{"id":"appliance-bruhmbas12rc3w","name":"Bruhm Split AC BAS-12RC3W R32 1.5hp","category":"Air conditioners","subcategory":"Air conditioners","price":5299,"description":"This 1.5HP split air conditioner provides 12,000 BTU cooling. Turbo and Sleep modes let you choose between faster cooling and overnight operation.","image":"","images":[],"specs":"Product: Bruhm Split AC BAS-12RC3W R32 1.5hp; Feature: Anti-Bacterial Filter – Helps filter airborne particles and maintain cleaner airflow.; Feature: Dual Drainage – Provides flexible options for condensate drainage during installation.; Feature: Auto-Restart – Automatically resumes operation after a power interruption.; Feature: Self-Cleaning Function – Helps keep the internal components cleaner.; Feature: Turbo Mode – Provides rapid cooling when quick temperature reduction is required."},{"id":"appliance-bruhmbfc140md","name":"Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":5099,"description":"This Bruhm bottom-mount refrigerator provides 128 litres of storage, with a 93-litre fridge and 35-litre freezer. Its double-door layout keeps the chilled and frozen compartments separately accessible.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg"],"specs":"Product: Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator; Net capacity (L): 128; Fridge (L): 93; Freezer (L): 35; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 453*525*1266; Net weight (Kg): 31"},{"id":"appliance-bruhmbfc185md","name":"Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":4499,"description":"This Bruhm bottom-mount refrigerator combines a 120-litre fridge with a 63-litre freezer. The 183-litre double-door design uses defrost cooling.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png"],"specs":"Product: Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator; Net capacity (L): 183; Fridge (L): 120; Freezer (L): 63; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 483*545*1502; Net weight (Kg): 45"},{"id":"appliance-bruhmbfd135md","name":"Bruhm BFD-135MD 118L Top Mount DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":3999,"description":"This Bruhm top-mount refrigerator offers 118 litres of storage, divided between an 84-litre fridge and a 34-litre freezer. Its double-door design gives separate access to chilled and frozen food.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png"],"specs":"Product: Bruhm BFD-135MD 118L Top Mount DC Refrigerator; Net capacity (L): 118; Fridge (L): 84; Freezer (L): 34; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 453*525*1181; Net weight (Kg): 33"},{"id":"appliance-bruhmbfd145md","name":"Bruhm BFD-145MD 132L Top Mount DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":4299,"description":"This Bruhm top-mount refrigerator offers 132 litres of storage, with a 97-litre fridge and a 35-litre freezer. Its double-door design uses defrost cooling.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png"],"specs":"Product: Bruhm BFD-145MD 132L Top Mount DC Refrigerator; Net capacity (L): 132; Fridge (L): 97; Freezer (L): 35; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 453*525*1266; Net weight (Kg): 35"},{"id":"appliance-bruhmbfd330md","name":"Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":7290,"description":"This Bruhm top-mount refrigerator provides 311 litres of storage and a water dispenser. Its double-door design separates access to chilled and frozen storage.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg","https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD-2-460x460-1.jpg"],"specs":"Product: Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator; Net capacity (L): 311; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 600*600*1720"},{"id":"appliance-bruhmbfq510en","name":"Bruhm BFQ-510EN 503L Side by Side 4-Door Frost Free Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":14399,"description":"This Bruhm refrigerator provides 503 litres of storage in a four-door layout. Frost-free cooling gives it a different approach to food storage from a manual-defrost refrigerator.","image":"","images":[],"specs":"Capacity (printed listing): 503 L; Doors: 4; Cooling: Frost free"},{"id":"appliance-tamashinrx100m","name":"Tamashi NRX100M 86L Double Door Table Top Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":3590,"description":"This Tamashi refrigerator combines 86 litres of storage with a double-door table-top format. Its compact format provides separate access to the two compartments.","image":"https://tamashi.com/wp-content/uploads/2026/04/hd_fridge.png","images":["https://tamashi.com/wp-content/uploads/2026/04/hd_fridge.png"],"specs":"Capacity: 86 L; Door type: Double door; Format: Table top"},{"id":"appliance-tamashinrx475s","name":"Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":11500,"description":"This 460-litre Tamashi side-by-side refrigerator uses inverter No Frost cooling. Multi-airflow cooling, electronic temperature control and interior LED lighting support everyday food storage.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg"],"specs":"Product: Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator; Feature: 460-litre spacious storage capacity; Feature: Side-by-side refrigerator design; Feature: No Frost cooling system; Feature: Inverter technology; Feature: Multi-airflow cooling"},{"id":"appliance-tamashinrx440h","name":"Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":7990,"description":"This 408-litre Tamashi refrigerator uses a four-door layout. Direct Cool technology provides cooling across its food-storage compartments.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png","https://www.electromart.com.gh/wp-content/uploads/2026/05/rg.png"],"specs":"Product: Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator; Feature: 408L refrigerator offering spacious storage for household food and beverages; Feature: Four-door design provides convenient access to separate compartments; Feature: Direct Cool technology supports everyday food preservation; Feature: Multiple compartments help keep food items organized; Feature: Spacious shelves provide room for different food containers"},{"id":"appliance-tamashiirx500a","name":"Tamashi IRX500A 470L Side by Side 4-Door Inverter Frost Free Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":9500,"description":"This 470-litre Tamashi refrigerator has a four-door layout. Inverter frost-free cooling complements its side-by-side storage design.","image":"https://tamashi.com/wp-content/uploads/2026/04/hd_fridge_v5.png","images":["https://tamashi.com/wp-content/uploads/2026/04/hd_fridge_v5.png"],"specs":"Capacity: 470 L; Doors: 4; Cooling: Inverter frost free"},{"id":"appliance-haierhrf315gb","name":"Haier HRF-315GB 280L Top Mount Twin-Inverter Frost Free Black G Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":7990,"description":"This 280-litre Haier refrigerator pairs a top-mounted freezer with twin-inverter frost-free cooling. The black finish completes its two-compartment layout.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png"],"specs":"Capacity: 280 L; Type: Top mount; Cooling: Twin-inverter frost free"},{"id":"appliance-haierhrf525mb","name":"Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":13490,"description":"This 468-litre Haier refrigerator uses a four-door design with frost-free cooling. A My Zone drawer and twin-inverter technology offer additional food-storage flexibility.","image":"https://image.haier.com/ae/refrigerators/W020240402751868392838_1200.png","images":["https://image.haier.com/ae/refrigerators/W020240402751868392838_1200.png","https://image.haier.com/ae/refrigerators/W020240402751869122420_1200.png","https://image.haier.com/ae/refrigerators/W020240402751868848716_1200.png","https://image.haier.com/ae/refrigerators/W020240402751869428896_1200.png"],"specs":"Product: Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator; Feature: HCS Technology; Feature: My Zone Drawer; Feature: Totally No Frost; Feature: Twin Inverter Technology; Feature: DEO PURE"},{"id":"appliance-haierhrf668ss","name":"Haier HRF-668SS 541L Side by Side Frost Free Twin-Inverter CC-T Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":12090,"description":"This 541-litre Haier side-by-side refrigerator uses twin-inverter frost-free cooling. Its side-by-side format provides separate access to chilled and frozen storage.","image":"https://image.haier.com/sa/refrigerators/W020250404556261042437_1200.jpg","images":["https://image.haier.com/sa/refrigerators/W020250404556261042437_1200.jpg","https://image.haier.com/sa/refrigerators/W020250404575812575652_1200.jpg","https://image.haier.com/sa/refrigerators/W020250404575812867866_1200.jpg","https://image.haier.com/sa/refrigerators/W020250404575813093191_1200.jpg","https://image.haier.com/sa/refrigerators/W020250404575813383267_1200.jpg","https://image.haier.com/sa/refrigerators/W020250404575813652955_1200.jpg","https://image.haier.com/sa/refrigerators/W020250404575813837960_1200.jpg"],"specs":"Capacity: 541 L; Type: Side by side; Cooling: Twin-inverter frost free"},{"id":"appliance-haierhrf672vcfmblgh","name":"Haier HRF-672VCFMBLGH 480L Top Mount Twin-Inverter Frost Free Black G Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":10900,"description":"This Haier top-mount refrigerator is listed with a 480-litre capacity and black finish. Twin-inverter frost-free cooling is paired with a top-freezer layout.","image":"","images":[],"specs":"Capacity (printed listing): 480 L; Type: Top mount; Cooling: Twin-inverter frost free"},{"id":"appliance-bruhmbbs200e","name":"Bruhm BBS-200E 178L Beverage Cooler","category":"Beverage coolers","subcategory":"Beverage coolers","price":6790,"description":"This 178-litre Bruhm beverage cooler uses total No Frost cooling and R290 refrigerant. Digital LED controls and a double-tempered glass door support chilled-drink storage and display.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-200E.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-200E.jpg"],"specs":"Product: Bruhm BBS-200E 178L Beverage Cooler; Feature: 178L Beverage Storage: Provides ample space for chilling and displaying beverages in homes, offices, shops and commercial spaces.; Feature: Total No Frost: Prevents frost build-up and eliminates the need for regular manual defrosting.; Feature: Digital LED Control: Makes it easy to monitor and adjust the cooler’s temperature.; Feature: Adjustable Shelves: Allows the internal storage layout to be customised for different bottle and can sizes.; Feature: Interior LED Light: Illuminates the cabinet, making products easier to see."},{"id":"appliance-bruhmbbs300e","name":"Bruhm BBS-300E 258L Beverage Cooler","category":"Beverage coolers","subcategory":"Beverage coolers","price":7290,"description":"This Bruhm beverage cooler provides 258 litres of storage. Its beverage-cooling format is intended for keeping drinks chilled.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-300E.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-300E.jpg"],"specs":"Capacity: 258 L; Type: Beverage cooler"},{"id":"appliance-bruhmbbd500e","name":"Bruhm BBD-500E 478L Double Door Beverage Cooler","category":"Beverage coolers","subcategory":"Beverage coolers","price":12290,"description":"This Bruhm double-door beverage cooler uses total No Frost cooling and R290 refrigerant. A digital display and tempered glass doors provide temperature monitoring and a view of the drinks inside.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/BBD-500E.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/BBD-500E.jpg"],"specs":"Product: Bruhm BBD-500E 478L Double Door Beverage Cooler; Feature: Total No Frost: Prevents frost build-up and eliminates the need for regular manual defrosting.; Feature: Digital LED Display: Makes it easy to monitor and adjust the cooler’s temperature settings.; Feature: Adjustable Shelves: Allows the storage space to be arranged according to different bottle and can sizes.; Feature: Interior LED Lighting: Brightly illuminates the cabinet, making products easy to see and display.; Feature: External Handle: Provides convenient access while maintaining a clean exterior design."},{"id":"appliance-bruhmbbd700e","name":"Bruhm BBD-700E 670L Double Door Beverage Cooler","category":"Beverage coolers","subcategory":"Beverage coolers","price":13290,"description":"This 670-litre Bruhm beverage cooler combines total No Frost cooling with R290 refrigerant. Digital LED controls and double-tempered glass doors support chilled-drink display.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/07/BBD-700E.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/07/BBD-700E.jpg"],"specs":"Product: Bruhm BBD-700E 670L Double Door Beverage Cooler; Feature: Total No Frost: Helps prevent frost build-up and reduces the need for manual defrosting.; Feature: Digital LED Control: Provides convenient temperature monitoring and adjustment.; Feature: Adjustable Shelves: Allows the interior layout to be customised for different beverage sizes.; Feature: Interior LED Lighting: Keeps beverages clearly visible for easy selection and attractive product presentation.; Feature: External Handle: Provides convenient access to the cooler."},{"id":"appliance-haiersc339jxea","name":"Haier SC-339JXEA White 320L Beverage Cooler","category":"Beverage coolers","subcategory":"Beverage coolers","price":9390,"description":"This 320-litre Haier beverage cooler uses fan cooling behind a single tempered-glass door. Interior LED lighting and five adjustable wire shelves help organize and display drinks.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/06/Haier-Single-Door-Fridge-SC-339JXEA-1-scaled-1.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/06/Haier-Single-Door-Fridge-SC-339JXEA-1-scaled-1.png"],"specs":"Product: Haier SC-339JXEA White 320L Beverage Cooler; Feature: 320L Large Storage Capacity – Ideal for displaying beverages, dairy products, and chilled foods.; Feature: Fan Cooling Technology – Delivers fast, even cooling throughout the cabinet.; Feature: Single Tempered Glass Door – Provides excellent product visibility while maintaining cooling efficiency.; Feature: Bright LED Interior Lighting – Enhances product display and improves visibility.; Feature: 5 Adjustable Wire Shelves – Flexible storage for different bottle and package sizes."},{"id":"appliance-bruhmbcs160ei","name":"Bruhm Black Premium Range BCS-160EI Inverter Touch Control Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":5499,"description":"This Bruhm Black premium-range chest freezer uses inverter technology. Touch controls provide an alternative to a mechanical temperature dial.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-460x460-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-460x460-1.jpg","https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-10-460x460-1.jpg","https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-6-460x460-2.jpg"],"specs":"Type: Chest freezer; Compressor: Inverter; Controls: Touch controls"},{"id":"appliance-tamashincx150g","name":"Tamashi NCX150G Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":3990,"description":"This Tamashi chest freezer provides 137 litres of storage. Its stated dimensions are 628 × 558 × 835 mm, with a net weight of 22 kg.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/1-14.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/1-14.jpg"],"specs":"Product: Tamashi NCX150G Chest Freezer; Voltage/frequency (V/Hz): 220V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) (mm): 628*558*835; Net weight (Kg): 22"},{"id":"appliance-bruhmbcs160mr","name":"Bruhm BCS-160MR 152L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":4099,"description":"This Bruhm chest freezer provides 152 litres of frozen-food storage. Its stated dimensions are 735 × 590 × 850 mm, with a net weight of 32 kg.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-BCS-160MR.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-BCS-160MR.png"],"specs":"Product: Bruhm BCS-160MR 152L Chest Freezer; Net capacity (L): 152; Voltage/frequency (V/Hz): 100-240V/50/60Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 735*590*850; Net weight (Kg): 32"},{"id":"appliance-bruhmbcs210mr","name":"Bruhm BCS-210MR 197L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":4599,"description":"This 197-litre Bruhm chest freezer uses mechanical temperature control. An LED light, super-freezing function and power indicator complete the feature set.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/06/BCS-210MR-460x460-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2024/06/BCS-210MR-460x460-1.jpg"],"specs":"Product: Bruhm BCS-210MR 197L Chest Freezer; Feature: Mechanical temperature control; Feature: LED light; Feature: Super freezing function; Feature: Power indicator function; Feature: Chromed External handle optional"},{"id":"appliance-haierhcf208sr","name":"Haier HCF-208SR(GH) 142L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":4799,"description":"This Haier chest freezer offers 142 litres of frozen-food storage. The chest format provides top access to stored food.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/Untitled_1000x1000px_-2025-12-29T132219.330.webp","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/Untitled_1000x1000px_-2025-12-29T132219.330.webp"],"specs":"Product: Haier HCF-208SR(GH) 142L Chest Freezer; Feature: Model: HCF-208SR(GH); Feature: Capacity: 142 Liters; Feature: Type: Chest Freezer; Feature: Cooling System: Reliable and fast freezing performance; Feature: Convenience: Easy-to-use controls with deep storage design"},{"id":"appliance-haierhcf288sr","name":"Haier HCF-288SR(GH) 203L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":5499,"description":"This 203-litre Haier chest freezer can switch between refrigerator and freezer operation. An inverter compressor and fast-freezing technology are included in its feature set.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/images-4.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/images-4.jpg"],"specs":"Product: Haier HCF-288SR(GH) 203L Chest Freezer; Feature: 203L Capacity; Feature: Convertible Fridge & Freezer Function; Feature: Fast Freezing Technology; Feature: Inverter Compressor; Feature: Wide Voltage Operation"},{"id":"appliance-haierhcf328ks","name":"Haier HCF-328KS 244L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":6699,"description":"This Haier chest freezer offers both freezing and refrigeration modes. Adjustable temperature control, a lockable handle and a water drain support everyday use.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-HCF-328KS-800x800-1.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-HCF-328KS-800x800-1.png"],"specs":"Product: Haier HCF-328KS 244L Chest Freezer; Feature: Flexible Freeze & Refrigeration Modes: Easily switch between freeze and refrigeration settings for versatile storage options.; Feature: Super Fast Cooling (-30°C): Quickly reaches ultra-low temperatures to maintain freshness.; Feature: Adjustable temperature control and power indicator; Feature: Wide voltage adaptability (130V-260V) for protection against voltage fluctuations; Feature: Lockable handle and water drain for easy maintenance"},{"id":"appliance-haierhcf368ks","name":"Haier HCF-368KS 300L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":7690,"description":"This Haier chest freezer provides 300 litres of storage. Its chest format provides space for frozen food.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-300L-HCF368KS.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-300L-HCF368KS.png"],"specs":"Capacity: 300 L; Type: Chest freezer"},{"id":"appliance-haierhcf428vs","name":"Haier HCF-428VS(GH) 379L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":7990,"description":"This 379-litre Haier chest freezer uses convertible inverter technology. An adjustable thermostat and a stated 130–260V operating range support temperature control.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/Screenshot-2026-08-18-103339.png","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/Screenshot-2026-08-18-103339.png"],"specs":"Product: Haier HCF-428VS(GH) 379L Chest Freezer; Feature: 120-Hour Power Failure Backup: Helps maintain freezing conditions for up to 120 hours during power interruptions.; Feature: Wide Voltage Operation: The 130–260V operating range helps the freezer perform reliably in areas with voltage fluctuations.; Feature: Adjustable Thermostat: Allows convenient adjustment of the freezer’s temperature according to storage requirements.; Feature: Interior LED Light: Provides clear visibility of the freezer’s contents.; Feature: Two Storage Baskets: Helps organise frequently accessed food items and smaller products."},{"id":"appliance-haierhcf478vs","name":"Haier HCF-478VS(GH) 429L DD Inverter Freeze and Ref Modes Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":9350,"description":"This 429-litre Haier chest freezer can switch between refrigerator and freezer operation. Its inverter design complements the large chest-storage format.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/HCF-478VSGH.webp","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/HCF-478VSGH.webp"],"specs":"Product: Haier HCF-478VS(GH) 429L DD Inverter Freeze and Ref Modes Chest Freezer; Feature: 429L Large Capacity – Ample storage space for bulk food, beverages, and frozen goods.; Feature: Convertible Design – Easily switch between freezer and refrigerator modes to suit your storage needs.; Feature: Five-Sided Cooling System – Ensures faster and more uniform cooling throughout the freezer.; Feature: 150-Hour Frost Stay – Retains cold temperatures for up to 150 hours during power outages, helping to preserve food.; Feature: Fast Freezing Function – Rapidly freezes fresh food to lock in nutrients and freshness."},{"id":"appliance-haierhcf588vs","name":"Haier HCF-588VS(GH) 519L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":9290,"description":"This Haier chest freezer provides 519 litres of storage. Its large chest format offers space for bulk frozen food.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103837.jpeg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103837.jpeg","https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103847.jpeg"],"specs":"Product: Haier HCF-588VS(GH) 519L Chest Freezer; Feature: Convertible Freezer & Fridge: Allows the unit to be switched between freezer and refrigerator modes for greater storage flexibility.; Feature: 5-Side Cooling: Circulates cooling across five sides of the cabinet to promote more uniform temperature distribution.; Feature: 150-Hour Cooling Retention: Helps keep stored food cold for an extended period during power interruptions.; Feature: 130–260V Wide Voltage: Designed to operate reliably across a wide voltage range, helping handle voltage fluctuations.; Feature: LED Interior Light: Makes it easier to see and organise items inside the freezer."},{"id":"appliance-tamashing6640g","name":"Tamashi NG6640G 60x60 4+0 Grill Auto Ignition Gas Cooker","category":"Gas cookers","subcategory":"Gas cookers","price":3599,"description":"This Tamashi gas cooker combines four gas burners with a grill. Its 60 × 60 format includes automatic ignition.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/11/TAMASHI-NG6640G.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/11/TAMASHI-NG6640G.png"],"specs":"Platform: 60 × 60; Burners: 4 gas; Functions: Grill; Ignition: Automatic"},{"id":"appliance-haierhtw70m1217","name":"Haier HTW70-M1217 7kg Twin Tub Washing Machine","category":"Washing machines","subcategory":"Washing machines","price":3799,"description":"This Haier twin-tub washing machine offers 7kg washing and 5kg spinning capacities. Timer controls, an air-dry function and a transparent lid support everyday laundry tasks.","image":"https://image.haier.com/my/washing-machines/W020250703601470083781_600.png","images":["https://image.haier.com/my/washing-machines/W020250703601470083781_600.png","https://image.haier.com/my/washing-machines/W020250703601470234532_600.png","https://image.haier.com/my/washing-machines/W020250703601470368655_600.png","https://image.haier.com/my/washing-machines/W020250703601470500940_600.png","https://image.haier.com/my/washing-machines/W020250703601470639026_600.png"],"specs":"Product: Haier HTW70-M1217 7kg Twin Tub Washing Machine; Category: Twin Loading; Material: Top Lid: Plastic; WASH Power: 380 W; SPIN Power: 165 W; Weight (KG): Net: 20 kg, Gross: 22 kg; Control Mode: Timer; Soak Wash: 35 minutes (Soak 20 + Wash 15); Dynamic Balance: Selectable; Water Inlet Selection: Selectable"},{"id":"appliance-haierhw80b14959s8","name":"Haier HW80-B14959S8 8kg Silver Direct Inverter Front Load Washing Machine","category":"Washing machines","subcategory":"Washing machines","price":8290,"description":"This Haier front-load washing machine has an 8kg capacity and a Direct Drive inverter motor. A 1400 RPM spin speed and multiple wash programs provide options for different laundry loads.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg","https://www.electromart.com.gh/wp-content/uploads/2026/10/WM-1.jpg"],"specs":"Product: Haier HW80-B14959S8 8kg Silver Direct Inverter Front Load Washing Machine; Feature: Up to 1400 RPM spin speed helps remove excess water; Feature: Multiple wash programs for different fabric types; Feature: Digital display for easy operation; Feature: Front load design for effective washing performance"},{"id":"appliance-haierhw90bp14357s8","name":"Haier HW90-BP14357S8 9kg Silver Direct Inverter Front Load Washing Machine","category":"Washing machines","subcategory":"Washing machines","price":8490,"description":"This 9kg Haier front-load washing machine uses a Direct Drive motor. Multiple wash programs and a digital display provide control over everyday laundry.","image":"https://image.haier.com/eg/washing-machines/W020261016624698995565_1200.png","images":["https://image.haier.com/eg/washing-machines/W020261016624698995565_1200.png","https://image.haier.com/eg/washing-machines/W020261016624699555342_1200.png","https://image.haier.com/eg/washing-machines/W020261016624700026928_1200.png"],"specs":"Product: Haier HW90-BP14357S8 9kg Silver Direct Inverter Front Load Washing Machine; Feature: 1400 RPM spin speed helps remove excess water from clothes; Feature: Multiple wash programs for different fabric types; Feature: Digital display for convenient operation and monitoring"},{"id":"appliance-orientmaverick","name":"Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe","category":"Water heaters","subcategory":"Water heaters","price":2990,"description":"This Orient Maverick storage water heater provides a 6-litre capacity and 2000W rating. The printed model includes a 5-star rating and a free pipe.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp","images":["https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp"],"specs":"Product: Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe; Feature: Good corrosion resistance & extended life with 27% thicker Magnesium Anode rod & nickel coated heavy copper heating element; Feature: 20% more hot water output with Whirlflow technology; Feature: Shock-proof & Water-proof with IPX2 Pre-Coated Metal Body; Feature: Enhanced Safety with Multifunction Valve; Feature: 10% longer heat retention with thick PUF insulation"},{"id":"appliance-bruhmbtf65w","name":"Bruhm LED BTF-65W UHD VIDAA Smart OS TV","category":"TVs","subcategory":"TVs","price":7699,"description":"This Bruhm television combines a 65-inch UHD display with a VIDAA smart operating system. The smart-TV format supports connected viewing on a large screen.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png"],"specs":"Screen size: 65 inches; Resolution: UHD; Smart OS: VIDAA"},{"id":"appliance-bruhmbtf75w","name":"Bruhm LED BTF-75W UHD VIDAA Smart OS TV","category":"TVs","subcategory":"TVs","price":10899,"description":"This Bruhm television combines a 75-inch UHD display with a VIDAA smart operating system. Its large-screen format is designed for home entertainment.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png"],"specs":"Screen size: 75 inches; Resolution: UHD; Smart OS: VIDAA"},{"id":"appliance-bruhmbas12ic3w","name":"Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp","category":"Air conditioners","subcategory":"Air conditioners","price":4499,"description":"This 1.5HP Bruhm inverter split air conditioner uses R32 refrigerant. Four-way airflow and a Golden Fin condenser are included in its design.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg"],"specs":"Product: Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp; Feature: Four-way airflow; Feature: R32 gas; Feature: Inverter wide voltage range: 150-285V; Feature: Golden fin condenser for anti-rust and fast cooling; Feature: Anti-bacteria filter"},{"id":"appliance-bruhmbas24ic3b","name":"Bruhm Split AC BAS-24IC3B WiFi Smart","category":"Air conditioners","subcategory":"Air conditioners","price":8899,"description":"This 2.5HP Bruhm inverter split air conditioner offers 24,000 BTU cooling and smart Wi-Fi control. A Golden Fin condenser and 2D swing support its cooling system.","image":"","images":[],"specs":"Product: Bruhm Split AC BAS-24IC3B WiFi Smart; Feature: 24,000 BTU Powerful Cooling: Delivers strong cooling performance for larger rooms and spaces.; Feature: Smart Wi-Fi Control: Allows convenient control of the AC through compatible smart devices.; Feature: Fast Cooling: Quickly reduces room temperature to provide comfortable conditions.; Feature: High Airflow: Provides up to 1,300 m³/h of indoor airflow for effective circulation of cool air.; Feature: 2D Swing: Helps distribute cool air more evenly around the room."},{"id":"appliance-tamashiiax2420","name":"Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin","category":"Air conditioners","subcategory":"Air conditioners","price":6899,"description":"This 2.5HP Tamashi split air conditioner uses inverter technology. R410A refrigerant and a Golden Fin design are included in the model listing.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/09/TAMASHI-SPLIT-AC-IAX2420-2.5HP.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/09/TAMASHI-SPLIT-AC-IAX2420-2.5HP.png"],"specs":"Product: Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin; Voltage/frequency: 220-240V,50/60Hz; Climate type: T/ST; Gas type: R410a"},{"id":"appliance-haierhsu12pa12hi","name":"Haier Split AC HSU-12PA12HI 1.5hp Inverter R290","category":"Air conditioners","subcategory":"Air conditioners","price":6899,"description":"This Haier split air conditioner has a 1.5HP rating. Its inverter design uses R290 refrigerant.","image":"","images":[],"specs":"Type: Split air conditioner; Rating: 1.5 HP; Technology: Inverter; Refrigerant: R290"},{"id":"appliance-bruhmbfc390en","name":"Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":6899,"description":"This Bruhm bottom-mount refrigerator combines a 264-litre fridge with a 113-litre freezer. Its 377-litre double-door design uses no-frost cooling.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/08/390l-1.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/08/390l-1.png"],"specs":"Product: Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator; Net capacity (L): 377; Fridge (L): 264; Freezer (L): 113; Voltage/frequency (V/Hz): 220-240V/50Hz; Climate type (T/ST): T/ST; Frost type: No frost; Door type: Double door; Unit size (W*D*H) mm: 600*675*2005; Net weight (Kg): 72"},{"id":"appliance-bruhmbfs100md","name":"Bruhm BFS-100MD Table Top Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":2499,"description":"This Bruhm refrigerator uses a table-top format. The compact configuration offers an alternative to a full-height refrigerator.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png","images":["https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png","https://www.electromart.com.gh/wp-content/uploads/2025/05/BFSMD100-1.png"],"specs":"Type: Table-top refrigerator; Model: BFS-100MD"},{"id":"appliance-bruhmbfd225md","name":"Bruhm BFD-225MD 208L Top Mount DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":2699,"description":"This 208-litre Bruhm refrigerator has a top-mounted freezer and double-door layout. Defrost cooling separates 158 litres of refrigerator storage from a 50-litre freezer compartment.","image":"https://bruhm.com/images/products/BFD-225MD/BFD-225MD-refrigerator-01.jpg","images":["https://bruhm.com/images/products/BFD-225MD/BFD-225MD-refrigerator-01.jpg"],"specs":"Capacity: 208 L; Type: Top mount; Fridge compartment: 158 L; Freezer compartment: 50 L; Cooling: Defrost; Dimensions (W × D × H): 523 × 543 × 1440 mm; Net weight: 40 kg"},{"id":"appliance-bruhmbfd275md","name":"Bruhm BFD-275MD 255L Top Mount DC Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":3699,"description":"This Bruhm top-mount refrigerator provides 255 litres of storage, including a 195-litre fridge and 60-litre freezer. The double-door layout uses defrost cooling.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png","https://bruhm.com/wp-content/uploads/2024/08/BFD-275MD.jpg"],"specs":"Product: Bruhm BFD-275MD 255L Top Mount DC Refrigerator; Net capacity (L): 255; Fridge (L): 195; Freezer (L): 60; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 550*570*1700"},{"id":"appliance-haierhrf135bluk2gh","name":"Haier HRF-135BLUK2GH 90L Table Top Refrigerator","category":"Refrigerators","subcategory":"Refrigerators","price":2799,"description":"This Haier table-top refrigerator provides 90 litres of storage in a single-door design. Direct Cool cooling and adjustable shelves offer a compact option for organizing food and drinks.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/08/2-4.jpg"],"specs":"Product: Haier HRF-135BLUK2GH 90L Table Top Refrigerator; Feature: Single Door Refrigerator; Feature: Capacity: 90 Litres; Feature: Direct Cool Cooling System; Feature: Compact Design – Ideal for Small Spaces; Feature: Adjustable Shelves for Flexible Storage"},{"id":"appliance-tamashincx100g","name":"Tamashi NCX100G Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":2999,"description":"This Tamashi chest freezer provides 96 litres of storage. Its stated dimensions are 545 × 575 × 835 mm, with a net weight of 19 kg.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/2-3.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/2-3.jpg","https://www.electromart.com.gh/wp-content/uploads/2026/05/1-12.jpg"],"specs":"Product: Tamashi NCX100G Chest Freezer; Voltage/frequency (V/Hz): 220V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) (mm): 545*575*835; Net weight (Kg): 19"},{"id":"appliance-bruhmbcs410mr","name":"Bruhm BCS-410MR 368L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":5699,"description":"This 368-litre Bruhm chest freezer uses mechanical temperature control. An LED light, super-freezing function and power indicator are included.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/05/BCS-410MR-460x460-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2024/05/BCS-410MR-460x460-1.jpg"],"specs":"Product: Bruhm BCS-410MR 368L Chest Freezer; Feature: Mechanical temperature control; Feature: LED light; Feature: Super freezing function; Feature: Power indicator function; Feature: Chromed External handle optional"},{"id":"appliance-bruhmbcd610mr","name":"Bruhm BCD-610MR 560L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":7299,"description":"This Bruhm chest freezer provides 560 litres of storage. Its stated dimensions are 1805 × 750 × 850 mm, with a net weight of 78 kg.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/10/BRUHM-BCD-610MR-.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/10/BRUHM-BCD-610MR-.png"],"specs":"Product: Bruhm BCD-610MR 560L Chest Freezer; Net capacity (L): 560; Voltage/frequency (V/Hz): 100-240V/50/60Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 1805*750*850; Net weight (Kg): 78"},{"id":"appliance-bruhmbcd810mr","name":"Bruhm BCD-810MR 755L Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":10399,"description":"This Bruhm chest freezer provides 755 litres of frozen-food storage. The large chest format offers space for bulk storage.","image":"https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-CHEST-FREEZER-BCD-810MR.png","images":["https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-CHEST-FREEZER-BCD-810MR.png"],"specs":"Capacity: 755 L; Type: Chest freezer"},{"id":"appliance-bruhmbcs200eix","name":"Bruhm BCS-200EIX 190L Inverter Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":3699,"description":"This 190-litre Bruhm inverter chest freezer operates on a stated 130–260V, 50Hz supply. Its stated dimensions are 950 × 564 × 845 mm, with a net weight of 35 kg.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-1.jpg","https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2-1.jpg"],"specs":"Product: Bruhm BCS-200EIX 190L Inverter Chest Freezer; Net capacity (L): 190; Voltage/frequency (V/Hz): 130-260V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 950*564*845; Net weight (Kg): 35"},{"id":"appliance-bruhmbcs250eix","name":"Bruhm BCS-250EIX 230L Inverter Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":4199,"description":"This 230-litre Bruhm chest freezer uses an inverter compressor. Its stated 130–260V operating range accommodates a broad input-voltage range.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg","https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"],"specs":"Product: Bruhm BCS-250EIX 230L Inverter Chest Freezer; Feature: 120-Hour Cooling Retention: Helps keep stored food frozen for extended periods during power interruptions.; Feature: 130–260V Wide Voltage: Designed to operate effectively across a broad voltage range, helping it handle voltage fluctuations.; Feature: Electronic Control: Allows convenient and precise management of freezer settings.; Feature: Compressor Fan: Provides additional cooling support to the compressor.; Feature: Lock & Key: Adds security for stored food and other contents."},{"id":"appliance-bruhmbcs300eix","name":"Bruhm BCS-300EIX 282L Inverter Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":4899,"description":"This 282-litre Bruhm chest freezer uses an inverter compressor. Its stated 130–260V operating range accommodates a broad input-voltage range.","image":"https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg","images":["https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg","https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"],"specs":"Product: Bruhm BCS-300EIX 282L Inverter Chest Freezer; Feature: 120-Hour Cooling Retention: Helps preserve frozen items for an extended period during power interruptions.; Feature: 130–260V Wide Voltage: Designed to operate across a broad voltage range, helping accommodate voltage fluctuations.; Feature: Electronic Control: Provides convenient control of freezer operation and temperature settings.; Feature: Compressor Fan: Provides additional cooling support to the compressor.; Feature: Lock & Key: Adds security for stored food and other contents."},{"id":"appliance-bruhmbcs350eix","name":"Bruhm BCS-350EIX 350L Inverter Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":5899,"description":"This Bruhm chest freezer uses inverter technology for frozen-food storage. Its stated dimensions are 1275 × 740 × 825 mm, with a net weight of 55 kg.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg","https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"],"specs":"Product: Bruhm BCS-350EIX 350L Inverter Chest Freezer; Voltage/frequency (V/Hz): 130-260V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 1275*740*825; Net weight (Kg): 55"},{"id":"appliance-bruhmbcd450eix","name":"Bruhm BCD-450EIX 435L Inverter Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":6899,"description":"This 435-litre Bruhm chest freezer combines a double-door layout with an inverter compressor. Electronic temperature control provides adjustment of its cooling settings.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-460x460-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-460x460-1.jpg","https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-2-460x460-1.jpg"],"specs":"Product: Bruhm BCD-450EIX 435L Inverter Chest Freezer; Feature: 435-litre large storage capacity; Feature: Double-door design for convenient access; Feature: Electronic temperature control; Feature: Up to 120 hours cooling retention; Feature: Wide voltage operation from 130–260V"},{"id":"appliance-bruhmbcd500eix","name":"Bruhm BCD-500EIX 488L Inverter Chest Freezer","category":"Chest freezers","subcategory":"Chest freezers","price":7899,"description":"This Bruhm chest freezer uses an inverter compressor. Its stated 130–260V operating range accommodates a broad input-voltage range.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg","https://bruhm.com/wp-content/uploads/2025/07/BCD-450EIX-BCD-500EIX-BCD-600EIX-2.jpg"],"specs":"Product: Bruhm BCD-500EIX 488L Inverter Chest Freezer; Feature: 120-Hour Cooling Retention: Helps maintain low temperatures for extended periods during power interruptions.; Feature: Electronic Control: Provides convenient electronic temperature management for more precise freezer operation.; Feature: Double Door Design: Two separate lids provide easier access to the large storage compartment and help minimise cold-air loss when accessing contents.; Feature: Compressor Fan: Provides additional cooling support for the compressor.; Feature: Lock & Key: Provides added security for stored items."},{"id":"appliance-bruhmbgc5540ib","name":"Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker","category":"Gas cookers","subcategory":"Gas cookers","price":1599,"description":"Cook across four gas burners and a gas oven in this black Bruhm cooker. A double-glass oven door and adjustable legs complete the design.","image":"https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-01.jpg","images":["https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-01.jpg","https://www.electromart.com.gh/wp-content/uploads/2024/06/BRUHM-5540IB-800x800-11.png","https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-02.jpg","https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-04.jpg"],"specs":"Product: Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker; Platform: 50×50; Voltage/frequency: 100-240V/50/60Hz; Colour: Black; Key USPs: 4 Gas burners"},{"id":"appliance-bruhmbgc5540if","name":"Bruhm BGC 5540IF 4+0 Oven Silver Gas Cooker","category":"Gas cookers","subcategory":"Gas cookers","price":1599,"description":"This silver Bruhm cooker pairs four gas burners with a gas oven. A double-glass oven door and adjustable legs are part of its practical cooking layout.","image":"https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-01.jpg","images":["https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-01.jpg","https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-5540IF.jpg","https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-02.jpg","https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-04.jpg","https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-05.jpg"],"specs":"Burners: 4 gas; Oven: Gas; Finish: Silver; Oven door: Double glass; Legs: Adjustable"},{"id":"appliance-bruhmbgc5640ss","name":"Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker","category":"Gas cookers","subcategory":"Gas cookers","price":2199,"description":"This Bruhm cooker pairs four gas burners with a gas oven and grill. The stainless-steel worktop and body complement automatic ignition and an oven light.","image":"https://bruhm.com/images/products/BGC-5640SS/BGC-5640SS-gas-cooker-02.jpg","images":["https://bruhm.com/images/products/BGC-5640SS/BGC-5640SS-gas-cooker-02.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS-4.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS-3.jpg"],"specs":"Product: Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker; Feature: 4 Gas burners; Feature: Pipe type system/Euro burners; Feature: Stailnless steel work top & body; Feature: Gas oven with inside lamp; Feature: Rotisserie/turnspit"},{"id":"appliance-haierhrg5400bdnmb","name":"Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker","category":"Gas cookers","subcategory":"Gas cookers","price":3999,"description":"This black Haier gas cooker combines four burners with a gas oven. An integrated grill broadens its cooking options.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/HRG5400BDNMB_54NAGC-EP-FNXN22N2-ortho-view-opened.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/HRG5400BDNMB_54NAGC-EP-FNXN22N2-ortho-view-opened.png"],"specs":"Product: Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker; Feature: 4 gas burners; Feature: Spacious built-in gas oven; Feature: Integrated grill function; Feature: Different burner sizes for flexible cooking"},{"id":"appliance-haierhrg5400bdnss","name":"Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker","category":"Gas cookers","subcategory":"Gas cookers","price":3999,"description":"This silver Haier cooker provides four gas burners and an oven. The printed model listing also includes a grill and automatic ignition.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg"],"specs":"Product: Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker; Feature: Freestanding gas cooker with built-in oven; Feature: 4 gas burners (multi-size for different cooking needs); Feature: LPG / Natural gas compatible (conversion may be required); Feature: 60-litre gas oven for baking, roasting, and grilling; Feature: Heat-resistant glass oven door for visibility"},{"id":"appliance-bruhmbhg60fb","name":"Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood","category":"Extractor hoods","subcategory":"Extractor hoods","price":1299,"description":"This 60cm Bruhm extractor hood has a black-and-stainless-steel finish. Its stated suction rating is 600 cubic metres per hour.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-1.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-1.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-2.jpg","https://bruhm.com/wp-content/uploads/2025/07/BHG-60FB-3.jpg"],"specs":"Product: Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood; Platform (cm): 60; Voltage/frequency: 220-240V/50Hz; Suction power (m³/h): 600; Colour: Black and stainless steel"},{"id":"appliance-bruhmbhg90fb","name":"Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood","category":"Extractor hoods","subcategory":"Extractor hoods","price":1399,"description":"This 90cm Bruhm extractor hood covers a wide cooking area. A grease filter and integrated lighting support use above the hob.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/07/BHG-90FB.webp","images":["https://www.electromart.com.gh/wp-content/uploads/2025/07/BHG-90FB.webp","https://bruhm.com/wp-content/uploads/2025/07/BHG-90FB-2.jpg","https://bruhm.com/wp-content/uploads/2025/07/BHG-90FB-3.jpg"],"specs":"Product: Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood; Feature: 90 cm extractor hood designed to help remove cooking smoke, grease and odours; Feature: Helps maintain fresher air while cooking; Feature: Grease filter helps capture airborne grease particles; Feature: Integrated lighting improves visibility over the cooking area; Feature: Practical controls for convenient operation"},{"id":"appliance-bruhmbht90fb","name":"Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood","category":"Extractor hoods","subcategory":"Extractor hoods","price":1999,"description":"This 90cm Bruhm T-shape chimney hood has a black finish. Its stated suction rating is 700 cubic metres per hour.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB.jpg","images":["https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB.jpg","https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB-2.jpg","https://bruhm.com/wp-content/uploads/2025/07/BHT-90FB-3.jpg"],"specs":"Product: Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood; Platform (cm): 90; Voltage/frequency: 220-240V/50Hz; Suction power (m³/h): 700; Colour: Black"},{"id":"appliance-haierhmw20mbp","name":"Haier HMW20MBP 20L Solo Black Microwave Oven","category":"Microwaves","subcategory":"Microwaves","price":1799,"description":"This 20-litre Haier solo microwave offers cooking, reheating and defrosting functions. Manual knob controls keep operation straightforward.","image":"https://www.electromart.com.gh/wp-content/uploads/2025/08/HMW20MBP.jpeg","images":["https://www.electromart.com.gh/wp-content/uploads/2025/08/HMW20MBP.jpeg"],"specs":"Capacity: 20 L; Type: Solo microwave; Controls: Knobs; Functions: Cook, reheat and defrost"},{"id":"appliance-haierhmw20db","name":"Haier HMW20DB 20L Solo Black Mirror Microwave Oven","category":"Microwaves","subcategory":"Microwaves","price":1599,"description":"This Haier solo microwave offers a 20-litre capacity. Its black mirror finish gives the appliance a distinctive appearance.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png"],"specs":"Capacity: 20 L; Type: Solo microwave; Finish: Black mirror"},{"id":"appliance-wanbovali1pro","name":"Wanbo Vali 1 Pro Projector","category":"Projectors","subcategory":"Projectors","price":5199,"description":"This Wanbo Full HD projector combines 1080p resolution with 900 ANSI lumens and Google TV 14. Automatic focus and keystone correction simplify positioning, while Wi-Fi, Bluetooth, HDMI and USB provide connection options.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/09/2-1.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/09/2-1.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/1-2.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/3-2.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/4-2.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/5-2.png"],"specs":"Product: Wanbo Vali 1 Pro Projector; Feature: Smart Full HD projector designed for home entertainment; Feature: Delivers bright 900 ANSI lumen visuals with 1080p resolution; Feature: Google TV 14 provides access to streaming apps and Google Play Store; Feature: 32GB storage and 2GB RAM for apps and media; Feature: HDR10 and MEMC enhance picture quality and motion"},{"id":"appliance-wanbocube2pro","name":"Wanbo Cube 2 Pro Beige Green Projector","category":"Projectors","subcategory":"Projectors","price":3199,"description":"This Wanbo Cube 2 Pro projector combines native 1080p resolution with 500 ANSI lumens and Android TV 11. A 230° adjustable gimbal, automatic focus and keystone correction support flexible positioning.","image":"https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-5.png","images":["https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-5.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-2.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-4.png","https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-3.png"],"specs":"Product: Wanbo Cube 2 Pro Beige Green Projector; Feature: Compact Full HD smart projector; Feature: 500 ANSI lumens for bright image output; Feature: Native 1080p resolution for sharp visuals; Feature: Android TV 11 for smart streaming; Feature: Built-in access to popular streaming platforms"}]);
+PRODUCTS.splice(0, PRODUCTS.length, ...[
+  {
+    "id": "appliance-bruhmbtf100w",
+    "name": "Bruhm LED BTF 100W 100-inch QLED Web Smart TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 26990,
+    "description": "A 100-inch QLED display makes this Bruhm Web smart television a large-screen entertainment option. Its smart operating system brings connected viewing to the QLED screen.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-2.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-3.jpg"
+    ],
+    "specs": "Screen size: 100 inches; Display: QLED; Operating system: Web Smart TV"
+  },
+  {
+    "id": "appliance-haierh65s80gux",
+    "name": "Haier H65S80GUX 65-inch QLED Google TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 11290,
+    "description": "Enjoy a 65-inch QLED screen with 3840 × 2160 resolution and Google TV. Wi-Fi, Bluetooth and Dolby Audio support connected home entertainment.",
+    "image": "https://image.haier.com/sa/tvs/W020260825516735800548_1200.png",
+    "images": [
+      "https://image.haier.com/sa/tvs/W020260825516735800548_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516736359292_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516737176937_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516737495108_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516737808228_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516738022732_1200.png"
+    ],
+    "specs": "Product: Haier H65S80GUX 65-inch QLED Google TV; Feature: QLED Technology: Delivers vibrant colours, improved colour accuracy and detailed images using Quantum Dot technology.; Feature: 4K UHD Resolution: Produces sharp and detailed visuals with 3840 × 2160 resolution.; Feature: Google TV: Provides access to popular streaming apps, Google Assistant, Chromecast and personalised content recommendations.; Feature: AI Picture Quality: Automatically optimises picture quality by adjusting colour, contrast and sharpness according to the content.; Feature: MEMC Technology: Reduces motion blur and improves clarity during fast-moving scenes."
+  },
+  {
+    "id": "appliance-bruhmbas12rc3w",
+    "name": "Bruhm Split AC BAS-12RC3W R32 1.5hp",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 5299,
+    "description": "This 1.5HP split air conditioner provides 12,000 BTU cooling. Turbo and Sleep modes let you choose between faster cooling and overnight operation.",
+    "image": "",
+    "images": [],
+    "specs": "Product: Bruhm Split AC BAS-12RC3W R32 1.5hp; Feature: Anti-Bacterial Filter – Helps filter airborne particles and maintain cleaner airflow.; Feature: Dual Drainage – Provides flexible options for condensate drainage during installation.; Feature: Auto-Restart – Automatically resumes operation after a power interruption.; Feature: Self-Cleaning Function – Helps keep the internal components cleaner.; Feature: Turbo Mode – Provides rapid cooling when quick temperature reduction is required."
+  },
+  {
+    "id": "appliance-bruhmbfc140md",
+    "name": "Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 5099,
+    "description": "This Bruhm bottom-mount refrigerator provides 128 litres of storage, with a 93-litre fridge and 35-litre freezer. Its double-door layout keeps the chilled and frozen compartments separately accessible.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg"
+    ],
+    "specs": "Product: Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator; Net capacity (L): 128; Fridge (L): 93; Freezer (L): 35; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 453*525*1266; Net weight (Kg): 31"
+  },
+  {
+    "id": "appliance-bruhmbfc185md",
+    "name": "Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 4499,
+    "description": "This Bruhm bottom-mount refrigerator combines a 120-litre fridge with a 63-litre freezer. The 183-litre double-door design uses defrost cooling.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png"
+    ],
+    "specs": "Product: Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator; Net capacity (L): 183; Fridge (L): 120; Freezer (L): 63; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 483*545*1502; Net weight (Kg): 45"
+  },
+  {
+    "id": "appliance-bruhmbfd135md",
+    "name": "Bruhm BFD-135MD 118L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 3999,
+    "description": "This Bruhm top-mount refrigerator offers 118 litres of storage, divided between an 84-litre fridge and a 34-litre freezer. Its double-door design gives separate access to chilled and frozen food.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png"
+    ],
+    "specs": "Product: Bruhm BFD-135MD 118L Top Mount DC Refrigerator; Net capacity (L): 118; Fridge (L): 84; Freezer (L): 34; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 453*525*1181; Net weight (Kg): 33"
+  },
+  {
+    "id": "appliance-bruhmbfd145md",
+    "name": "Bruhm BFD-145MD 132L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 4299,
+    "description": "This Bruhm top-mount refrigerator offers 132 litres of storage, with a 97-litre fridge and a 35-litre freezer. Its double-door design uses defrost cooling.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png"
+    ],
+    "specs": "Product: Bruhm BFD-145MD 132L Top Mount DC Refrigerator; Net capacity (L): 132; Fridge (L): 97; Freezer (L): 35; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 453*525*1266; Net weight (Kg): 35"
+  },
+  {
+    "id": "appliance-bruhmbfd330md",
+    "name": "Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7290,
+    "description": "This Bruhm top-mount refrigerator provides 311 litres of storage and a water dispenser. Its double-door design separates access to chilled and frozen storage.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD-2-460x460-1.jpg"
+    ],
+    "specs": "Product: Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator; Net capacity (L): 311; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 600*600*1720"
+  },
+  {
+    "id": "appliance-bruhmbfq510en",
+    "name": "Bruhm BFQ-510EN 503L Side by Side 4-Door Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 14399,
+    "description": "This Bruhm refrigerator provides 503 litres of storage in a four-door layout. Frost-free cooling gives it a different approach to food storage from a manual-defrost refrigerator.",
+    "image": "",
+    "images": [],
+    "specs": "Capacity (printed listing): 503 L; Doors: 4; Cooling: Frost free"
+  },
+  {
+    "id": "appliance-tamashinrx100m",
+    "name": "Tamashi NRX100M 86L Double Door Table Top Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 3590,
+    "description": "This Tamashi refrigerator combines 86 litres of storage with a double-door table-top format. Its compact format provides separate access to the two compartments.",
+    "image": "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge.png",
+    "images": [
+      "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge.png"
+    ],
+    "specs": "Capacity: 86 L; Door type: Double door; Format: Table top"
+  },
+  {
+    "id": "appliance-tamashinrx475s",
+    "name": "Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 11500,
+    "description": "This 460-litre Tamashi side-by-side refrigerator uses inverter No Frost cooling. Multi-airflow cooling, electronic temperature control and interior LED lighting support everyday food storage.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg"
+    ],
+    "specs": "Product: Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator; Feature: 460-litre spacious storage capacity; Feature: Side-by-side refrigerator design; Feature: No Frost cooling system; Feature: Inverter technology; Feature: Multi-airflow cooling"
+  },
+  {
+    "id": "appliance-tamashinrx440h",
+    "name": "Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7990,
+    "description": "This 408-litre Tamashi refrigerator uses a four-door layout. Direct Cool technology provides cooling across its food-storage compartments.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/rg.png"
+    ],
+    "specs": "Product: Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator; Feature: 408L refrigerator offering spacious storage for household food and beverages; Feature: Four-door design provides convenient access to separate compartments; Feature: Direct Cool technology supports everyday food preservation; Feature: Multiple compartments help keep food items organized; Feature: Spacious shelves provide room for different food containers"
+  },
+  {
+    "id": "appliance-tamashiirx500a",
+    "name": "Tamashi IRX500A 470L Side by Side 4-Door Inverter Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 9500,
+    "description": "This 470-litre Tamashi refrigerator has a four-door layout. Inverter frost-free cooling complements its side-by-side storage design.",
+    "image": "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge_v5.png",
+    "images": [
+      "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge_v5.png"
+    ],
+    "specs": "Capacity: 470 L; Doors: 4; Cooling: Inverter frost free"
+  },
+  {
+    "id": "appliance-haierhrf315gb",
+    "name": "Haier HRF-315GB 280L Top Mount Twin-Inverter Frost Free Black G Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7990,
+    "description": "This 280-litre Haier refrigerator pairs a top-mounted freezer with twin-inverter frost-free cooling. The black finish completes its two-compartment layout.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png"
+    ],
+    "specs": "Capacity: 280 L; Type: Top mount; Cooling: Twin-inverter frost free"
+  },
+  {
+    "id": "appliance-haierhrf525mb",
+    "name": "Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 13490,
+    "description": "This 468-litre Haier refrigerator uses a four-door design with frost-free cooling. A My Zone drawer and twin-inverter technology offer additional food-storage flexibility.",
+    "image": "https://image.haier.com/ae/refrigerators/W020240402751868392838_1200.png",
+    "images": [
+      "https://image.haier.com/ae/refrigerators/W020240402751868392838_1200.png",
+      "https://image.haier.com/ae/refrigerators/W020240402751869122420_1200.png",
+      "https://image.haier.com/ae/refrigerators/W020240402751868848716_1200.png",
+      "https://image.haier.com/ae/refrigerators/W020240402751869428896_1200.png"
+    ],
+    "specs": "Product: Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator; Feature: HCS Technology; Feature: My Zone Drawer; Feature: Totally No Frost; Feature: Twin Inverter Technology; Feature: DEO PURE"
+  },
+  {
+    "id": "appliance-haierhrf668ss",
+    "name": "Haier HRF-668SS 541L Side by Side Frost Free Twin-Inverter CC-T Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 12090,
+    "description": "This 541-litre Haier side-by-side refrigerator uses twin-inverter frost-free cooling. Its side-by-side format provides separate access to chilled and frozen storage.",
+    "image": "https://image.haier.com/sa/refrigerators/W020250404556261042437_1200.jpg",
+    "images": [
+      "https://image.haier.com/sa/refrigerators/W020250404556261042437_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575812575652_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575812867866_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813093191_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813383267_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813652955_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813837960_1200.jpg"
+    ],
+    "specs": "Capacity: 541 L; Type: Side by side; Cooling: Twin-inverter frost free"
+  },
+  {
+    "id": "appliance-haierhrf672vcfmblgh",
+    "name": "Haier HRF-672VCFMBLGH 480L Top Mount Twin-Inverter Frost Free Black G Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 10900,
+    "description": "This Haier top-mount refrigerator is listed with a 480-litre capacity and black finish. Twin-inverter frost-free cooling is paired with a top-freezer layout.",
+    "image": "",
+    "images": [],
+    "specs": "Capacity (printed listing): 480 L; Type: Top mount; Cooling: Twin-inverter frost free"
+  },
+  {
+    "id": "appliance-bruhmbbs200e",
+    "name": "Bruhm BBS-200E 178L Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 6790,
+    "description": "This 178-litre Bruhm beverage cooler uses total No Frost cooling and R290 refrigerant. Digital LED controls and a double-tempered glass door support chilled-drink storage and display.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-200E.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-200E.jpg"
+    ],
+    "specs": "Product: Bruhm BBS-200E 178L Beverage Cooler; Feature: 178L Beverage Storage: Provides ample space for chilling and displaying beverages in homes, offices, shops and commercial spaces.; Feature: Total No Frost: Prevents frost build-up and eliminates the need for regular manual defrosting.; Feature: Digital LED Control: Makes it easy to monitor and adjust the cooler’s temperature.; Feature: Adjustable Shelves: Allows the internal storage layout to be customised for different bottle and can sizes.; Feature: Interior LED Light: Illuminates the cabinet, making products easier to see."
+  },
+  {
+    "id": "appliance-bruhmbbs300e",
+    "name": "Bruhm BBS-300E 258L Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 7290,
+    "description": "This Bruhm beverage cooler provides 258 litres of storage. Its beverage-cooling format is intended for keeping drinks chilled.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-300E.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-300E.jpg"
+    ],
+    "specs": "Capacity: 258 L; Type: Beverage cooler"
+  },
+  {
+    "id": "appliance-bruhmbbd500e",
+    "name": "Bruhm BBD-500E 478L Double Door Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 12290,
+    "description": "This Bruhm double-door beverage cooler uses total No Frost cooling and R290 refrigerant. A digital display and tempered glass doors provide temperature monitoring and a view of the drinks inside.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBD-500E.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBD-500E.jpg"
+    ],
+    "specs": "Product: Bruhm BBD-500E 478L Double Door Beverage Cooler; Feature: Total No Frost: Prevents frost build-up and eliminates the need for regular manual defrosting.; Feature: Digital LED Display: Makes it easy to monitor and adjust the cooler’s temperature settings.; Feature: Adjustable Shelves: Allows the storage space to be arranged according to different bottle and can sizes.; Feature: Interior LED Lighting: Brightly illuminates the cabinet, making products easy to see and display.; Feature: External Handle: Provides convenient access while maintaining a clean exterior design."
+  },
+  {
+    "id": "appliance-bruhmbbd700e",
+    "name": "Bruhm BBD-700E 670L Double Door Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 13290,
+    "description": "This 670-litre Bruhm beverage cooler combines total No Frost cooling with R290 refrigerant. Digital LED controls and double-tempered glass doors support chilled-drink display.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/BBD-700E.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/07/BBD-700E.jpg"
+    ],
+    "specs": "Product: Bruhm BBD-700E 670L Double Door Beverage Cooler; Feature: Total No Frost: Helps prevent frost build-up and reduces the need for manual defrosting.; Feature: Digital LED Control: Provides convenient temperature monitoring and adjustment.; Feature: Adjustable Shelves: Allows the interior layout to be customised for different beverage sizes.; Feature: Interior LED Lighting: Keeps beverages clearly visible for easy selection and attractive product presentation.; Feature: External Handle: Provides convenient access to the cooler."
+  },
+  {
+    "id": "appliance-haiersc339jxea",
+    "name": "Haier SC-339JXEA White 320L Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 9390,
+    "description": "This 320-litre Haier beverage cooler uses fan cooling behind a single tempered-glass door. Interior LED lighting and five adjustable wire shelves help organize and display drinks.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/Haier-Single-Door-Fridge-SC-339JXEA-1-scaled-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/06/Haier-Single-Door-Fridge-SC-339JXEA-1-scaled-1.png"
+    ],
+    "specs": "Product: Haier SC-339JXEA White 320L Beverage Cooler; Feature: 320L Large Storage Capacity – Ideal for displaying beverages, dairy products, and chilled foods.; Feature: Fan Cooling Technology – Delivers fast, even cooling throughout the cabinet.; Feature: Single Tempered Glass Door – Provides excellent product visibility while maintaining cooling efficiency.; Feature: Bright LED Interior Lighting – Enhances product display and improves visibility.; Feature: 5 Adjustable Wire Shelves – Flexible storage for different bottle and package sizes."
+  },
+  {
+    "id": "appliance-bruhmbcs160ei",
+    "name": "Bruhm Black Premium Range BCS-160EI Inverter Touch Control Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5499,
+    "description": "This Bruhm Black premium-range chest freezer uses inverter technology. Touch controls provide an alternative to a mechanical temperature dial.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-460x460-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-460x460-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-10-460x460-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-6-460x460-2.jpg"
+    ],
+    "specs": "Type: Chest freezer; Compressor: Inverter; Controls: Touch controls"
+  },
+  {
+    "id": "appliance-tamashincx150g",
+    "name": "Tamashi NCX150G Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 3990,
+    "description": "This Tamashi chest freezer provides 137 litres of storage. Its stated dimensions are 628 × 558 × 835 mm, with a net weight of 22 kg.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/1-14.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/1-14.jpg"
+    ],
+    "specs": "Product: Tamashi NCX150G Chest Freezer; Voltage/frequency (V/Hz): 220V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) (mm): 628*558*835; Net weight (Kg): 22"
+  },
+  {
+    "id": "appliance-bruhmbcs160mr",
+    "name": "Bruhm BCS-160MR 152L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4099,
+    "description": "This Bruhm chest freezer provides 152 litres of frozen-food storage. Its stated dimensions are 735 × 590 × 850 mm, with a net weight of 32 kg.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-BCS-160MR.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-BCS-160MR.png"
+    ],
+    "specs": "Product: Bruhm BCS-160MR 152L Chest Freezer; Net capacity (L): 152; Voltage/frequency (V/Hz): 100-240V/50/60Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 735*590*850; Net weight (Kg): 32"
+  },
+  {
+    "id": "appliance-bruhmbcs210mr",
+    "name": "Bruhm BCS-210MR 197L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4599,
+    "description": "This 197-litre Bruhm chest freezer uses mechanical temperature control. An LED light, super-freezing function and power indicator complete the feature set.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BCS-210MR-460x460-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/06/BCS-210MR-460x460-1.jpg"
+    ],
+    "specs": "Product: Bruhm BCS-210MR 197L Chest Freezer; Feature: Mechanical temperature control; Feature: LED light; Feature: Super freezing function; Feature: Power indicator function; Feature: Chromed External handle optional"
+  },
+  {
+    "id": "appliance-haierhcf208sr",
+    "name": "Haier HCF-208SR(GH) 142L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4799,
+    "description": "This Haier chest freezer offers 142 litres of frozen-food storage. The chest format provides top access to stored food.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/Untitled_1000x1000px_-2025-12-29T132219.330.webp",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/Untitled_1000x1000px_-2025-12-29T132219.330.webp"
+    ],
+    "specs": "Product: Haier HCF-208SR(GH) 142L Chest Freezer; Feature: Model: HCF-208SR(GH); Feature: Capacity: 142 Liters; Feature: Type: Chest Freezer; Feature: Cooling System: Reliable and fast freezing performance; Feature: Convenience: Easy-to-use controls with deep storage design"
+  },
+  {
+    "id": "appliance-haierhcf288sr",
+    "name": "Haier HCF-288SR(GH) 203L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5499,
+    "description": "This 203-litre Haier chest freezer can switch between refrigerator and freezer operation. An inverter compressor and fast-freezing technology are included in its feature set.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/images-4.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/images-4.jpg"
+    ],
+    "specs": "Product: Haier HCF-288SR(GH) 203L Chest Freezer; Feature: 203L Capacity; Feature: Convertible Fridge & Freezer Function; Feature: Fast Freezing Technology; Feature: Inverter Compressor; Feature: Wide Voltage Operation"
+  },
+  {
+    "id": "appliance-haierhcf328ks",
+    "name": "Haier HCF-328KS 244L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 6699,
+    "description": "This Haier chest freezer offers both freezing and refrigeration modes. Adjustable temperature control, a lockable handle and a water drain support everyday use.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-HCF-328KS-800x800-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-HCF-328KS-800x800-1.png"
+    ],
+    "specs": "Product: Haier HCF-328KS 244L Chest Freezer; Feature: Flexible Freeze & Refrigeration Modes: Easily switch between freeze and refrigeration settings for versatile storage options.; Feature: Super Fast Cooling (-30°C): Quickly reaches ultra-low temperatures to maintain freshness.; Feature: Adjustable temperature control and power indicator; Feature: Wide voltage adaptability (130V-260V) for protection against voltage fluctuations; Feature: Lockable handle and water drain for easy maintenance"
+  },
+  {
+    "id": "appliance-haierhcf368ks",
+    "name": "Haier HCF-368KS 300L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7690,
+    "description": "This Haier chest freezer provides 300 litres of storage. Its chest format provides space for frozen food.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-300L-HCF368KS.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-300L-HCF368KS.png"
+    ],
+    "specs": "Capacity: 300 L; Type: Chest freezer"
+  },
+  {
+    "id": "appliance-haierhcf428vs",
+    "name": "Haier HCF-428VS(GH) 379L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7990,
+    "description": "This 379-litre Haier chest freezer uses convertible inverter technology. An adjustable thermostat and a stated 130–260V operating range support temperature control.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/Screenshot-2026-08-18-103339.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/Screenshot-2026-08-18-103339.png"
+    ],
+    "specs": "Product: Haier HCF-428VS(GH) 379L Chest Freezer; Feature: 120-Hour Power Failure Backup: Helps maintain freezing conditions for up to 120 hours during power interruptions.; Feature: Wide Voltage Operation: The 130–260V operating range helps the freezer perform reliably in areas with voltage fluctuations.; Feature: Adjustable Thermostat: Allows convenient adjustment of the freezer’s temperature according to storage requirements.; Feature: Interior LED Light: Provides clear visibility of the freezer’s contents.; Feature: Two Storage Baskets: Helps organise frequently accessed food items and smaller products."
+  },
+  {
+    "id": "appliance-haierhcf478vs",
+    "name": "Haier HCF-478VS(GH) 429L DD Inverter Freeze and Ref Modes Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 9350,
+    "description": "This 429-litre Haier chest freezer can switch between refrigerator and freezer operation. Its inverter design complements the large chest-storage format.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/HCF-478VSGH.webp",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/HCF-478VSGH.webp"
+    ],
+    "specs": "Product: Haier HCF-478VS(GH) 429L DD Inverter Freeze and Ref Modes Chest Freezer; Feature: 429L Large Capacity – Ample storage space for bulk food, beverages, and frozen goods.; Feature: Convertible Design – Easily switch between freezer and refrigerator modes to suit your storage needs.; Feature: Five-Sided Cooling System – Ensures faster and more uniform cooling throughout the freezer.; Feature: 150-Hour Frost Stay – Retains cold temperatures for up to 150 hours during power outages, helping to preserve food.; Feature: Fast Freezing Function – Rapidly freezes fresh food to lock in nutrients and freshness."
+  },
+  {
+    "id": "appliance-haierhcf588vs",
+    "name": "Haier HCF-588VS(GH) 519L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 9290,
+    "description": "This Haier chest freezer provides 519 litres of storage. Its large chest format offers space for bulk frozen food.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103837.jpeg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103837.jpeg",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103847.jpeg"
+    ],
+    "specs": "Product: Haier HCF-588VS(GH) 519L Chest Freezer; Feature: Convertible Freezer & Fridge: Allows the unit to be switched between freezer and refrigerator modes for greater storage flexibility.; Feature: 5-Side Cooling: Circulates cooling across five sides of the cabinet to promote more uniform temperature distribution.; Feature: 150-Hour Cooling Retention: Helps keep stored food cold for an extended period during power interruptions.; Feature: 130–260V Wide Voltage: Designed to operate reliably across a wide voltage range, helping handle voltage fluctuations.; Feature: LED Interior Light: Makes it easier to see and organise items inside the freezer."
+  },
+  {
+    "id": "appliance-tamashing6640g",
+    "name": "Tamashi NG6640G 60x60 4+0 Grill Auto Ignition Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 3599,
+    "description": "This Tamashi gas cooker combines four gas burners with a grill. Its 60 × 60 format includes automatic ignition.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/TAMASHI-NG6640G.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/11/TAMASHI-NG6640G.png"
+    ],
+    "specs": "Platform: 60 × 60; Burners: 4 gas; Functions: Grill; Ignition: Automatic"
+  },
+  {
+    "id": "appliance-haierhtw70m1217",
+    "name": "Haier HTW70-M1217 7kg Twin Tub Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 3799,
+    "description": "This Haier twin-tub washing machine offers 7kg washing and 5kg spinning capacities. Timer controls, an air-dry function and a transparent lid support everyday laundry tasks.",
+    "image": "https://image.haier.com/my/washing-machines/W020250703601470083781_600.png",
+    "images": [
+      "https://image.haier.com/my/washing-machines/W020250703601470083781_600.png",
+      "https://image.haier.com/my/washing-machines/W020250703601470234532_600.png",
+      "https://image.haier.com/my/washing-machines/W020250703601470368655_600.png",
+      "https://image.haier.com/my/washing-machines/W020250703601470500940_600.png",
+      "https://image.haier.com/my/washing-machines/W020250703601470639026_600.png"
+    ],
+    "specs": "Product: Haier HTW70-M1217 7kg Twin Tub Washing Machine; Category: Twin Loading; Material: Top Lid: Plastic; WASH Power: 380 W; SPIN Power: 165 W; Weight (KG): Net: 20 kg, Gross: 22 kg; Control Mode: Timer; Soak Wash: 35 minutes (Soak 20 + Wash 15); Dynamic Balance: Selectable; Water Inlet Selection: Selectable"
+  },
+  {
+    "id": "appliance-haierhw80b14959s8",
+    "name": "Haier HW80-B14959S8 8kg Silver Direct Inverter Front Load Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 8290,
+    "description": "This Haier front-load washing machine has an 8kg capacity and a Direct Drive inverter motor. A 1400 RPM spin speed and multiple wash programs provide options for different laundry loads.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/10/WM-1.jpg"
+    ],
+    "specs": "Product: Haier HW80-B14959S8 8kg Silver Direct Inverter Front Load Washing Machine; Feature: Up to 1400 RPM spin speed helps remove excess water; Feature: Multiple wash programs for different fabric types; Feature: Digital display for easy operation; Feature: Front load design for effective washing performance"
+  },
+  {
+    "id": "appliance-haierhw90bp14357s8",
+    "name": "Haier HW90-BP14357S8 9kg Silver Direct Inverter Front Load Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 8490,
+    "description": "This 9kg Haier front-load washing machine uses a Direct Drive motor. Multiple wash programs and a digital display provide control over everyday laundry.",
+    "image": "https://image.haier.com/eg/washing-machines/W020261016624698995565_1200.png",
+    "images": [
+      "https://image.haier.com/eg/washing-machines/W020261016624698995565_1200.png",
+      "https://image.haier.com/eg/washing-machines/W020261016624699555342_1200.png",
+      "https://image.haier.com/eg/washing-machines/W020261016624700026928_1200.png"
+    ],
+    "specs": "Product: Haier HW90-BP14357S8 9kg Silver Direct Inverter Front Load Washing Machine; Feature: 1400 RPM spin speed helps remove excess water from clothes; Feature: Multiple wash programs for different fabric types; Feature: Digital display for convenient operation and monitoring"
+  },
+  {
+    "id": "appliance-orientmaverick",
+    "name": "Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe",
+    "category": "Water heaters",
+    "subcategory": "Water heaters",
+    "price": 2990,
+    "description": "This Orient Maverick storage water heater provides a 6-litre capacity and 2000W rating. The printed model includes a 5-star rating and a free pipe.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp"
+    ],
+    "specs": "Product: Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe; Feature: Good corrosion resistance & extended life with 27% thicker Magnesium Anode rod & nickel coated heavy copper heating element; Feature: 20% more hot water output with Whirlflow technology; Feature: Shock-proof & Water-proof with IPX2 Pre-Coated Metal Body; Feature: Enhanced Safety with Multifunction Valve; Feature: 10% longer heat retention with thick PUF insulation"
+  },
+  {
+    "id": "appliance-bruhmbtf65w",
+    "name": "Bruhm LED BTF-65W UHD VIDAA Smart OS TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 7699,
+    "description": "This Bruhm television combines a 65-inch UHD display with a VIDAA smart operating system. The smart-TV format supports connected viewing on a large screen.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png"
+    ],
+    "specs": "Screen size: 65 inches; Resolution: UHD; Smart OS: VIDAA"
+  },
+  {
+    "id": "appliance-bruhmbtf75w",
+    "name": "Bruhm LED BTF-75W UHD VIDAA Smart OS TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 10899,
+    "description": "This Bruhm television combines a 75-inch UHD display with a VIDAA smart operating system. Its large-screen format is designed for home entertainment.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png"
+    ],
+    "specs": "Screen size: 75 inches; Resolution: UHD; Smart OS: VIDAA"
+  },
+  {
+    "id": "appliance-bruhmbas12ic3w",
+    "name": "Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 4499,
+    "description": "This 1.5HP Bruhm inverter split air conditioner uses R32 refrigerant. Four-way airflow and a Golden Fin condenser are included in its design.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg"
+    ],
+    "specs": "Product: Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp; Feature: Four-way airflow; Feature: R32 gas; Feature: Inverter wide voltage range: 150-285V; Feature: Golden fin condenser for anti-rust and fast cooling; Feature: Anti-bacteria filter"
+  },
+  {
+    "id": "appliance-bruhmbas24ic3b",
+    "name": "Bruhm Split AC BAS-24IC3B WiFi Smart",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 8899,
+    "description": "This 2.5HP Bruhm inverter split air conditioner offers 24,000 BTU cooling and smart Wi-Fi control. A Golden Fin condenser and 2D swing support its cooling system.",
+    "image": "",
+    "images": [],
+    "specs": "Product: Bruhm Split AC BAS-24IC3B WiFi Smart; Feature: 24,000 BTU Powerful Cooling: Delivers strong cooling performance for larger rooms and spaces.; Feature: Smart Wi-Fi Control: Allows convenient control of the AC through compatible smart devices.; Feature: Fast Cooling: Quickly reduces room temperature to provide comfortable conditions.; Feature: High Airflow: Provides up to 1,300 m³/h of indoor airflow for effective circulation of cool air.; Feature: 2D Swing: Helps distribute cool air more evenly around the room."
+  },
+  {
+    "id": "appliance-tamashiiax2420",
+    "name": "Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 6899,
+    "description": "This 2.5HP Tamashi split air conditioner uses inverter technology. R410A refrigerant and a Golden Fin design are included in the model listing.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/09/TAMASHI-SPLIT-AC-IAX2420-2.5HP.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/09/TAMASHI-SPLIT-AC-IAX2420-2.5HP.png"
+    ],
+    "specs": "Product: Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin; Voltage/frequency: 220-240V,50/60Hz; Climate type: T/ST; Gas type: R410a"
+  },
+  {
+    "id": "appliance-haierhsu12pa12hi",
+    "name": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290",
+    "category": "Air conditioners",
+    "subcategory": "Air conditioners",
+    "price": 6899,
+    "description": "This Haier split air conditioner has a 1.5HP rating. Its inverter design uses R290 refrigerant.",
+    "image": "",
+    "images": [],
+    "specs": "Type: Split air conditioner; Rating: 1.5 HP; Technology: Inverter; Refrigerant: R290"
+  },
+  {
+    "id": "appliance-bruhmbfc390en",
+    "name": "Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 6899,
+    "description": "This Bruhm bottom-mount refrigerator combines a 264-litre fridge with a 113-litre freezer. Its 377-litre double-door design uses no-frost cooling.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/390l-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/08/390l-1.png"
+    ],
+    "specs": "Product: Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator; Net capacity (L): 377; Fridge (L): 264; Freezer (L): 113; Voltage/frequency (V/Hz): 220-240V/50Hz; Climate type (T/ST): T/ST; Frost type: No frost; Door type: Double door; Unit size (W*D*H) mm: 600*675*2005; Net weight (Kg): 72"
+  },
+  {
+    "id": "appliance-bruhmbfs100md",
+    "name": "Bruhm BFS-100MD Table Top Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 2499,
+    "description": "This Bruhm refrigerator uses a table-top format. The compact configuration offers an alternative to a full-height refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFSMD100-1.png"
+    ],
+    "specs": "Type: Table-top refrigerator; Model: BFS-100MD"
+  },
+  {
+    "id": "appliance-bruhmbfd225md",
+    "name": "Bruhm BFD-225MD 208L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 2699,
+    "description": "This 208-litre Bruhm refrigerator has a top-mounted freezer and double-door layout. Defrost cooling separates 158 litres of refrigerator storage from a 50-litre freezer compartment.",
+    "image": "https://bruhm.com/images/products/BFD-225MD/BFD-225MD-refrigerator-01.jpg",
+    "images": [
+      "https://bruhm.com/images/products/BFD-225MD/BFD-225MD-refrigerator-01.jpg"
+    ],
+    "specs": "Capacity: 208 L; Type: Top mount; Fridge compartment: 158 L; Freezer compartment: 50 L; Cooling: Defrost; Dimensions (W × D × H): 523 × 543 × 1440 mm; Net weight: 40 kg"
+  },
+  {
+    "id": "appliance-bruhmbfd275md",
+    "name": "Bruhm BFD-275MD 255L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 3699,
+    "description": "This Bruhm top-mount refrigerator provides 255 litres of storage, including a 195-litre fridge and 60-litre freezer. The double-door layout uses defrost cooling.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png",
+      "https://bruhm.com/wp-content/uploads/2024/08/BFD-275MD.jpg"
+    ],
+    "specs": "Product: Bruhm BFD-275MD 255L Top Mount DC Refrigerator; Net capacity (L): 255; Fridge (L): 195; Freezer (L): 60; Voltage/frequency (V/Hz): 100-240V/50Hz; Climate type (T/ST): T/ST; Frost type: Defrost; Door type: Double door; Unit size (W*D*H) mm: 550*570*1700"
+  },
+  {
+    "id": "appliance-haierhrf135bluk2gh",
+    "name": "Haier HRF-135BLUK2GH 90L Table Top Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 2799,
+    "description": "This Haier table-top refrigerator provides 90 litres of storage in a single-door design. Direct Cool cooling and adjustable shelves offer a compact option for organizing food and drinks.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/2-4.jpg"
+    ],
+    "specs": "Product: Haier HRF-135BLUK2GH 90L Table Top Refrigerator; Feature: Single Door Refrigerator; Feature: Capacity: 90 Litres; Feature: Direct Cool Cooling System; Feature: Compact Design – Ideal for Small Spaces; Feature: Adjustable Shelves for Flexible Storage"
+  },
+  {
+    "id": "appliance-tamashincx100g",
+    "name": "Tamashi NCX100G Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 2999,
+    "description": "This Tamashi chest freezer provides 96 litres of storage. Its stated dimensions are 545 × 575 × 835 mm, with a net weight of 19 kg.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-3.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-3.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/1-12.jpg"
+    ],
+    "specs": "Product: Tamashi NCX100G Chest Freezer; Voltage/frequency (V/Hz): 220V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) (mm): 545*575*835; Net weight (Kg): 19"
+  },
+  {
+    "id": "appliance-bruhmbcs410mr",
+    "name": "Bruhm BCS-410MR 368L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5699,
+    "description": "This 368-litre Bruhm chest freezer uses mechanical temperature control. An LED light, super-freezing function and power indicator are included.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BCS-410MR-460x460-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/05/BCS-410MR-460x460-1.jpg"
+    ],
+    "specs": "Product: Bruhm BCS-410MR 368L Chest Freezer; Feature: Mechanical temperature control; Feature: LED light; Feature: Super freezing function; Feature: Power indicator function; Feature: Chromed External handle optional"
+  },
+  {
+    "id": "appliance-bruhmbcd610mr",
+    "name": "Bruhm BCD-610MR 560L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7299,
+    "description": "This Bruhm chest freezer provides 560 litres of storage. Its stated dimensions are 1805 × 750 × 850 mm, with a net weight of 78 kg.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/BRUHM-BCD-610MR-.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/10/BRUHM-BCD-610MR-.png"
+    ],
+    "specs": "Product: Bruhm BCD-610MR 560L Chest Freezer; Net capacity (L): 560; Voltage/frequency (V/Hz): 100-240V/50/60Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 1805*750*850; Net weight (Kg): 78"
+  },
+  {
+    "id": "appliance-bruhmbcd810mr",
+    "name": "Bruhm BCD-810MR 755L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 10399,
+    "description": "This Bruhm chest freezer provides 755 litres of frozen-food storage. The large chest format offers space for bulk storage.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-CHEST-FREEZER-BCD-810MR.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-CHEST-FREEZER-BCD-810MR.png"
+    ],
+    "specs": "Capacity: 755 L; Type: Chest freezer"
+  },
+  {
+    "id": "appliance-bruhmbcs200eix",
+    "name": "Bruhm BCS-200EIX 190L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 3699,
+    "description": "This 190-litre Bruhm inverter chest freezer operates on a stated 130–260V, 50Hz supply. Its stated dimensions are 950 × 564 × 845 mm, with a net weight of 35 kg.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2-1.jpg"
+    ],
+    "specs": "Product: Bruhm BCS-200EIX 190L Inverter Chest Freezer; Net capacity (L): 190; Voltage/frequency (V/Hz): 130-260V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 950*564*845; Net weight (Kg): 35"
+  },
+  {
+    "id": "appliance-bruhmbcs250eix",
+    "name": "Bruhm BCS-250EIX 230L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4199,
+    "description": "This 230-litre Bruhm chest freezer uses an inverter compressor. Its stated 130–260V operating range accommodates a broad input-voltage range.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg",
+      "https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"
+    ],
+    "specs": "Product: Bruhm BCS-250EIX 230L Inverter Chest Freezer; Feature: 120-Hour Cooling Retention: Helps keep stored food frozen for extended periods during power interruptions.; Feature: 130–260V Wide Voltage: Designed to operate effectively across a broad voltage range, helping it handle voltage fluctuations.; Feature: Electronic Control: Allows convenient and precise management of freezer settings.; Feature: Compressor Fan: Provides additional cooling support to the compressor.; Feature: Lock & Key: Adds security for stored food and other contents."
+  },
+  {
+    "id": "appliance-bruhmbcs300eix",
+    "name": "Bruhm BCS-300EIX 282L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4899,
+    "description": "This 282-litre Bruhm chest freezer uses an inverter compressor. Its stated 130–260V operating range accommodates a broad input-voltage range.",
+    "image": "https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg",
+    "images": [
+      "https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg",
+      "https://bruhm.com/wp-content/uploads/2025/07/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"
+    ],
+    "specs": "Product: Bruhm BCS-300EIX 282L Inverter Chest Freezer; Feature: 120-Hour Cooling Retention: Helps preserve frozen items for an extended period during power interruptions.; Feature: 130–260V Wide Voltage: Designed to operate across a broad voltage range, helping accommodate voltage fluctuations.; Feature: Electronic Control: Provides convenient control of freezer operation and temperature settings.; Feature: Compressor Fan: Provides additional cooling support to the compressor.; Feature: Lock & Key: Adds security for stored food and other contents."
+  },
+  {
+    "id": "appliance-bruhmbcs350eix",
+    "name": "Bruhm BCS-350EIX 350L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5899,
+    "description": "This Bruhm chest freezer uses inverter technology for frozen-food storage. Its stated dimensions are 1275 × 740 × 825 mm, with a net weight of 55 kg.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"
+    ],
+    "specs": "Product: Bruhm BCS-350EIX 350L Inverter Chest Freezer; Voltage/frequency (V/Hz): 130-260V/50Hz; Climate type (T/ST): T/ST; Unit size (W*D*H) mm: 1275*740*825; Net weight (Kg): 55"
+  },
+  {
+    "id": "appliance-bruhmbcd450eix",
+    "name": "Bruhm BCD-450EIX 435L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 6899,
+    "description": "This 435-litre Bruhm chest freezer combines a double-door layout with an inverter compressor. Electronic temperature control provides adjustment of its cooling settings.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-460x460-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-460x460-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-2-460x460-1.jpg"
+    ],
+    "specs": "Product: Bruhm BCD-450EIX 435L Inverter Chest Freezer; Feature: 435-litre large storage capacity; Feature: Double-door design for convenient access; Feature: Electronic temperature control; Feature: Up to 120 hours cooling retention; Feature: Wide voltage operation from 130–260V"
+  },
+  {
+    "id": "appliance-bruhmbcd500eix",
+    "name": "Bruhm BCD-500EIX 488L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7899,
+    "description": "This Bruhm chest freezer uses an inverter compressor. Its stated 130–260V operating range accommodates a broad input-voltage range.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg",
+      "https://bruhm.com/wp-content/uploads/2025/07/BCD-450EIX-BCD-500EIX-BCD-600EIX-2.jpg"
+    ],
+    "specs": "Product: Bruhm BCD-500EIX 488L Inverter Chest Freezer; Feature: 120-Hour Cooling Retention: Helps maintain low temperatures for extended periods during power interruptions.; Feature: Electronic Control: Provides convenient electronic temperature management for more precise freezer operation.; Feature: Double Door Design: Two separate lids provide easier access to the large storage compartment and help minimise cold-air loss when accessing contents.; Feature: Compressor Fan: Provides additional cooling support for the compressor.; Feature: Lock & Key: Provides added security for stored items."
+  },
+  {
+    "id": "appliance-bruhmbgc5540ib",
+    "name": "Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 1599,
+    "description": "Cook across four gas burners and a gas oven in this black Bruhm cooker. A double-glass oven door and adjustable legs complete the design.",
+    "image": "https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-01.jpg",
+    "images": [
+      "https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-01.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2024/06/BRUHM-5540IB-800x800-11.png",
+      "https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-02.jpg",
+      "https://bruhm.com/images/products/BGC-5540IB/BGC-5540IB-gas-cooker-04.jpg"
+    ],
+    "specs": "Product: Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker; Platform: 50×50; Voltage/frequency: 100-240V/50/60Hz; Colour: Black; Key USPs: 4 Gas burners"
+  },
+  {
+    "id": "appliance-bruhmbgc5540if",
+    "name": "Bruhm BGC 5540IF 4+0 Oven Silver Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 1599,
+    "description": "This silver Bruhm cooker pairs four gas burners with a gas oven. A double-glass oven door and adjustable legs are part of its practical cooking layout.",
+    "image": "https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-01.jpg",
+    "images": [
+      "https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-01.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-5540IF.jpg",
+      "https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-02.jpg",
+      "https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-04.jpg",
+      "https://bruhm.com/images/products/BGC-5540IF/BGC-5540IF-gas-cooker-05.jpg"
+    ],
+    "specs": "Burners: 4 gas; Oven: Gas; Finish: Silver; Oven door: Double glass; Legs: Adjustable"
+  },
+  {
+    "id": "appliance-bruhmbgc5640ss",
+    "name": "Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 2199,
+    "description": "This Bruhm cooker pairs four gas burners with a gas oven and grill. The stainless-steel worktop and body complement automatic ignition and an oven light.",
+    "image": "https://bruhm.com/images/products/BGC-5640SS/BGC-5640SS-gas-cooker-02.jpg",
+    "images": [
+      "https://bruhm.com/images/products/BGC-5640SS/BGC-5640SS-gas-cooker-02.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS-4.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS-3.jpg"
+    ],
+    "specs": "Product: Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker; Feature: 4 Gas burners; Feature: Pipe type system/Euro burners; Feature: Stailnless steel work top & body; Feature: Gas oven with inside lamp; Feature: Rotisserie/turnspit"
+  },
+  {
+    "id": "appliance-haierhrg5400bdnmb",
+    "name": "Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 3999,
+    "description": "This black Haier gas cooker combines four burners with a gas oven. An integrated grill broadens its cooking options.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/HRG5400BDNMB_54NAGC-EP-FNXN22N2-ortho-view-opened.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/HRG5400BDNMB_54NAGC-EP-FNXN22N2-ortho-view-opened.png"
+    ],
+    "specs": "Product: Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker; Feature: 4 gas burners; Feature: Spacious built-in gas oven; Feature: Integrated grill function; Feature: Different burner sizes for flexible cooking"
+  },
+  {
+    "id": "appliance-haierhrg5400bdnss",
+    "name": "Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 3999,
+    "description": "This silver Haier cooker provides four gas burners and an oven. The printed model listing also includes a grill and automatic ignition.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg"
+    ],
+    "specs": "Product: Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker; Feature: Freestanding gas cooker with built-in oven; Feature: 4 gas burners (multi-size for different cooking needs); Feature: LPG / Natural gas compatible (conversion may be required); Feature: 60-litre gas oven for baking, roasting, and grilling; Feature: Heat-resistant glass oven door for visibility"
+  },
+  {
+    "id": "appliance-bruhmbhg60fb",
+    "name": "Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1299,
+    "description": "This 60cm Bruhm extractor hood has a black-and-stainless-steel finish. Its stated suction rating is 600 cubic metres per hour.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-2.jpg",
+      "https://bruhm.com/wp-content/uploads/2025/07/BHG-60FB-3.jpg"
+    ],
+    "specs": "Product: Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood; Platform (cm): 60; Voltage/frequency: 220-240V/50Hz; Suction power (m³/h): 600; Colour: Black and stainless steel"
+  },
+  {
+    "id": "appliance-bruhmbhg90fb",
+    "name": "Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1399,
+    "description": "This 90cm Bruhm extractor hood covers a wide cooking area. A grease filter and integrated lighting support use above the hob.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHG-90FB.webp",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHG-90FB.webp",
+      "https://bruhm.com/wp-content/uploads/2025/07/BHG-90FB-2.jpg",
+      "https://bruhm.com/wp-content/uploads/2025/07/BHG-90FB-3.jpg"
+    ],
+    "specs": "Product: Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood; Feature: 90 cm extractor hood designed to help remove cooking smoke, grease and odours; Feature: Helps maintain fresher air while cooking; Feature: Grease filter helps capture airborne grease particles; Feature: Integrated lighting improves visibility over the cooking area; Feature: Practical controls for convenient operation"
+  },
+  {
+    "id": "appliance-bruhmbht90fb",
+    "name": "Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 1999,
+    "description": "This 90cm Bruhm T-shape chimney hood has a black finish. Its stated suction rating is 700 cubic metres per hour.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB-2.jpg",
+      "https://bruhm.com/wp-content/uploads/2025/07/BHT-90FB-3.jpg"
+    ],
+    "specs": "Product: Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood; Platform (cm): 90; Voltage/frequency: 220-240V/50Hz; Suction power (m³/h): 700; Colour: Black"
+  },
+  {
+    "id": "appliance-haierhmw20mbp",
+    "name": "Haier HMW20MBP 20L Solo Black Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 1799,
+    "description": "This 20-litre Haier solo microwave offers cooking, reheating and defrosting functions. Manual knob controls keep operation straightforward.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/HMW20MBP.jpeg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/HMW20MBP.jpeg"
+    ],
+    "specs": "Capacity: 20 L; Type: Solo microwave; Controls: Knobs; Functions: Cook, reheat and defrost"
+  },
+  {
+    "id": "appliance-haierhmw20db",
+    "name": "Haier HMW20DB 20L Solo Black Mirror Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 1599,
+    "description": "This Haier solo microwave offers a 20-litre capacity. Its black mirror finish gives the appliance a distinctive appearance.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png"
+    ],
+    "specs": "Capacity: 20 L; Type: Solo microwave; Finish: Black mirror"
+  },
+  {
+    "id": "appliance-wanbovali1pro",
+    "name": "Wanbo Vali 1 Pro Projector",
+    "category": "Projectors",
+    "subcategory": "Projectors",
+    "price": 5199,
+    "description": "This Wanbo Full HD projector combines 1080p resolution with 900 ANSI lumens and Google TV 14. Automatic focus and keystone correction simplify positioning, while Wi-Fi, Bluetooth, HDMI and USB provide connection options.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/09/2-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/2-1.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/1-2.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/3-2.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/4-2.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/5-2.png"
+    ],
+    "specs": "Product: Wanbo Vali 1 Pro Projector; Feature: Smart Full HD projector designed for home entertainment; Feature: Delivers bright 900 ANSI lumen visuals with 1080p resolution; Feature: Google TV 14 provides access to streaming apps and Google Play Store; Feature: 32GB storage and 2GB RAM for apps and media; Feature: HDR10 and MEMC enhance picture quality and motion"
+  },
+  {
+    "id": "appliance-wanbocube2pro",
+    "name": "Wanbo Cube 2 Pro Beige Green Projector",
+    "category": "Projectors",
+    "subcategory": "Projectors",
+    "price": 3199,
+    "description": "This Wanbo Cube 2 Pro projector combines native 1080p resolution with 500 ANSI lumens and Android TV 11. A 230° adjustable gimbal, automatic focus and keystone correction support flexible positioning.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-5.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-5.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-2.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-4.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-3.png"
+    ],
+    "specs": "Product: Wanbo Cube 2 Pro Beige Green Projector; Feature: Compact Full HD smart projector; Feature: 500 ANSI lumens for bright image output; Feature: Native 1080p resolution for sharp visuals; Feature: Android TV 11 for smart streaming; Feature: Built-in access to popular streaming platforms"
+  },
+  {
+    "id": "appliance-bruhmbtf32s",
+    "name": "Bruhm LED BTF-32S Digital Satellite TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 2290,
+    "description": "Bruhm LED BTF-32S Digital Satellite TV.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BTF-32S.png"
+  },
+  {
+    "id": "appliance-bruhmbfd500en",
+    "name": "Bruhm BFD 500EN 480L Top Mount Inverter Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7790,
+    "description": "Bruhm BFD 500EN 480L Top Mount Inverter Frost Free Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFD-500EN.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfq510eng",
+    "name": "Bruhm Black BFQ-510ENG 510L Side by Side Inverter 4-Door Frost Free Touch-Display Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 13990,
+    "description": "Bruhm Black BFQ-510ENG 510L Side by Side Inverter 4-Door Frost Free Touch-Display Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/01/BFQ-510ENG-2.jpg"
+  },
+  {
+    "id": "appliance-bruhmbht60fb",
+    "name": "Bruhm BHT-60FB 60cm T-Shape Chimney Style Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 2290,
+    "description": "Bruhm BHT-60FB 60cm T-Shape Chimney Style Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHT-60FB.jpg"
+  },
+  {
+    "id": "appliance-bruhmbhv60fb",
+    "name": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood",
+    "category": "Extractor hoods",
+    "subcategory": "Extractor hoods",
+    "price": 2490,
+    "description": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHV-60FB.jpg"
+  },
+  {
+    "id": "appliance-bruhmbwf070g",
+    "name": "Bruhm BWF-070G 7kg Front Load Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 4500,
+    "description": "Bruhm BWF-070G 7kg Front Load Washing Machine.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-01-BWF-070G.png"
+  },
+  {
+    "id": "appliance-bruhmbmm20mb",
+    "name": "Bruhm BMM-20MB 20L Solo Black Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 1690,
+    "description": "Bruhm BMM-20MB 20L Solo Black Microwave Oven.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BMM-20MMB-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbme20gb",
+    "name": "Bruhm BME-20GB 20L Grill Black Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 1890,
+    "description": "Bruhm BME-20GB 20L Grill Black Microwave Oven.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BME-20GMB-300x300-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfm421500b",
+    "name": "Bruhm BFM-421500B Black 4.2L Air Fryer",
+    "category": "Air fryers",
+    "subcategory": "Air fryers",
+    "price": 1490,
+    "description": "Bruhm BFM-421500B Black 4.2L Air Fryer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/BFM-421500B-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfe571750b",
+    "name": "Bruhm BFE-571750B Black 5.7L Air Fryer",
+    "category": "Air fryers",
+    "subcategory": "Air fryers",
+    "price": 1640,
+    "description": "Bruhm BFE-571750B Black 5.7L Air Fryer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-571750B.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfe903200b",
+    "name": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer",
+    "category": "Air fryers",
+    "subcategory": "Air fryers",
+    "price": 2090,
+    "description": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-903200B.jpg"
+  },
+  {
+    "id": "appliance-bruhmbsm700bs",
+    "name": "Bruhm BSM 700BS Sandwich Maker",
+    "category": "Sandwich makers",
+    "subcategory": "Sandwich makers",
+    "price": 1220,
+    "description": "Bruhm BSM 700BS Sandwich Maker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BS.jpg"
+  },
+  {
+    "id": "appliance-bruhmbsm700bp",
+    "name": "Bruhm BSM 700BP Sandwich Maker",
+    "category": "Sandwich makers",
+    "subcategory": "Sandwich makers",
+    "price": 1349,
+    "description": "Bruhm BSM 700BP Sandwich Maker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BP.jpg"
+  },
+  {
+    "id": "appliance-bruhmbtm650b",
+    "name": "Bruhm BTM 650B Toaster",
+    "category": "Toasters",
+    "subcategory": "Toasters",
+    "price": 1150,
+    "description": "Bruhm BTM 650B Toaster.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BTM-650B.jpg"
+  },
+  {
+    "id": "appliance-bruhmbkn15dwr",
+    "name": "Bruhm BKN-15DWR Wine Red Kettle",
+    "category": "Kettles",
+    "subcategory": "Kettles",
+    "price": 1175,
+    "description": "Bruhm BKN-15DWR Wine Red Kettle.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/images-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbkn15dbl",
+    "name": "Bruhm BKN-15DBL Black Kettle",
+    "category": "Kettles",
+    "subcategory": "Kettles",
+    "price": 1175,
+    "description": "Bruhm BKN-15DBL Black Kettle.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/1-11.jpg"
+  },
+  {
+    "id": "appliance-philipshr374011",
+    "name": "Philips HR3740/11 Mixer",
+    "category": "Mixers",
+    "subcategory": "Mixers",
+    "price": 1490,
+    "description": "Philips HR3740/11 Mixer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/philips-HR3740.webp"
+  },
+  {
+    "id": "appliance-philipshr730190",
+    "name": "Philips HR7301/90 Mixer",
+    "category": "Mixers",
+    "subcategory": "Mixers",
+    "price": 2349,
+    "description": "Philips HR7301/90 Mixer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/10/vrs_a594733814355dbf53d49a2daec33677f89b8a4b.webp"
+  }
+]);
