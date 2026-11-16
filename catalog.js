@@ -763,5 +763,23 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 209,
     "description": "Bruhm BKN-15DBL Black Kettle.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/1-11.jpg"
+  },
+  {
+    "id": "appliance-philipshr374011",
+    "name": "Philips HR3740/11 Mixer",
+    "category": "Mixers",
+    "subcategory": "Mixers",
+    "price": 489,
+    "description": "Philips HR3740/11 Mixer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/philips-HR3740.webp"
+  },
+  {
+    "id": "appliance-philipshr730190",
+    "name": "Philips HR7301/90 Mixer",
+    "category": "Mixers",
+    "subcategory": "Mixers",
+    "price": 1499,
+    "description": "Philips HR7301/90 Mixer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/10/vrs_a594733814355dbf53d49a2daec33677f89b8a4b.webp"
   }
 ]);
