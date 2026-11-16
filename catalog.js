@@ -1015,3 +1015,16 @@ PRODUCTS.push(...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg"
   }
 ]);
+
+// Catalog additions: Water heaters
+PRODUCTS.push(...[
+  {
+    "id": "appliance-orientmaverick",
+    "name": "Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe",
+    "category": "Water heaters",
+    "subcategory": "Water heaters",
+    "price": 2990,
+    "description": "Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp"
+  }
+]);
