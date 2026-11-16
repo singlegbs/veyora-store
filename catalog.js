@@ -47,7 +47,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 5099,
     "description": "Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg"
+    ]
   },
   {
     "id": "appliance-bruhmbfc185md",
@@ -56,7 +59,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 4499,
     "description": "Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png"
+    ]
   },
   {
     "id": "appliance-bruhmbfd135md",
@@ -65,7 +71,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 3999,
     "description": "Bruhm BFD-135MD 118L Top Mount DC Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png"
+    ]
   },
   {
     "id": "appliance-bruhmbfd145md",
@@ -74,7 +83,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 4299,
     "description": "Bruhm BFD-145MD 132L Top Mount DC Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png"
+    ]
   },
   {
     "id": "appliance-bruhmbfd330md",
@@ -83,7 +95,11 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 7290,
     "description": "Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD-2-460x460-1.jpg"
+    ]
   },
   {
     "id": "appliance-bruhmbfq510en",
@@ -92,7 +108,11 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 14399,
     "description": "Bruhm BFQ-510EN 503L Side by Side 4-Door Frost Free Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/510ENI.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/510ENI.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/07/510ENI.png",
+      "https://bruhm.com/wp-content/uploads/2025/07/BFQ-510ENI-2.jpg"
+    ]
   },
   {
     "id": "appliance-tamashinrx100m",
@@ -101,7 +121,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 3590,
     "description": "Tamashi NRX100M 86L Double Door Table Top Refrigerator.",
-    "image": ""
+    "image": "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge.png",
+    "images": [
+      "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge.png"
+    ]
   },
   {
     "id": "appliance-tamashinrx475s",
@@ -110,7 +133,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 11500,
     "description": "Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg"
+    ]
   },
   {
     "id": "appliance-tamashinrx440h",
@@ -119,7 +145,11 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 7990,
     "description": "Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2026/05/rg.png"
+    ]
   },
   {
     "id": "appliance-tamashiirx500a",
@@ -128,7 +158,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 9500,
     "description": "Tamashi IRX500A 470L Side by Side 4-Door Inverter Frost Free Refrigerator.",
-    "image": ""
+    "image": "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge_v5.png",
+    "images": [
+      "https://tamashi.com/wp-content/uploads/2026/04/hd_fridge_v5.png"
+    ]
   },
   {
     "id": "appliance-haierhrf315gb",
@@ -137,7 +170,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 7990,
     "description": "Haier HRF-315GB 280L Top Mount Twin-Inverter Frost Free Black G Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png"
+    ]
   },
   {
     "id": "appliance-haierhrf525mb",
@@ -146,7 +182,13 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 13490,
     "description": "Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/02/HAIER-HRF-525MBNG-800x800-14.png"
+    "image": "https://image.haier.com/ae/refrigerators/W020240402751868392838_1200.png",
+    "images": [
+      "https://image.haier.com/ae/refrigerators/W020240402751868392838_1200.png",
+      "https://image.haier.com/ae/refrigerators/W020240402751869122420_1200.png",
+      "https://image.haier.com/ae/refrigerators/W020240402751868848716_1200.png",
+      "https://image.haier.com/ae/refrigerators/W020240402751869428896_1200.png"
+    ]
   },
   {
     "id": "appliance-haierhrf668ss",
@@ -155,7 +197,16 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 12090,
     "description": "Haier HRF-668SS 541L Side by Side Frost Free Twin-Inverter CC-T Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/haier-side-by-side.png"
+    "image": "https://image.haier.com/sa/refrigerators/W020250404556261042437_1200.jpg",
+    "images": [
+      "https://image.haier.com/sa/refrigerators/W020250404556261042437_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575812575652_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575812867866_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813093191_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813383267_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813652955_1200.jpg",
+      "https://image.haier.com/sa/refrigerators/W020250404575813837960_1200.jpg"
+    ]
   },
   {
     "id": "appliance-haierhrf672vcfmblgh",
@@ -164,7 +215,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 10900,
     "description": "Haier HRF-672VCFMBLGH 480L Top Mount Twin-Inverter Frost Free Black G Refrigerator.",
-    "image": ""
+    "image": "",
+    "images": []
   },
   {
     "id": "appliance-bruhmbbs200e",
@@ -418,7 +470,11 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 2499,
     "description": "Bruhm BFS-100MD Table Top Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFSMD100-1.png"
+    ]
   },
   {
     "id": "appliance-bruhmbfd275md",
@@ -427,7 +483,11 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 3699,
     "description": "Bruhm BFD-275MD 255L Top Mount DC Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png",
+      "https://bruhm.com/wp-content/uploads/2024/08/BFD-275MD.jpg"
+    ]
   },
   {
     "id": "appliance-haierhrf135bluk2gh",
@@ -436,7 +496,11 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 2799,
     "description": "Haier HRF-135BLUK2GH 90L Table Top Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/08/2-4.jpg"
+    ]
   },
   {
     "id": "appliance-tamashincx100g",
