@@ -718,5 +718,23 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 989,
     "description": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-903200B.jpg"
+  },
+  {
+    "id": "appliance-bruhmbsm700bs",
+    "name": "Bruhm BSM 700BS Sandwich Maker",
+    "category": "Sandwich makers",
+    "subcategory": "Sandwich makers",
+    "price": 219,
+    "description": "Bruhm BSM 700BS Sandwich Maker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BS.jpg"
+  },
+  {
+    "id": "appliance-bruhmbsm700bp",
+    "name": "Bruhm BSM 700BP Sandwich Maker",
+    "category": "Sandwich makers",
+    "subcategory": "Sandwich makers",
+    "price": 319,
+    "description": "Bruhm BSM 700BP Sandwich Maker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BP.jpg"
   }
 ]);
