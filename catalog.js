@@ -37,7 +37,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Air conditioners",
     "price": 5299,
     "description": "Bruhm Split AC BAS-12RC3W R32 1.5hp.",
-    "image": ""
+    "image": "",
+    "images": []
   },
   {
     "id": "appliance-bruhmbfc140md",
@@ -385,7 +386,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Air conditioners",
     "price": 4499,
     "description": "Bruhm Split AC BAS-12IC3W R32 Inverter Golden Fin 1.5hp.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2026/02/BAS-09IC3W-BAS-12IC3W-BAS-18IC3W-BAS-24IC3W.jpg"
+    ]
   },
   {
     "id": "appliance-bruhmbas24ic3b",
@@ -394,7 +398,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Air conditioners",
     "price": 8899,
     "description": "Bruhm Split AC BAS-24IC3B WiFi Smart.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/BAS-09ICQB-BAS-12ICQB-BAS-18ICQB-BAS-24ICQB-3.jpg"
+    "image": "",
+    "images": []
   },
   {
     "id": "appliance-haierhsu12pa12hi",
@@ -403,7 +408,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Air conditioners",
     "price": 6899,
     "description": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290.",
-    "image": ""
+    "image": "",
+    "images": []
   },
   {
     "id": "appliance-bruhmbfs100md",
