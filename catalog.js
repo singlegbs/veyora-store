@@ -655,5 +655,41 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 3699,
     "description": "Bruhm BWF-070G 7kg Front Load Washing Machine.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-01-BWF-070G.png"
+  },
+  {
+    "id": "appliance-bruhmbmm20mb",
+    "name": "Bruhm BMM-20MB 20L Solo Black Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 739,
+    "description": "Bruhm BMM-20MB 20L Solo Black Microwave Oven.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BMM-20MMB-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbme20gb",
+    "name": "Bruhm BME-20GB 20L Grill Black Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 889,
+    "description": "Bruhm BME-20GB 20L Grill Black Microwave Oven.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BME-20GMB-300x300-1.jpg"
+  },
+  {
+    "id": "appliance-haierhmw20mbp",
+    "name": "Haier HMW20MBP 20L Solo Black Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 1799,
+    "description": "Haier HMW20MBP 20L Solo Black Microwave Oven.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/HMW20MBP.jpeg"
+  },
+  {
+    "id": "appliance-haierhmw20db",
+    "name": "Haier HMW20DB 20L Solo Black Mirror Microwave Oven",
+    "category": "Microwaves",
+    "subcategory": "Microwaves",
+    "price": 1599,
+    "description": "Haier HMW20DB 20L Solo Black Mirror Microwave Oven.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png"
   }
 ]);
