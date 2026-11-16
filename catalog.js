@@ -736,5 +736,14 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 319,
     "description": "Bruhm BSM 700BP Sandwich Maker.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BP.jpg"
+  },
+  {
+    "id": "appliance-bruhmbtm650b",
+    "name": "Bruhm BTM 650B Toaster",
+    "category": "Toasters",
+    "subcategory": "Toasters",
+    "price": 139,
+    "description": "Bruhm BTM 650B Toaster.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BTM-650B.jpg"
   }
 ]);
