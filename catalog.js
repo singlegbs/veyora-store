@@ -691,5 +691,32 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 1599,
     "description": "Haier HMW20DB 20L Solo Black Mirror Microwave Oven.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png"
+  },
+  {
+    "id": "appliance-bruhmbfm421500b",
+    "name": "Bruhm BFM-421500B Black 4.2L Air Fryer",
+    "category": "Air fryers",
+    "subcategory": "Air fryers",
+    "price": 489,
+    "description": "Bruhm BFM-421500B Black 4.2L Air Fryer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/BFM-421500B-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfe571750b",
+    "name": "Bruhm BFE-571750B Black 5.7L Air Fryer",
+    "category": "Air fryers",
+    "subcategory": "Air fryers",
+    "price": 589,
+    "description": "Bruhm BFE-571750B Black 5.7L Air Fryer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-571750B.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfe903200b",
+    "name": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer",
+    "category": "Air fryers",
+    "subcategory": "Air fryers",
+    "price": 989,
+    "description": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-903200B.jpg"
   }
 ]);
