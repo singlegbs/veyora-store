@@ -654,3 +654,25 @@ PRODUCTS.push({id:'lg-gc-x24ffcab',name:'LG GC-X24FFCAB 671L InstaView French Do
 PRODUCTS.push({id:'lg-s4-q18kl28e',name:'LG S4-Q18KL28E 2HP Mosquito Away Inverter Air Conditioner',category:'Air conditioners',subcategory:'Air conditioners',price:12799,description:'Create a comfortable retreat with this clean-lined LG wall-mounted air conditioner. The DUAL Inverter Compressor and Gen Mode+ power settings offer flexible cooling, while ThinQ connectivity brings convenient control to everyday room comfort.',specs:'Model: S4-Q18KL28E; Capacity: 18,000 BTU / 2HP; DUAL Inverter Compressor; Wall-mounted split system; ThinQ connectivity.',features:['Gen Mode+ power settings','Mosquito Away function','DUAL Inverter technology','Connected ThinQ controls'],image:'https://www.lg.com/eastafrica/images/split-air-conditioners/md07588244/gallery/medium01.jpg',images:['https://www.lg.com/eastafrica/images/split-air-conditioners/md07588244/gallery/medium01.jpg','https://www.lg.com/eastafrica/images/split-air-conditioners/md07588244/gallery/medium04.jpg','https://www.lg.com/eastafrica/images/split-air-conditioners/md07588244/gallery/medium06.jpg']});
 PRODUCTS.push({id:'lg-dfb425fp',name:'LG DFB425FP 14-Place TrueSteam QuadWash Dishwasher',category:'Dishwashers',subcategory:'Dishwashers',price:13299,description:'Bring a polished finish to the kitchen and a simpler end to mealtimes with this Platinum Silver LG dishwasher. Four QuadWash spray arms, TrueSteam and an adjustable rack system help tackle varied loads, with ThinQ connectivity adding everyday convenience.',specs:'Model: DFB425FP; Capacity: 14 place settings; Finish: Platinum Silver; Inverter Direct Drive motor; Dimensions: 598 x 845 x 600 mm; 220-240V, 50Hz.',features:['QuadWash multi-motion spray arms','TrueSteam cleaning','Smart Rack Plus','ThinQ Wi-Fi connectivity'],image:'https://www.lg.com/content/dam/channel/wcms/sg/images/dishwasher/dfb425fp_apzqesl_easl_sg_c/gallery/DFB425FP_Integrated_Dishwashers_Z1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800',images:['https://www.lg.com/content/dam/channel/wcms/sg/images/dishwasher/dfb425fp_apzqesl_easl_sg_c/gallery/DFB425FP_Integrated_Dishwashers_Z1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800','https://www.lg.com/content/dam/channel/wcms/sg/images/dishwasher/dfb425fp_apzqesl_easl_sg_c/gallery/DFB425FP_Integrated_Dishwashers_Z2.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800','https://www.lg.com/content/dam/channel/wcms/sg/images/dishwasher/dfb425fp_apzqesl_easl_sg_c/gallery/DFB425FP_Integrated_Dishwashers_Z3.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800']});
 PRODUCTS.push({id:'lg-43lr60006la',name:'LG 43LR60006LA 43-inch HD Smart TV',category:'TVs',subcategory:'TVs',price:5099,description:'Keep a smaller entertainment space looking composed with this clean-lined 43-inch LG smart television. The alpha 5 AI Processor Gen6 and HDR10 Pro support everyday viewing, with Game Dashboard and Game Optimizer keeping useful gaming settings close at hand.',specs:'Model: 43LR60006LA; Screen: 43 inches; HD Smart TV; Processor: alpha 5 AI Gen6; HDR10 Pro.',features:['Smart entertainment','Game Dashboard','Game Optimizer','Clean-lined design'],image:'https://www.lg.com/africa/images/tvs/md07597761/gallery/medium01.jpg',images:['https://www.lg.com/africa/images/tvs/md07597761/gallery/medium01.jpg','https://www.lg.com/africa/images/tvs/md07597761/gallery/medium02.jpg','https://www.lg.com/africa/images/tvs/md07597761/gallery/medium03.jpg']});
+
+// Catalog additions: TVs
+PRODUCTS.push(...[
+  {
+    "id": "appliance-bruhmbtf100w",
+    "name": "Bruhm LED BTF 100W 100-inch QLED Web Smart TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 26990,
+    "description": "Bruhm LED BTF 100W 100-inch QLED Web Smart TV.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg"
+  },
+  {
+    "id": "appliance-haierh65s80gux",
+    "name": "Haier H65S80GUX 65-inch QLED Google TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 11290,
+    "description": "Haier H65S80GUX 65-inch QLED Google TV.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-12.12.55.jpeg"
+  }
+]);
