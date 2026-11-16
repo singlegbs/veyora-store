@@ -342,15 +342,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp"
   },
   {
-    "id": "appliance-bruhmbtf32s",
-    "name": "Bruhm LED BTF-32S Digital Satellite TV",
-    "category": "TVs",
-    "subcategory": "TVs",
-    "price": 1199,
-    "description": "Bruhm LED BTF-32S Digital Satellite TV.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BTF-32S.png"
-  },
-  {
     "id": "appliance-bruhmbtf65w",
     "name": "Bruhm LED BTF-65W UHD VIDAA Smart OS TV",
     "category": "TVs",
@@ -387,15 +378,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/BAS-09ICQB-BAS-12ICQB-BAS-18ICQB-BAS-24ICQB-3.jpg"
   },
   {
-    "id": "appliance-tamashiiax2420",
-    "name": "Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin",
-    "category": "Air conditioners",
-    "subcategory": "Air conditioners",
-    "price": 6899,
-    "description": "Tamashi Split AC IAX2420 2.5hp Inverter R410A Golden Fin.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/09/TAMASHI-SPLIT-AC-IAX2420-2.5HP.png"
-  },
-  {
     "id": "appliance-haierhsu12pa12hi",
     "name": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290",
     "category": "Air conditioners",
@@ -403,15 +385,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 6899,
     "description": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290.",
     "image": ""
-  },
-  {
-    "id": "appliance-bruhmbfc390en",
-    "name": "Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator",
-    "category": "Refrigerators",
-    "subcategory": "Refrigerators",
-    "price": 6899,
-    "description": "Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/390l-1.png"
   },
   {
     "id": "appliance-bruhmbfs100md",
@@ -423,15 +396,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png"
   },
   {
-    "id": "appliance-bruhmbfd225md",
-    "name": "Bruhm BFD-225MD 208L Top Mount DC Refrigerator",
-    "category": "Refrigerators",
-    "subcategory": "Refrigerators",
-    "price": 2699,
-    "description": "Bruhm BFD-225MD 208L Top Mount DC Refrigerator.",
-    "image": ""
-  },
-  {
     "id": "appliance-bruhmbfd275md",
     "name": "Bruhm BFD-275MD 255L Top Mount DC Refrigerator",
     "category": "Refrigerators",
@@ -439,24 +403,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 3699,
     "description": "Bruhm BFD-275MD 255L Top Mount DC Refrigerator.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png"
-  },
-  {
-    "id": "appliance-bruhmbfd500en",
-    "name": "Bruhm BFD 500EN 480L Top Mount Inverter Frost Free Refrigerator",
-    "category": "Refrigerators",
-    "subcategory": "Refrigerators",
-    "price": 6899,
-    "description": "Bruhm BFD 500EN 480L Top Mount Inverter Frost Free Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFD-500EN.jpg"
-  },
-  {
-    "id": "appliance-bruhmbfq510eng",
-    "name": "Bruhm Black BFQ-510ENG 510L Side by Side Inverter 4-Door Frost Free Touch-Display Refrigerator",
-    "category": "Refrigerators",
-    "subcategory": "Refrigerators",
-    "price": 12899,
-    "description": "Bruhm Black BFQ-510ENG 510L Side by Side Inverter 4-Door Frost Free Touch-Display Refrigerator.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/01/BFQ-510ENG-2.jpg"
   },
   {
     "id": "appliance-haierhrf135bluk2gh",
@@ -504,24 +450,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-CHEST-FREEZER-BCD-810MR.png"
   },
   {
-    "id": "appliance-bruhmbcs200eix",
-    "name": "Bruhm BCS-200EIX 190L Inverter Chest Freezer",
-    "category": "Chest freezers",
-    "subcategory": "Chest freezers",
-    "price": 3699,
-    "description": "Bruhm BCS-200EIX 190L Inverter Chest Freezer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-1.jpg"
-  },
-  {
-    "id": "appliance-bruhmbcs250eix",
-    "name": "Bruhm BCS-250EIX 230L Inverter Chest Freezer",
-    "category": "Chest freezers",
-    "subcategory": "Chest freezers",
-    "price": 4199,
-    "description": "Bruhm BCS-250EIX 230L Inverter Chest Freezer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"
-  },
-  {
     "id": "appliance-bruhmbcs300eix",
     "name": "Bruhm BCS-300EIX 282L Inverter Chest Freezer",
     "category": "Chest freezers",
@@ -529,15 +457,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 4899,
     "description": "Bruhm BCS-300EIX 282L Inverter Chest Freezer.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2-1.jpg"
-  },
-  {
-    "id": "appliance-bruhmbcs350eix",
-    "name": "Bruhm BCS-350EIX 350L Inverter Chest Freezer",
-    "category": "Chest freezers",
-    "subcategory": "Chest freezers",
-    "price": 5899,
-    "description": "Bruhm BCS-350EIX 350L Inverter Chest Freezer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg"
   },
   {
     "id": "appliance-bruhmbcd450eix",
@@ -558,33 +477,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg"
   },
   {
-    "id": "appliance-bruhmbgc5540ib",
-    "name": "Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker",
-    "category": "Gas cookers",
-    "subcategory": "Gas cookers",
-    "price": 1599,
-    "description": "Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BRUHM-5540IB-800x800-11.png"
-  },
-  {
-    "id": "appliance-bruhmbgc5540if",
-    "name": "Bruhm BGC 5540IF 4+0 Oven Silver Gas Cooker",
-    "category": "Gas cookers",
-    "subcategory": "Gas cookers",
-    "price": 1599,
-    "description": "Bruhm BGC 5540IF 4+0 Oven Silver Gas Cooker.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-5540IF.jpg"
-  },
-  {
-    "id": "appliance-bruhmbgc5640ss",
-    "name": "Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker",
-    "category": "Gas cookers",
-    "subcategory": "Gas cookers",
-    "price": 2199,
-    "description": "Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS.jpg"
-  },
-  {
     "id": "appliance-haierhrg5400bdnmb",
     "name": "Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker",
     "category": "Gas cookers",
@@ -601,78 +493,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 3999,
     "description": "Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg"
-  },
-  {
-    "id": "appliance-bruhmbhg60fb",
-    "name": "Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood",
-    "category": "Extractor hoods",
-    "subcategory": "Extractor hoods",
-    "price": 1299,
-    "description": "Bruhm BHG-60FB 60cm Traditional Flat Extractor Hood.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHG-60FB-1.jpg"
-  },
-  {
-    "id": "appliance-bruhmbhg90fb",
-    "name": "Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood",
-    "category": "Extractor hoods",
-    "subcategory": "Extractor hoods",
-    "price": 1399,
-    "description": "Bruhm BHG-90FB 90cm Traditional Flat Extractor Hood.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHG-90FB.webp"
-  },
-  {
-    "id": "appliance-bruhmbht60fb",
-    "name": "Bruhm BHT-60FB 60cm T-Shape Chimney Style Extractor Hood",
-    "category": "Extractor hoods",
-    "subcategory": "Extractor hoods",
-    "price": 1399,
-    "description": "Bruhm BHT-60FB 60cm T-Shape Chimney Style Extractor Hood.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHT-60FB.jpg"
-  },
-  {
-    "id": "appliance-bruhmbht90fb",
-    "name": "Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood",
-    "category": "Extractor hoods",
-    "subcategory": "Extractor hoods",
-    "price": 1999,
-    "description": "Bruhm BHT-90FB 90cm T-Shape Chimney Style Extractor Hood.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/06/BHT-90FB.jpg"
-  },
-  {
-    "id": "appliance-bruhmbhv60fb",
-    "name": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood",
-    "category": "Extractor hoods",
-    "subcategory": "Extractor hoods",
-    "price": 1599,
-    "description": "Bruhm BHV-60FB 60cm Vertical Design Extractor Hood.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BHV-60FB.jpg"
-  },
-  {
-    "id": "appliance-bruhmbwf070g",
-    "name": "Bruhm BWF-070G 7kg Front Load Washing Machine",
-    "category": "Washing machines",
-    "subcategory": "Washing machines",
-    "price": 3699,
-    "description": "Bruhm BWF-070G 7kg Front Load Washing Machine.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-01-BWF-070G.png"
-  },
-  {
-    "id": "appliance-bruhmbmm20mb",
-    "name": "Bruhm BMM-20MB 20L Solo Black Microwave Oven",
-    "category": "Microwaves",
-    "subcategory": "Microwaves",
-    "price": 739,
-    "description": "Bruhm BMM-20MB 20L Solo Black Microwave Oven.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BMM-20MMB-460x460-1.jpg"
-  },
-  {
-    "id": "appliance-bruhmbme20gb",
-    "name": "Bruhm BME-20GB 20L Grill Black Microwave Oven",
-    "category": "Microwaves",
-    "subcategory": "Microwaves",
-    "price": 889,
-    "description": "Bruhm BME-20GB 20L Grill Black Microwave Oven.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BME-20GMB-300x300-1.jpg"
   },
   {
     "id": "appliance-haierhmw20mbp",
@@ -693,96 +513,6 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/d195961e-4064-42ca-b529-f88218c300b4.png"
   },
   {
-    "id": "appliance-bruhmbfm421500b",
-    "name": "Bruhm BFM-421500B Black 4.2L Air Fryer",
-    "category": "Air fryers",
-    "subcategory": "Air fryers",
-    "price": 489,
-    "description": "Bruhm BFM-421500B Black 4.2L Air Fryer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/BFM-421500B-1.jpg"
-  },
-  {
-    "id": "appliance-bruhmbfe571750b",
-    "name": "Bruhm BFE-571750B Black 5.7L Air Fryer",
-    "category": "Air fryers",
-    "subcategory": "Air fryers",
-    "price": 589,
-    "description": "Bruhm BFE-571750B Black 5.7L Air Fryer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-571750B.jpg"
-  },
-  {
-    "id": "appliance-bruhmbfe903200b",
-    "name": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer",
-    "category": "Air fryers",
-    "subcategory": "Air fryers",
-    "price": 989,
-    "description": "Bruhm BFE-903200B 9L Dual Door 1600W Black Air Fryer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFE-903200B.jpg"
-  },
-  {
-    "id": "appliance-bruhmbsm700bs",
-    "name": "Bruhm BSM 700BS Sandwich Maker",
-    "category": "Sandwich makers",
-    "subcategory": "Sandwich makers",
-    "price": 219,
-    "description": "Bruhm BSM 700BS Sandwich Maker.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BS.jpg"
-  },
-  {
-    "id": "appliance-bruhmbsm700bp",
-    "name": "Bruhm BSM 700BP Sandwich Maker",
-    "category": "Sandwich makers",
-    "subcategory": "Sandwich makers",
-    "price": 319,
-    "description": "Bruhm BSM 700BP Sandwich Maker.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BSM-700BP.jpg"
-  },
-  {
-    "id": "appliance-bruhmbtm650b",
-    "name": "Bruhm BTM 650B Toaster",
-    "category": "Toasters",
-    "subcategory": "Toasters",
-    "price": 139,
-    "description": "Bruhm BTM 650B Toaster.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BTM-650B.jpg"
-  },
-  {
-    "id": "appliance-bruhmbkn15dwr",
-    "name": "Bruhm BKN-15DWR Wine Red Kettle",
-    "category": "Kettles",
-    "subcategory": "Kettles",
-    "price": 169,
-    "description": "Bruhm BKN-15DWR Wine Red Kettle.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/images-1.jpg"
-  },
-  {
-    "id": "appliance-bruhmbkn15dbl",
-    "name": "Bruhm BKN-15DBL Black Kettle",
-    "category": "Kettles",
-    "subcategory": "Kettles",
-    "price": 209,
-    "description": "Bruhm BKN-15DBL Black Kettle.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/1-11.jpg"
-  },
-  {
-    "id": "appliance-philipshr374011",
-    "name": "Philips HR3740/11 Mixer",
-    "category": "Mixers",
-    "subcategory": "Mixers",
-    "price": 489,
-    "description": "Philips HR3740/11 Mixer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/philips-HR3740.webp"
-  },
-  {
-    "id": "appliance-philipshr730190",
-    "name": "Philips HR7301/90 Mixer",
-    "category": "Mixers",
-    "subcategory": "Mixers",
-    "price": 1499,
-    "description": "Philips HR7301/90 Mixer.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/10/vrs_a594733814355dbf53d49a2daec33677f89b8a4b.webp"
-  },
-  {
     "id": "appliance-wanbovali1pro",
     "name": "Wanbo Vali 1 Pro Projector",
     "category": "Projectors",
@@ -790,14 +520,5 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 5199,
     "description": "Wanbo Vali 1 Pro Projector.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/09/2-1.png"
-  },
-  {
-    "id": "appliance-wanbocube2pro",
-    "name": "Wanbo Cube 2 Pro Beige Green Projector",
-    "category": "Projectors",
-    "subcategory": "Projectors",
-    "price": 3199,
-    "description": "Wanbo Cube 2 Pro Beige Green Projector.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-5.png"
   }
 ]);
