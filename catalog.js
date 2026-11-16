@@ -6,7 +6,12 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "TVs",
     "price": 26990,
     "description": "Bruhm LED BTF 100W 100-inch QLED Web Smart TV.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-1.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-2.jpg",
+      "https://www.electromart.com.gh/wp-content/uploads/2025/05/BTF-100W-3.jpg"
+    ]
   },
   {
     "id": "appliance-haierh65s80gux",
@@ -15,7 +20,15 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "TVs",
     "price": 11290,
     "description": "Haier H65S80GUX 65-inch QLED Google TV.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-12.12.55.jpeg"
+    "image": "https://image.haier.com/sa/tvs/W020260825516735800548_1200.png",
+    "images": [
+      "https://image.haier.com/sa/tvs/W020260825516735800548_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516736359292_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516737176937_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516737495108_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516737808228_1200.png",
+      "https://image.haier.com/sa/tvs/W020260825516738022732_1200.png"
+    ]
   },
   {
     "id": "appliance-bruhmbas12rc3w",
@@ -348,7 +361,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "TVs",
     "price": 7699,
     "description": "Bruhm LED BTF-65W UHD VIDAA Smart OS TV.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png"
+    ]
   },
   {
     "id": "appliance-bruhmbtf75w",
@@ -357,7 +373,10 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "TVs",
     "price": 10899,
     "description": "Bruhm LED BTF-75W UHD VIDAA Smart OS TV.",
-    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png"
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png",
+    "images": [
+      "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png"
+    ]
   },
   {
     "id": "appliance-bruhmbas12ic3w",
