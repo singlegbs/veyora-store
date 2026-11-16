@@ -403,5 +403,68 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 6899,
     "description": "Haier Split AC HSU-12PA12HI 1.5hp Inverter R290.",
     "image": ""
+  },
+  {
+    "id": "appliance-bruhmbfc390en",
+    "name": "Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 6899,
+    "description": "Bruhm BFC-390EN 377L Black Inox Bottom Mount Inverter Frost Free Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/08/390l-1.png"
+  },
+  {
+    "id": "appliance-bruhmbfs100md",
+    "name": "Bruhm BFS-100MD Table Top Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 2499,
+    "description": "Bruhm BFS-100MD Table Top Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/05/BFS100MD.png"
+  },
+  {
+    "id": "appliance-bruhmbfd225md",
+    "name": "Bruhm BFD-225MD 208L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 2699,
+    "description": "Bruhm BFD-225MD 208L Top Mount DC Refrigerator.",
+    "image": ""
+  },
+  {
+    "id": "appliance-bruhmbfd275md",
+    "name": "Bruhm BFD-275MD 255L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 3699,
+    "description": "Bruhm BFD-275MD 255L Top Mount DC Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-255L-BFD-275MD.png"
+  },
+  {
+    "id": "appliance-bruhmbfd500en",
+    "name": "Bruhm BFD 500EN 480L Top Mount Inverter Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 6899,
+    "description": "Bruhm BFD 500EN 480L Top Mount Inverter Frost Free Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BFD-500EN.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfq510eng",
+    "name": "Bruhm Black BFQ-510ENG 510L Side by Side Inverter 4-Door Frost Free Touch-Display Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 12899,
+    "description": "Bruhm Black BFQ-510ENG 510L Side by Side Inverter 4-Door Frost Free Touch-Display Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/01/BFQ-510ENG-2.jpg"
+  },
+  {
+    "id": "appliance-haierhrf135bluk2gh",
+    "name": "Haier HRF-135BLUK2GH 90L Table Top Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 2799,
+    "description": "Haier HRF-135BLUK2GH 90L Table Top Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg"
   }
 ]);
