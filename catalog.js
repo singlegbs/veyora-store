@@ -1,4 +1,3 @@
-// Veyora product catalog. Prices in Ghana cedis.
 PRODUCTS.splice(0, PRODUCTS.length, ...[
   {
     "id": "appliance-bruhmbtf100w",
@@ -341,5 +340,32 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 2990,
     "description": "Orient Maverick 6L 2000W 5-Star Fast Heating Storage Water Heater with Free Pipe.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/Orient-Electric-6L-Storage-Water-Heater1.webp"
+  },
+  {
+    "id": "appliance-bruhmbtf32s",
+    "name": "Bruhm LED BTF-32S Digital Satellite TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 1199,
+    "description": "Bruhm LED BTF-32S Digital Satellite TV.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BTF-32S.png"
+  },
+  {
+    "id": "appliance-bruhmbtf65w",
+    "name": "Bruhm LED BTF-65W UHD VIDAA Smart OS TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 7699,
+    "description": "Bruhm LED BTF-65W UHD VIDAA Smart OS TV.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-65W.png"
+  },
+  {
+    "id": "appliance-bruhmbtf75w",
+    "name": "Bruhm LED BTF-75W UHD VIDAA Smart OS TV",
+    "category": "TVs",
+    "subcategory": "TVs",
+    "price": 10899,
+    "description": "Bruhm LED BTF-75W UHD VIDAA Smart OS TV.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BRAND-TV-SET-BTF-75W.png"
   }
 ]);
