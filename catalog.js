@@ -689,3 +689,133 @@ PRODUCTS.push(...[
     "image": ""
   }
 ]);
+
+// Catalog additions: Refrigerators
+PRODUCTS.push(...[
+  {
+    "id": "appliance-bruhmbfc140md",
+    "name": "Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 5099,
+    "description": "Bruhm BFC-140MD 128L Bottom Mount DC Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/07/BRUHM-BFC-140MD-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfc185md",
+    "name": "Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 4499,
+    "description": "Bruhm BFC-185MD 183L Bottom Mount DC Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/Bruhm-BFC-185MD.png"
+  },
+  {
+    "id": "appliance-bruhmbfd135md",
+    "name": "Bruhm BFD-135MD 118L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 3999,
+    "description": "Bruhm BFD-135MD 118L Top Mount DC Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-135MD-460x460-1.png"
+  },
+  {
+    "id": "appliance-bruhmbfd145md",
+    "name": "Bruhm BFD-145MD 132L Top Mount DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 4299,
+    "description": "Bruhm BFD-145MD 132L Top Mount DC Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/08/BRUHM-BFD-145MD-.png"
+  },
+  {
+    "id": "appliance-bruhmbfd330md",
+    "name": "Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7290,
+    "description": "Bruhm BFD-330MD 311L Inox Water Dispenser DC Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BFD-330MD.jpg"
+  },
+  {
+    "id": "appliance-bruhmbfq510en",
+    "name": "Bruhm BFQ-510EN 503L Side by Side 4-Door Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 14399,
+    "description": "Bruhm BFQ-510EN 503L Side by Side 4-Door Frost Free Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/510ENI.png"
+  },
+  {
+    "id": "appliance-tamashinrx100m",
+    "name": "Tamashi NRX100M 86L Double Door Table Top Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 3590,
+    "description": "Tamashi NRX100M 86L Double Door Table Top Refrigerator.",
+    "image": ""
+  },
+  {
+    "id": "appliance-tamashinrx475s",
+    "name": "Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 11500,
+    "description": "Tamashi NRX475S 460L Side by Side Inverter Frost Free Dark Inox Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/NRX475S-1-scaled-1.jpg"
+  },
+  {
+    "id": "appliance-tamashinrx440h",
+    "name": "Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7990,
+    "description": "Tamashi NRX440H 408L Side by Side 4-Door Direct Cool Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/fr1-1.png"
+  },
+  {
+    "id": "appliance-tamashiirx500a",
+    "name": "Tamashi IRX500A 470L Side by Side 4-Door Inverter Frost Free Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 9500,
+    "description": "Tamashi IRX500A 470L Side by Side 4-Door Inverter Frost Free Refrigerator.",
+    "image": ""
+  },
+  {
+    "id": "appliance-haierhrf315gb",
+    "name": "Haier HRF-315GB 280L Top Mount Twin-Inverter Frost Free Black G Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 7990,
+    "description": "Haier HRF-315GB 280L Top Mount Twin-Inverter Frost Free Black G Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/jdf8gJZUAkv8LZHHMVrE65HGr0vKwpEMLFq6QxeF-removebg-preview.png"
+  },
+  {
+    "id": "appliance-haierhrf525mb",
+    "name": "Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 13490,
+    "description": "Haier HRF-525MB 468L Side by Side 4-Door Frost Free Gemstone Finish 5-Star Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/02/HAIER-HRF-525MBNG-800x800-14.png"
+  },
+  {
+    "id": "appliance-haierhrf668ss",
+    "name": "Haier HRF-668SS 541L Side by Side Frost Free Twin-Inverter CC-T Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 12090,
+    "description": "Haier HRF-668SS 541L Side by Side Frost Free Twin-Inverter CC-T Refrigerator.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/haier-side-by-side.png"
+  },
+  {
+    "id": "appliance-haierhrf672vcfmblgh",
+    "name": "Haier HRF-672VCFMBLGH 480L Top Mount Twin-Inverter Frost Free Black G Refrigerator",
+    "category": "Refrigerators",
+    "subcategory": "Refrigerators",
+    "price": 10900,
+    "description": "Haier HRF-672VCFMBLGH 480L Top Mount Twin-Inverter Frost Free Black G Refrigerator.",
+    "image": ""
+  }
+]);
