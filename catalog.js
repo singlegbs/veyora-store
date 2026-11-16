@@ -745,5 +745,23 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 139,
     "description": "Bruhm BTM 650B Toaster.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/07/BTM-650B.jpg"
+  },
+  {
+    "id": "appliance-bruhmbkn15dwr",
+    "name": "Bruhm BKN-15DWR Wine Red Kettle",
+    "category": "Kettles",
+    "subcategory": "Kettles",
+    "price": 169,
+    "description": "Bruhm BKN-15DWR Wine Red Kettle.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/images-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbkn15dbl",
+    "name": "Bruhm BKN-15DBL Black Kettle",
+    "category": "Kettles",
+    "subcategory": "Kettles",
+    "price": 209,
+    "description": "Bruhm BKN-15DBL Black Kettle.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/1-11.jpg"
   }
 ]);
