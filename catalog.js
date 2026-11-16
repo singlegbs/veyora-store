@@ -466,5 +466,95 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 2799,
     "description": "Haier HRF-135BLUK2GH 90L Table Top Refrigerator.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/1-16.jpg"
+  },
+  {
+    "id": "appliance-tamashincx100g",
+    "name": "Tamashi NCX100G Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 2999,
+    "description": "Tamashi NCX100G Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-3.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcs410mr",
+    "name": "Bruhm BCS-410MR 368L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5699,
+    "description": "Bruhm BCS-410MR 368L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BCF-SD400F-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcd610mr",
+    "name": "Bruhm BCD-610MR 560L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7299,
+    "description": "Bruhm BCD-610MR 560L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/10/BRUHM-BCD-610MR-.png"
+  },
+  {
+    "id": "appliance-bruhmbcd810mr",
+    "name": "Bruhm BCD-810MR 755L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 10399,
+    "description": "Bruhm BCD-810MR 755L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-CHEST-FREEZER-BCD-810MR.png"
+  },
+  {
+    "id": "appliance-bruhmbcs200eix",
+    "name": "Bruhm BCS-200EIX 190L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 3699,
+    "description": "Bruhm BCS-200EIX 190L Inverter Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcs250eix",
+    "name": "Bruhm BCS-250EIX 230L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4199,
+    "description": "Bruhm BCS-250EIX 230L Inverter Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcs300eix",
+    "name": "Bruhm BCS-300EIX 282L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4899,
+    "description": "Bruhm BCS-300EIX 282L Inverter Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX-2-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcs350eix",
+    "name": "Bruhm BCS-350EIX 350L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5899,
+    "description": "Bruhm BCS-350EIX 350L Inverter Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BCS-200EIX-BCS-250EIX-BCS-300EIX-BCS-350EIX.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcd450eix",
+    "name": "Bruhm BCD-450EIX 435L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 6899,
+    "description": "Bruhm BCD-450EIX 435L Inverter Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcd500eix",
+    "name": "Bruhm BCD-500EIX 488L Inverter Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7899,
+    "description": "Bruhm BCD-500EIX 488L Inverter Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg"
   }
 ]);
