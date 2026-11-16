@@ -781,5 +781,23 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 1499,
     "description": "Philips HR7301/90 Mixer.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2025/10/vrs_a594733814355dbf53d49a2daec33677f89b8a4b.webp"
+  },
+  {
+    "id": "appliance-wanbovali1pro",
+    "name": "Wanbo Vali 1 Pro Projector",
+    "category": "Projectors",
+    "subcategory": "Projectors",
+    "price": 5199,
+    "description": "Wanbo Vali 1 Pro Projector.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/09/2-1.png"
+  },
+  {
+    "id": "appliance-wanbocube2pro",
+    "name": "Wanbo Cube 2 Pro Beige Green Projector",
+    "category": "Projectors",
+    "subcategory": "Projectors",
+    "price": 3199,
+    "description": "Wanbo Cube 2 Pro Beige Green Projector.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/09/Beige-Green-5.png"
   }
 ]);
