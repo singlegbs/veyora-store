@@ -984,3 +984,34 @@ PRODUCTS.push(...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/TAMASHI-NG6640G.png"
   }
 ]);
+
+// Catalog additions: Washing machines
+PRODUCTS.push(...[
+  {
+    "id": "appliance-haierhtw70m1217",
+    "name": "Haier HTW70-M1217 7kg Twin Tub Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 3799,
+    "description": "Haier HTW70-M1217 7kg Twin Tub Washing Machine.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-HTW70M1217-800x800-1.png"
+  },
+  {
+    "id": "appliance-haierhw80b14959s8",
+    "name": "Haier HW80-B14959S8 8kg Silver Direct Inverter Front Load Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 8290,
+    "description": "Haier HW80-B14959S8 8kg Silver Direct Inverter Front Load Washing Machine.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg"
+  },
+  {
+    "id": "appliance-haierhw90bp14357s8",
+    "name": "Haier HW90-BP14357S8 9kg Silver Direct Inverter Front Load Washing Machine",
+    "category": "Washing machines",
+    "subcategory": "Washing machines",
+    "price": 8490,
+    "description": "Haier HW90-BP14357S8 9kg Silver Direct Inverter Front Load Washing Machine.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/10/WM.jpg"
+  }
+]);
