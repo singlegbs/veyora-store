@@ -819,3 +819,52 @@ PRODUCTS.push(...[
     "image": ""
   }
 ]);
+
+// Catalog additions: Beverage coolers
+PRODUCTS.push(...[
+  {
+    "id": "appliance-bruhmbbs200e",
+    "name": "Bruhm BBS-200E 178L Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 6790,
+    "description": "Bruhm BBS-200E 178L Beverage Cooler.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-200E.jpg"
+  },
+  {
+    "id": "appliance-bruhmbbs300e",
+    "name": "Bruhm BBS-300E 258L Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 7290,
+    "description": "Bruhm BBS-300E 258L Beverage Cooler.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBS-300E.jpg"
+  },
+  {
+    "id": "appliance-bruhmbbd500e",
+    "name": "Bruhm BBD-500E 478L Double Door Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 12290,
+    "description": "Bruhm BBD-500E 478L Double Door Beverage Cooler.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/BBD-500E.jpg"
+  },
+  {
+    "id": "appliance-bruhmbbd700e",
+    "name": "Bruhm BBD-700E 670L Double Door Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 13290,
+    "description": "Bruhm BBD-700E 670L Double Door Beverage Cooler.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/BBD-700E.jpg"
+  },
+  {
+    "id": "appliance-haiersc339jxea",
+    "name": "Haier SC-339JXEA White 320L Beverage Cooler",
+    "category": "Beverage coolers",
+    "subcategory": "Beverage coolers",
+    "price": 9390,
+    "description": "Haier SC-339JXEA White 320L Beverage Cooler.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/Haier-Single-Door-Fridge-SC-339JXEA-1-scaled-1.png"
+  }
+]);
