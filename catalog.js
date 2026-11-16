@@ -556,5 +556,50 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "price": 7899,
     "description": "Bruhm BCD-500EIX 488L Inverter Chest Freezer.",
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/01/BCD-450EIX-BCD-500EIX-BCD-600EIX.jpg"
+  },
+  {
+    "id": "appliance-bruhmbgc5540ib",
+    "name": "Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 1599,
+    "description": "Bruhm BGC 5540IB 4+0 Oven Black Gas Cooker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BRUHM-5540IB-800x800-11.png"
+  },
+  {
+    "id": "appliance-bruhmbgc5540if",
+    "name": "Bruhm BGC 5540IF 4+0 Oven Silver Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 1599,
+    "description": "Bruhm BGC 5540IF 4+0 Oven Silver Gas Cooker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-5540IF.jpg"
+  },
+  {
+    "id": "appliance-bruhmbgc5640ss",
+    "name": "Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 2199,
+    "description": "Bruhm BGC 5640SS 50x50 4+0 Grill Auto Ignition SS Gas Cooker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/BGC-5640SS.jpg"
+  },
+  {
+    "id": "appliance-haierhrg5400bdnmb",
+    "name": "Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 3999,
+    "description": "Haier HRG-5400BDNMB 50x50 4+0 Grill Auto Ignition Black Gas Cooker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/HRG5400ADNMB_54NAGC-TDDNXN12N2-front-view-opened.png"
+  },
+  {
+    "id": "appliance-haierhrg5400bdnss",
+    "name": "Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 3999,
+    "description": "Haier HRG-5400BDNSS 50x50 4+0 Grill Auto Ignition Silver Gas Cooker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/2-6.jpg"
   }
 ]);
