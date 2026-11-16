@@ -971,3 +971,16 @@ PRODUCTS.push(...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103837.jpeg"
   }
 ]);
+
+// Catalog additions: Gas cookers
+PRODUCTS.push(...[
+  {
+    "id": "appliance-tamashing6640g",
+    "name": "Tamashi NG6640G 60x60 4+0 Grill Auto Ignition Gas Cooker",
+    "category": "Gas cookers",
+    "subcategory": "Gas cookers",
+    "price": 3599,
+    "description": "Tamashi NG6640G 60x60 4+0 Grill Auto Ignition Gas Cooker.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/TAMASHI-NG6640G.png"
+  }
+]);
