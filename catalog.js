@@ -868,3 +868,106 @@ PRODUCTS.push(...[
     "image": "https://www.electromart.com.gh/wp-content/uploads/2026/06/Haier-Single-Door-Fridge-SC-339JXEA-1-scaled-1.png"
   }
 ]);
+
+// Catalog additions: Chest freezers
+PRODUCTS.push(...[
+  {
+    "id": "appliance-bruhmbcs160ei",
+    "name": "Bruhm Black Premium Range BCS-160EI Inverter Touch Control Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5499,
+    "description": "Bruhm Black Premium Range BCS-160EI Inverter Touch Control Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/09/Bruhm-BCS-160EI-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-tamashincx150g",
+    "name": "Tamashi NCX150G Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 3990,
+    "description": "Tamashi NCX150G Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/05/1-14.jpg"
+  },
+  {
+    "id": "appliance-bruhmbcs160mr",
+    "name": "Bruhm BCS-160MR 152L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4099,
+    "description": "Bruhm BCS-160MR 152L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/05/BRUHM-BCS-160MR.png"
+  },
+  {
+    "id": "appliance-bruhmbcs210mr",
+    "name": "Bruhm BCS-210MR 197L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4599,
+    "description": "Bruhm BCS-210MR 197L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/06/BCS-210MR-460x460-1.jpg"
+  },
+  {
+    "id": "appliance-haierhcf208sr",
+    "name": "Haier HCF-208SR(GH) 142L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 4799,
+    "description": "Haier HCF-208SR(GH) 142L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/Untitled_1000x1000px_-2025-12-29T132219.330.webp"
+  },
+  {
+    "id": "appliance-haierhcf288sr",
+    "name": "Haier HCF-288SR(GH) 203L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 5499,
+    "description": "Haier HCF-288SR(GH) 203L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/images-4.jpg"
+  },
+  {
+    "id": "appliance-haierhcf328ks",
+    "name": "Haier HCF-328KS 244L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 6699,
+    "description": "Haier HCF-328KS 244L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-HCF-328KS-800x800-1.png"
+  },
+  {
+    "id": "appliance-haierhcf368ks",
+    "name": "Haier HCF-368KS 300L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7690,
+    "description": "Haier HCF-368KS 300L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2024/11/HAIER-300L-HCF368KS.png"
+  },
+  {
+    "id": "appliance-haierhcf428vs",
+    "name": "Haier HCF-428VS(GH) 379L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 7990,
+    "description": "Haier HCF-428VS(GH) 379L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/Screenshot-2026-08-18-103339.png"
+  },
+  {
+    "id": "appliance-haierhcf478vs",
+    "name": "Haier HCF-478VS(GH) 429L DD Inverter Freeze and Ref Modes Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 9350,
+    "description": "Haier HCF-478VS(GH) 429L DD Inverter Freeze and Ref Modes Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2025/08/HCF-478VSGH.webp"
+  },
+  {
+    "id": "appliance-haierhcf588vs",
+    "name": "Haier HCF-588VS(GH) 519L Chest Freezer",
+    "category": "Chest freezers",
+    "subcategory": "Chest freezers",
+    "price": 9290,
+    "description": "Haier HCF-588VS(GH) 519L Chest Freezer.",
+    "image": "https://www.electromart.com.gh/wp-content/uploads/2026/07/20250604-103837.jpeg"
+  }
+]);
