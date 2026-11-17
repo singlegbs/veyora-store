@@ -39,8 +39,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Air conditioners",
     "price": 5299,
     "description": "This 1.5HP split air conditioner provides 12,000 BTU cooling. Turbo and Sleep modes let you choose between faster cooling and overnight operation.",
-    "image": "",
-    "images": [],
+    "image": "bruhm-bas-12rc3w.jpg",
+    "images": ["bruhm-bas-12rc3w.jpg"],
     "specs": "Product: Bruhm Split AC BAS-12RC3W R32 1.5hp; Feature: Anti-Bacterial Filter – Helps filter airborne particles and maintain cleaner airflow.; Feature: Dual Drainage – Provides flexible options for condensate drainage during installation.; Feature: Auto-Restart – Automatically resumes operation after a power interruption.; Feature: Self-Cleaning Function – Helps keep the internal components cleaner.; Feature: Turbo Mode – Provides rapid cooling when quick temperature reduction is required."
   },
   {
@@ -116,8 +116,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 14399,
     "description": "This Bruhm refrigerator provides 503 litres of storage in a four-door layout. Frost-free cooling gives it a different approach to food storage from a manual-defrost refrigerator.",
-    "image": "",
-    "images": [],
+    "image": "bruhm-bfq-510en.jpg",
+    "images": ["bruhm-bfq-510en.jpg"],
     "specs": "Capacity (printed listing): 503 L; Doors: 4; Cooling: Frost free"
   },
   {
@@ -561,8 +561,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Air conditioners",
     "price": 8899,
     "description": "This 2.5HP Bruhm inverter split air conditioner offers 24,000 BTU cooling and smart Wi-Fi control. A Golden Fin condenser and 2D swing support its cooling system.",
-    "image": "",
-    "images": [],
+    "image": "bruhm-bas-24ic3b.jpg",
+    "images": ["bruhm-bas-24ic3b.jpg"],
     "specs": "Product: Bruhm Split AC BAS-24IC3B WiFi Smart; Feature: 24,000 BTU Powerful Cooling: Delivers strong cooling performance for larger rooms and spaces.; Feature: Smart Wi-Fi Control: Allows convenient control of the AC through compatible smart devices.; Feature: Fast Cooling: Quickly reduces room temperature to provide comfortable conditions.; Feature: High Airflow: Provides up to 1,300 m³/h of indoor airflow for effective circulation of cool air.; Feature: 2D Swing: Helps distribute cool air more evenly around the room."
   },
   {
