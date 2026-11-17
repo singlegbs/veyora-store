@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta name="referrer" content="no-referrer">
 <meta name="google-site-verification" content="N-XbVawnK_AbApyxSlMWpx-RYXOmS_2kyz-6Enpa2KA" />
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#00382a">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#00382a">
 <title>Veyora | Home appliances &amp; decor</title><meta name="description" content="Explore Veyora's selection of home appliances and decor in Accra, Ghana."><link rel="icon" href="photo-dcedf36b.jpg" type="image/jpeg"><link rel="stylesheet" href="style.css?v=20261111r">
 <style>.checkout-form textarea{font:inherit;width:100%;min-height:72px;border:1px solid #d1dbd1;border-radius:8px;padding:10px;resize:vertical}.photo-placeholder{display:grid;place-items:center;height:100%;color:#68776e}.product-description{font-size:.8rem;color:#68776e}.delivery-note{font-size:.85rem;color:#617268;max-width:30em;overflow-wrap:anywhere}#checkout-summary{overflow-wrap:anywhere}</style>
 <script defer src="https://js.paystack.co/v2/inline.js"></script><script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script defer src="products.js?v=20261111r"></script><script defer src="catalog.js?v=20261111w"></script><script defer src="store.js?v=20261111r"></script><script defer src="catalog-view.js?v=20261111r"></script><script defer src="store-update.js?v=20261111r"></script>
@@ -32,36 +32,65 @@ dialog::backdrop{touch-action:none}
 </style>
 <a class="floating-whatsapp" href="https://wa.me/233538181600" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.66 15l-1.25 4.57 4.68-1.23A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.18-1.14l-.3-.18-2.78.73.74-2.71-.19-.3a8.2 8.2 0 1 1 6.71 3.6Zm4.5-6.14c-.25-.12-1.46-.72-1.69-.8-.23-.08-.4-.12-.56.12-.17.25-.64.8-.79.97-.14.16-.29.18-.53.06-.25-.12-1.04-.38-1.97-1.21-.73-.65-1.22-1.45-1.37-1.69-.14-.25-.01-.38.11-.5.11-.11.25-.29.37-.43.12-.15.16-.25.25-.41.08-.17.04-.31-.02-.44-.06-.12-.56-1.35-.77-1.85-.2-.48-.4-.41-.56-.42h-.48c-.16 0-.43.06-.66.31-.23.24-.87.85-.87 2.08s.9 2.41 1.02 2.58c.12.16 1.76 2.69 4.27 3.77.6.26 1.06.41 1.42.52.6.19 1.15.16 1.58.1.48-.07 1.46-.6 1.67-1.19.2-.58.2-1.07.14-1.18-.06-.1-.23-.16-.47-.28Z"/></svg><span>Chat on WhatsApp</span></a>
 
-<!-- Mobile navigation: reuse the existing sections, cart and brand tokens. -->
+<!-- Vanilla adaptation of React Bits PillNav (MIT), https://reactbits.dev/components/pill-nav -->
 <style>
-.mobile-bottom-nav{display:none}
+.veyora-pill{display:none}
 @media(max-width:700px){
- body{padding-bottom:calc(76px + env(safe-area-inset-bottom,0px))}
- .mobile-bottom-nav{position:fixed;inset:auto 0 0;z-index:40;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px;padding:8px max(12px,env(safe-area-inset-right,0px)) calc(8px + env(safe-area-inset-bottom,0px)) max(12px,env(safe-area-inset-left,0px));background:#fff;color:var(--ink);border-top:1px solid #dce6dc;box-shadow:0 -3px 18px #00382a12}
- .mobile-bottom-nav .mobile-tab{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:52px;border:0;border-radius:24px;padding:5px 8px;background:transparent;color:inherit;text-decoration:none;font:650 11px/1.2 system-ui,-apple-system,sans-serif}
- .mobile-bottom-nav .mobile-tab[aria-current]{background:var(--lime)}
- .mobile-bottom-nav svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
- .mobile-cart-count{position:absolute;top:1px;left:calc(50% + 8px);min-width:17px;padding:2px 4px;border-radius:99px;background:var(--lime);color:var(--ink);font-size:10px}
- .floating-whatsapp{bottom:calc(88px + env(safe-area-inset-bottom,0px))}
- .status{bottom:calc(88px + env(safe-area-inset-bottom,0px))}
+body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+.veyora-pill{position:fixed;bottom:calc(14px + env(safe-area-inset-bottom,0px));left:max(12px,env(safe-area-inset-left,0px));right:max(12px,env(safe-area-inset-right,0px));z-index:40;display:flex;align-items:center;justify-content:center;gap:6px;font:650 13px/1 system-ui,-apple-system,sans-serif;color:var(--ink);animation:pn-intro .65s cubic-bezier(.22,1,.36,1) both}
+.pn-logo,.pn-bar,.pn-toggle{background:rgba(240,244,241,.87);border:1px solid #00382a12;box-shadow:inset 0 1px 0 #fff,0 12px 28px -12px #00382a55;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border-radius:999px}
+.pn-logo{width:44px;height:44px;flex:none;display:grid;place-items:center;overflow:hidden}
+.pn-logo img{width:36px;height:30px;object-fit:contain;transition:transform .65s cubic-bezier(.22,1,.36,1)}
+.pn-bar{position:relative;padding:3px;min-width:0}
+.pn-items{position:relative;display:flex;gap:3px;width:max-content}
+.pn-item{position:relative;isolation:isolate;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;width:65px;height:44px;border:0;border-radius:999px;background:linear-gradient(#fff,#f6f8f6);box-shadow:inset 0 0 0 1px #00382a0e,0 3px 8px -5px #00382a77;color:var(--ink);text-decoration:none;font:inherit;font-size:11px;overflow:hidden}
+.pn-item:before{content:'';position:absolute;z-index:-1;inset:0;background:var(--ink);border-radius:inherit;transform:translateY(105%);transition:transform .35s cubic-bezier(.22,1,.36,1)}
+.pn-item[aria-current]{color:#fff;background:var(--ink)}
+.veyora-pill svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.pn-count{position:absolute;top:2px;right:6px;min-width:14px;max-width:31px;padding:2px 3px;border-radius:99px;background:var(--lime);color:var(--ink);font-size:9px;overflow:hidden}
+.pn-dot{position:absolute;left:0;bottom:-3px;width:5px;height:5px;border-radius:50%;background:var(--lime);pointer-events:none;z-index:2}
+.pn-toggle{display:none;width:48px;height:48px;color:var(--ink);font:inherit}
+.pn-burger,.pn-burger:after{display:block;width:18px;height:2px;background:currentColor;margin:auto;content:'';transition:transform .2s}
+.pn-burger:after{transform:translateY(6px)}
+.pn-toggle[aria-expanded=true] .pn-burger{transform:rotate(45deg)}
+.pn-toggle[aria-expanded=true] .pn-burger:after{transform:rotate(90deg)}
+.veyora-pill[data-collapsed]{justify-content:space-between}
+.veyora-pill[data-collapsed] .pn-toggle{display:block}
+.veyora-pill[data-collapsed] .pn-bar{position:absolute;bottom:62px;left:0;right:0;border-radius:24px;padding:8px;max-height:calc(100dvh - 150px);overflow:auto;visibility:hidden;pointer-events:none;opacity:0;transform:translateY(10px);transition:opacity .2s,transform .3s,visibility .2s}
+.veyora-pill[data-open] .pn-bar{visibility:visible;pointer-events:auto;opacity:1;transform:none}
+.veyora-pill[data-collapsed] .pn-items{flex-direction:column;width:100%;gap:5px}
+.veyora-pill[data-collapsed] .pn-item{width:100%;height:44px;flex-direction:row;justify-content:flex-start;padding:0 18px;gap:12px;font-size:13px;border-radius:18px}
+.veyora-pill[data-open] .pn-item{animation:pn-row .35s both;animation-delay:calc(var(--i)*35ms)}
+.veyora-pill[data-collapsed] .pn-dot{display:none}
+.veyora-pill :focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.floating-whatsapp,.status{bottom:calc(88px + env(safe-area-inset-bottom,0px))}
+@media(hover:hover) and (pointer:fine){.pn-item:hover{color:#fff}.pn-item:hover:before{transform:none}.pn-logo:hover img{transform:rotate(360deg)}}
+@keyframes pn-intro{from{opacity:0;transform:translateY(18px) scaleX(.82)}to{opacity:1;transform:none}}
+@keyframes pn-row{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.veyora-pill,.veyora-pill *,.veyora-pill :before,.veyora-pill :after{animation:none!important;transition:none!important}html{scroll-behavior:auto}}
 }
 </style>
-<nav class="mobile-bottom-nav" aria-label="Mobile navigation">
- <a class="mobile-tab" href="#home" data-mobile-page="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 10 9-7 9 7v11h-6v-7H9v7H3Z"/></svg><span>Home</span></a>
- <a class="mobile-tab" href="#shop" data-mobile-page="shop"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h16v12H4ZM3 9l2-6h14l2 6M9 21v-7h6v7M3 9c0 3 4 3 4 0 0 3 5 3 5 0 0 3 5 3 5 0 0 3 4 3 4 0"/></svg><span>Shop</span></a>
- <button class="mobile-tab" id="mobile-open-cart" type="button" aria-haspopup="dialog" aria-controls="cart-dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h3l3 12h11l3-9H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></svg><span>Cart</span><span class="mobile-cart-count" id="mobile-cart-count">0</span></button>
- <a class="mobile-tab" href="https://wa.me/233538181600" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 11.5a9 9 0 0 1-13 8L3 21l1.5-5A9 9 0 1 1 21 11.5Z"/><path d="M8 8c0 4 4 8 8 8l1-3-3-1-1 1-2-2 1-1-1-3Z"/></svg><span>Chat</span></a>
+<nav class="veyora-pill" aria-label="Mobile navigation">
+<a class="pn-logo" href="#home" aria-label="Veyora home"><img src="photo-dcedf36b.jpg" alt="Veyora" width="36" height="30"></a>
+<div class="pn-bar" id="pn-panel"><div class="pn-items">
+ <a class="pn-item" href="#home" data-mobile-page="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 10 9-7 9 7v11h-6v-7H9v7H3Z"/></svg><span>Home</span></a>
+ <a class="pn-item" href="#shop" data-mobile-page="shop"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h16v12H4ZM3 9l2-6h14l2 6M9 21v-7h6v7M3 9c0 3 4 3 4 0 0 3 5 3 5 0 0 3 5 3 5 0 0 3 4 3 4 0"/></svg><span>Shop</span></a>
+ <button class="pn-item" id="mobile-open-cart" type="button" aria-haspopup="dialog" aria-controls="cart-dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h3l3 12h11l3-9H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></svg><span>Cart</span><span class="pn-count" id="pn-count">0</span></button>
+ <a class="pn-item" href="https://wa.me/233538181600" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 11.5a9 9 0 0 1-13 8L3 21l1.5-5A9 9 0 1 1 21 11.5Z"/><path d="M8 8c0 4 4 8 8 8l1-3-3-1-1 1-2-2 1-1-1-3Z"/></svg><span>Chat</span></a>
+<span class="pn-dot" aria-hidden="true"></span></div></div>
+<button type="button" class="pn-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="pn-panel"><span class="pn-burger" aria-hidden="true"></span></button>
 </nav>
 <script>
 (()=>{
- const count=document.getElementById('cart-count');
- const badge=document.getElementById('mobile-cart-count');
- const cart=document.getElementById('mobile-open-cart');
- const syncCount=()=>{badge.textContent=count.textContent;cart.setAttribute('aria-label','Cart, '+count.textContent+' items');};
- syncCount();new MutationObserver(syncCount).observe(count,{childList:true,subtree:true,characterData:true});
- cart.addEventListener('click',()=>document.getElementById('open-cart').click());
- const syncPage=()=>document.querySelectorAll('[data-mobile-page]').forEach(tab=>{if(tab.hash===(location.hash||'#home'))tab.setAttribute('aria-current','page');else tab.removeAttribute('aria-current');});
- syncPage();window.addEventListener('hashchange',syncPage);
+// React Bits PillNav (MIT): native spring, auto-collapse and glass pill adaptation; no runtime dependencies.
+const root=document.querySelector('.veyora-pill'),bar=root.querySelector('.pn-bar'),list=root.querySelector('.pn-items'),tabs=[...root.querySelectorAll('.pn-item')],toggle=root.querySelector('.pn-toggle'),dot=root.querySelector('.pn-dot'),motion=matchMedia('(prefers-reduced-motion:reduce)'),count=document.getElementById('cart-count'),badge=document.getElementById('pn-count'),cart=document.getElementById('mobile-open-cart');
+const sync=()=>{badge.textContent=count.textContent;cart.setAttribute('aria-label','Cart, '+count.textContent+' items')};sync();new MutationObserver(sync).observe(count,{childList:true,subtree:true,characterData:true});
+let x=0,v=0,target=0,frame=0,last=0,ready=false;
+function tick(t){const dt=Math.min((t-last)/1000||1/60,.032);last=t;v+=(-340*(x-target)-2*.85*Math.sqrt(340)*v)*dt;x+=v*dt;dot.style.transform='translateX('+x+'px)';if(Math.abs(x-target)>.05||Math.abs(v)>.05)frame=requestAnimationFrame(tick);else{frame=0;x=target;dot.style.transform='translateX('+x+'px)'}}
+function active(){const a=tabs.find(a=>a.hash===(location.hash||'#home'))||tabs[0];tabs.forEach(t=>{if(t===a)t.setAttribute('aria-current','page');else t.removeAttribute('aria-current')});if(root.hasAttribute('data-collapsed'))return;target=a.offsetLeft+a.offsetWidth/2-2.5;if(!ready||motion.matches){cancelAnimationFrame(frame);frame=0;x=target;v=0;dot.style.transform='translateX('+x+'px)';ready=true}else if(!frame){last=performance.now();frame=requestAnimationFrame(tick)}}
+function close(focus=false){root.removeAttribute('data-open');toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Open navigation');if(root.hasAttribute('data-collapsed'))bar.inert=true;if(focus)toggle.focus()}
+function size(){if(!root.offsetWidth)return;const needed=tabs.reduce((n,t)=>n+t.getBoundingClientRect().width,0)+9+8+44+6;const collapsed=root.hasAttribute('data-collapsed');if(!collapsed&&needed>root.clientWidth){root.setAttribute('data-collapsed','');close()}else if(collapsed&&root.clientWidth>=327){root.removeAttribute('data-collapsed');close();bar.inert=false}active()}
+tabs.forEach((t,i)=>{t.style.setProperty('--i',i);t.addEventListener('click',()=>close())});cart.addEventListener('click',()=>document.getElementById('open-cart').click());toggle.addEventListener('click',()=>{if(root.hasAttribute('data-open'))close();else{root.setAttribute('data-open','');bar.inert=false;toggle.setAttribute('aria-expanded','true');toggle.setAttribute('aria-label','Close navigation')}});document.addEventListener('click',e=>{if(!root.contains(e.target))close()});root.addEventListener('keydown',e=>{if(e.key==='Escape')close(true)});window.addEventListener('hashchange',active);new ResizeObserver(size).observe(root);motion.addEventListener('change',active);size();active();
 })();
 </script>
 </body></html>
