@@ -137,71 +137,71 @@ openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.m
     "price": 14263.2,
     "currency": "GHS",
     "model": "H65S80GUX",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.electromart.com.gh/product/haier-65-qled-google-tv-h65s80gux/",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   },
   "appliance-bruhmbas12rc3w": {
     "price": 5359.2,
     "currency": "GHS",
     "model": "BAS-12RC3W",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.electromart.com.gh/product/bruhm-split-bas-12rc3w-1-5hp-r32/",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   },
   "appliance-bruhmbfc140md": {
     "price": 5191.2,
     "currency": "GHS",
     "model": "BFC-140MD",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.electromart.com.gh/product/bruhm-128l-bottom-mount-refrigerator-bfc-140md/",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   },
   "appliance-bruhmbfd135md": {
     "price": 4015.2,
     "currency": "GHS",
     "model": "BFD-135MD",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.electromart.com.gh/product/bruhm-118l-top-mount-refrigerator-bfd-135md/",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   },
   "appliance-bruhmbfd145md": {
     "price": 4500,
     "currency": "GHS",
     "model": "BFD-145MD",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.jumia.com.gh/bruhm-bfd-145md-132l-double-door-top-mount-direct-cool-refrigerator-silver-300522381.html",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   },
   "appliance-bruhmbfd330md": {
     "price": 8047.2,
     "currency": "GHS",
     "model": "BFD-330MD",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.electromart.com.gh/product/bruhm-311l-top-freezer-refrigerator-bfd-330md-inox/",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   },
   "appliance-tamashinrx475s": {
     "price": 11743.2,
     "currency": "GHS",
     "model": "NRX475S",
-    "kind": "regular",
-    "verified": true,
+    "kind": "unverified-sale-original",
+    "verified": false,
     "sourceUrl": "https://www.electromart.com.gh/product/tamashi-ref-nrx475s/",
     "checkedOn": "2026-11-17",
-    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+    "evidence": "Rejected: struck original on an active sale listing; current regular price not independently verified. Do not display."
   }
 };
  PRODUCTS.forEach(p=>{if(references[p.id])p.retailReference=references[p.id];});
