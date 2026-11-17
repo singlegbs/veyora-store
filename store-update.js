@@ -126,10 +126,85 @@ const openDetailWithContact=openDetail;
 openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.me/233538181600?text='+encodeURIComponent('Hello Veyora, I am interested in '+p.name+' ('+money(p.price)+').');};
 
 // Product card presentation, November 17 2026. Selling prices are never modified.
-// Retail comparisons require an exact-model, current regular-price source; none verified.
+// Retail comparisons use exact-model original regular prices; never discounted current prices.
 (()=>{
  const recentlyRestored=new Set(["appliance-bruhmbtf32s","appliance-bruhmbfd500en","appliance-bruhmbfq510eng","appliance-bruhmbht60fb","appliance-bruhmbhv60fb","appliance-bruhmbwf070g","appliance-bruhmbmm20mb","appliance-bruhmbme20gb","appliance-bruhmbfm421500b","appliance-bruhmbfe571750b","appliance-bruhmbfe903200b","appliance-bruhmbsm700bs","appliance-bruhmbsm700bp","appliance-bruhmbtm650b","appliance-bruhmbkn15dwr","appliance-bruhmbkn15dbl","appliance-philipshr374011","appliance-philipshr730190"]);
  PRODUCTS.forEach(p=>{p.isNew=recentlyRestored.has(p.id);});
+
+ // Verified exact-model regular retail references; selling prices remain unchanged.
+ const references={
+  "appliance-haierh65s80gux": {
+    "price": 14263.2,
+    "currency": "GHS",
+    "model": "H65S80GUX",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/haier-65-qled-google-tv-h65s80gux/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  },
+  "appliance-bruhmbas12rc3w": {
+    "price": 5359.2,
+    "currency": "GHS",
+    "model": "BAS-12RC3W",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/bruhm-split-bas-12rc3w-1-5hp-r32/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  },
+  "appliance-bruhmbfc140md": {
+    "price": 5191.2,
+    "currency": "GHS",
+    "model": "BFC-140MD",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/bruhm-128l-bottom-mount-refrigerator-bfc-140md/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  },
+  "appliance-bruhmbfd135md": {
+    "price": 4015.2,
+    "currency": "GHS",
+    "model": "BFD-135MD",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/bruhm-118l-top-mount-refrigerator-bfd-135md/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  },
+  "appliance-bruhmbfd145md": {
+    "price": 4351.2,
+    "currency": "GHS",
+    "model": "BFD-145MD",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/bruhm132l-top-mount-refrigerator-bfd-145md/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  },
+  "appliance-bruhmbfd330md": {
+    "price": 8047.2,
+    "currency": "GHS",
+    "model": "BFD-330MD",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/bruhm-311l-top-freezer-refrigerator-bfd-330md-inox/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  },
+  "appliance-tamashinrx475s": {
+    "price": 11743.2,
+    "currency": "GHS",
+    "model": "NRX475S",
+    "kind": "regular",
+    "verified": true,
+    "sourceUrl": "https://www.electromart.com.gh/product/tamashi-ref-nrx475s/",
+    "checkedOn": "2026-11-17",
+    "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
+  }
+};
+ PRODUCTS.forEach(p=>{if(references[p.id])p.retailReference=references[p.id];});
  const previousCard=makeCard;
  makeCard=function(p){
   const card=previousCard(p),photo=card.querySelector('.photo');
@@ -220,6 +295,8 @@ openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.m
   function update(){const i=Math.round(track.scrollLeft/Math.max(1,track.clientWidth));bar.style.transform='translateX('+(i*100)+'%)';[...thumbs.children].forEach((b,n)=>b.setAttribute('aria-current',String(i===n)));}
   track.addEventListener('scroll',update,{passive:true});track.addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();track.scrollBy({left:track.clientWidth*(e.key==='ArrowRight'?1:-1),behavior:'smooth'});}});gallery.append(track,progress,thumbs);
   const crumb=el('nav','pp-crumb');crumb.setAttribute('aria-label','Breadcrumb');[['Home','home'],['Shop','shop'],[p.category,'category']].forEach(([label,dest],i)=>{if(i)crumb.append(el('span','','›'));const a=el('a','',label);a.href=dest==='home'?'#home':'#shop';a.onclick=e=>{e.preventDefault();if(dest==='home'){const u=new URL(location.href);u.searchParams.delete('product');u.hash='home';history.pushState({},'',u);leave();scrollTo(0,0);}else shop(dest==='category'?p.category:undefined);};crumb.append(a);});copy.append(crumb,el('h1','',p.name),el('p','pp-price',money(p.price)));
+  const rr=p.retailReference;if(rr&&rr.verified===true&&rr.kind==='regular'&&rr.sourceUrl&&rr.checkedOn&&rr.price>p.price){const comparison=el('div','pp-comparison'),original=el('del','pp-retail',money(rr.price)),saving=el('span','pp-save','Save ₵'+(rr.price-p.price).toLocaleString('en-GH',{minimumFractionDigits:2,maximumFractionDigits:2}));original.title='Other retailer regular price, checked '+rr.checkedOn;comparison.style.cssText='display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin:-12px 0 24px';original.style.cssText='color:#7b817b;font-size:16px';saving.style.cssText='background:#cf2929;color:#fff;padding:5px 8px;font-size:12px;font-weight:600';comparison.append(original,saving);copy.querySelector('.pp-price').after(comparison);}
+
   const parts=String(p.specs||'').split(';').map(s=>s.trim()).filter(Boolean);
   const safe=parts.filter(s=>!/^Product:|supplier|wholesale|stock quantity|delivery/i.test(s));const features=el('ul','pp-features');safe.slice(0,5).forEach(s=>features.append(el('li','',s.replace(/^Feature:\s*/i,''))));if(features.children.length)copy.append(features);
   const description=el('details'),ds=el('summary','','Description');description.append(ds,el('p','',p.description||''));
