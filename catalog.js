@@ -228,8 +228,8 @@ PRODUCTS.splice(0, PRODUCTS.length, ...[
     "subcategory": "Refrigerators",
     "price": 10900,
     "description": "This Haier top-mount refrigerator is listed with a 480-litre capacity and black finish. Twin-inverter frost-free cooling is paired with a top-freezer layout.",
-    "image": "",
-    "images": [],
+    "image": "haier-hrf-672vcfmbleg.jpg",
+    "images": ["haier-hrf-672vcfmbleg.jpg"],
     "specs": "Capacity (printed listing): 480 L; Type: Top mount; Cooling: Twin-inverter frost free"
   },
   {
