@@ -229,15 +229,4 @@ document.addEventListener('DOMContentLoaded',()=>{
  window.addEventListener('blur',clear);window.addEventListener('pagehide',clear);document.addEventListener('visibilitychange',clear);
 })();
 </script>
-
-<!-- Cleanliness 1: an intentional catalogue boundary; category routes stay intact. -->
-<style id="curation-pass">.catalog-boundary{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;padding:32px 0;border-top:1px solid #d9d9d9;margin-top:28px}.catalog-boundary button{padding:12px 24px;border:1px solid #d9d9d9;background:#fff;color:#0a0a0a;font-weight:600}.catalog-boundary p{margin:0;color:#595959;font-size:14px}.filter-list{gap:8px}.fc-featured{margin-bottom:40px!important}#product-grid>.card[hidden]{display:none!important}</style>
-<script>document.addEventListener('DOMContentLoaded',()=>{
- const grid=document.getElementById('product-grid');if(!grid)return;
- const boundary=el('div','catalog-boundary'),count=el('p'),more=el('button','','Load more products');more.type='button';boundary.append(count,more);grid.after(boundary);let limit=12;
- function update(){const cards=[...grid.children];cards.forEach((c,i)=>c.hidden=i>=limit);count.textContent='Showing '+Math.min(limit,cards.length)+' of '+cards.length+' products';more.hidden=limit>=cards.length;boundary.hidden=!cards.length;}
- const previous=renderCatalog;renderCatalog=function(){limit=12;previous();update();};more.onclick=()=>{limit+=12;update();};update();
- const title=document.querySelector('#shop .intro h2');if(title)title.textContent='Find your next home essential';
- const note=document.querySelector('#shop .sample-note');if(note)note.textContent='Browse by category, or explore the full collection below.';
-});</script>
-</body></html>
+<style id="lime-discipline">.card .buttons .buy,.detail-copy .buttons .buy{background:#fff!important;color:#0a0a0a!important;border:1px solid #d9d9d9!important}.search button{background:#0a0a0a!important;color:#fff!important}.filter.active{background:#ebebeb!important;color:#0a0a0a!important;border-color:#d9d9d9!important}.card:before,.card:after,.fc-featured:before,.fc-featured:after{border-color:#d9d9d9!important}.fc-dots button[aria-current="true"]{background:#0a0a0a!important}.card .buttons .add{background:#a9ed36!important;color:#0a0a0a!important}.pp-checkout{background:transparent!important;border:1px solid #d9d9d9!important}</style></body></html>
