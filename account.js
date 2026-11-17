@@ -79,7 +79,7 @@
  document.head.append(style);
  let saved=null;
  function syncModalScroll(){
-  const open=!!document.querySelector('dialog[open]');
+  const open=!!document.querySelector('dialog[open]:not(.route-page)');
   if(open&&!saved){
    const body=document.body,root=document.documentElement;
    saved={y:window.scrollY,position:body.style.position,top:body.style.top,left:body.style.left,right:body.style.right,width:body.style.width,overflow:body.style.overflow,rootOverflow:root.style.overflow};
@@ -103,12 +103,12 @@
   document.head.append(css);
   let point = null;
   document.addEventListener('touchstart', e => {
-    if (e.touches.length === 1 && document.querySelector('dialog[open]')) {
+    if (e.touches.length === 1 && document.querySelector('dialog[open]:not(.route-page)')) {
       point = {x:e.touches[0].clientX, y:e.touches[0].clientY};
     } else point = null;
   }, {passive:true, capture:true});
   document.addEventListener('touchmove', e => {
-    const dialogs = Array.from(document.querySelectorAll('dialog[open]'));
+    const dialogs = Array.from(document.querySelectorAll('dialog[open]:not(.route-page)'));
     if (!dialogs.length || !point || e.touches.length !== 1) return;
     const dialog = dialogs[dialogs.length - 1], t = e.touches[0];
     const dx = point.x - t.clientX, dy = point.y - t.clientY;
@@ -128,4 +128,23 @@
     e.preventDefault();
   }, {passive:false, capture:true});
   document.addEventListener('touchend', () => { point = null; }, {passive:true, capture:true});
+})();
+
+// Store views share normal document navigation, never a modal backdrop.
+(() => {
+ const css=el('style');css.textContent=`body.view-open .hero,body.view-open main,body.view-open footer,body.view-open #product-page{display:none!important}dialog.route-page{position:relative!important;inset:auto!important;transform:none!important;margin:0 auto!important;width:100%!important;max-width:1100px!important;min-height:70vh;max-height:none!important;border:0!important;border-radius:0!important;box-shadow:none!important;padding:20px 20px 120px!important;background:#fff;color:#00382a;overflow:visible!important}body.view-open{background:#fff!important}dialog.route-page:not([open]){display:none!important}.route-back{display:block;margin:0 0 24px;padding:12px 18px;border:1px solid #b9cdbf;border-radius:30px;background:#f0f6ec;color:#00382a;font:inherit;cursor:pointer}dialog.route-page .dialog-head .close{display:none!important}dialog.route-page input,dialog.route-page textarea{max-width:100%;box-sizing:border-box}.shop-back{margin:16px 0}body.view-open .whatsapp-float{display:none}@media(min-width:701px){dialog.route-page{padding:28px 36px 100px!important}}`;document.head.append(css);
+ let restoring=false;
+ const ds=[...document.querySelectorAll('dialog')];
+ ds.forEach((d,i)=>{d.classList.add('route-page');if(!d.id)d.id=d.classList.contains('account-page')?'account-page':'store-view-'+i;const b=el('button','route-back','← Back');b.type='button';b.onclick=back;d.prepend(b);});
+ const name=d=>d.id==='auth-dialog'?($('#auth-title').textContent.toLowerCase().includes('sign')?'signup':'login'):d.id.replace(/-dialog$/,'');
+ function go(u,replace=false){history[replace?'replaceState':'pushState']({storePage:true},'',u);}
+ function clean(){ds.forEach(d=>d.removeAttribute('open'));document.body.classList.remove('view-open');}
+ function back(){if(history.state?.storePage)history.back();else{go(location.pathname+'#shop',true);restore();}}
+ function open(d){clean();d.setAttribute('open','');document.body.classList.add('view-open');if(!restoring){const u=new URL(location.href);u.search='';u.hash='';u.searchParams.set('view',name(d));if(d.id==='checkout-dialog')u.searchParams.set('items',selected.map(x=>x.product.id+':'+x.quantity).join(','));go(u);}scrollTo(0,0);}
+ ds.forEach(d=>{d.showModal=()=>open(d);d.close=()=>{d.removeAttribute('open');document.body.classList.remove('view-open');};});
+ const sb=el('button','route-back shop-back','← Back');sb.type='button';sb.onclick=back;$('#filters').before(sb);sb.hidden=true;
+ function restore(){restoring=true;clean();const u=new URL(location.href),view=u.searchParams.get('view');if(view){if(view==='login'||view==='signup'){authView(view);open($('#auth-dialog'));}else if(view==='cart'){renderCart();open($('#cart-dialog'));}else if(view==='checkout'){const items=(u.searchParams.get('items')||'').split(',').map(x=>{const [id,n]=x.split(':');return {product:byId(id),quantity:Math.max(1,Math.min(99,Number(n)||1))};}).filter(x=>x.product);if(items.length)checkout(items);else{renderCart();open($('#cart-dialog'));}}else{const d=document.getElementById(view+'-dialog')||document.getElementById(view);if(d&&d.tagName==='DIALOG'){open(d);const tab=u.searchParams.get('tab');if(tab)d.querySelector('[data-tab="'+CSS.escape(tab)+'"]')?.click();}}}else if(!u.searchParams.has('product')){filter=u.searchParams.get('category')||'All';query=u.searchParams.get('q')||'';renderCatalog();sb.hidden=!(u.searchParams.has('category')||u.searchParams.has('q'));}restoring=false;}
+ document.addEventListener('click',e=>{const link=e.target.closest('a[href^="#"]');if(link){const u=new URL(location.href);u.search='';u.hash=link.getAttribute('href');go(u);clean();}const close=e.target.closest('[data-close],dialog .close');if(close){e.preventDefault();back();return;}const f=e.target.closest('#filters button');if(f){queueMicrotask(()=>{const u=new URL(location.href);u.search='';u.hash='shop';u.searchParams.set('category',filter);go(u);sb.hidden=false;$('#shop')?.scrollIntoView();});}const tab=e.target.closest('.account-nav [data-tab]');if(tab&&tab.dataset.tab!=='logout'){const u=new URL(location.href);u.searchParams.set('tab',tab.dataset.tab);go(u);}if(e.target.closest('#auth-switch'))queueMicrotask(()=>{const u=new URL(location.href);u.searchParams.set('view',name($('#auth-dialog')));go(u);});},true);
+ document.addEventListener('submit',e=>{if(e.target.id==='search-form')queueMicrotask(()=>{const u=new URL(location.href);u.search='';u.hash='shop';u.searchParams.set('q',query);go(u);sb.hidden=false;});});
+ window.addEventListener('popstate',restore);window.addEventListener('hashchange',()=>{if(location.hash){const u=new URL(location.href);u.searchParams.delete('view');u.searchParams.delete('items');history.replaceState(history.state,'',u);clean();}});restore();
 })();
