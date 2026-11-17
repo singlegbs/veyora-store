@@ -124,3 +124,50 @@ detailTrust.textContent='Based in Accra · WhatsApp +233 53 818 1600 · hello@ve
 detailDialog.querySelector('.detail-copy .buttons').after(detailTrust);
 const openDetailWithContact=openDetail;
 openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.me/233538181600?text='+encodeURIComponent('Hello Veyora, I am interested in '+p.name+' ('+money(p.price)+').');};
+
+// Product card presentation, November 17 2026. Selling prices are never modified.
+// Retail comparisons require an exact-model, current regular-price source; none verified.
+(()=>{
+ const recentlyRestored=new Set(["appliance-bruhmbtf32s","appliance-bruhmbfd500en","appliance-bruhmbfq510eng","appliance-bruhmbht60fb","appliance-bruhmbhv60fb","appliance-bruhmbwf070g","appliance-bruhmbmm20mb","appliance-bruhmbme20gb","appliance-bruhmbfm421500b","appliance-bruhmbfe571750b","appliance-bruhmbfe903200b","appliance-bruhmbsm700bs","appliance-bruhmbsm700bp","appliance-bruhmbtm650b","appliance-bruhmbkn15dwr","appliance-bruhmbkn15dbl","appliance-philipshr374011","appliance-philipshr730190"]);
+ PRODUCTS.forEach(p=>{p.isNew=recentlyRestored.has(p.id);});
+ const previousCard=makeCard;
+ makeCard=function(p){
+  const card=previousCard(p),photo=card.querySelector('.photo');
+  card.querySelector('.badge')?.remove();card.querySelector('.product-description')?.remove();
+  const brand=el('div','card-brand',p.brand||p.name.split(' ')[0]);
+  photo.after(brand);
+  if(p.isNew)photo.append(el('span','card-new','NEW'));
+  const image=photo.querySelector('img');if(image){image.loading='lazy';image.decoding='async';}
+  // A future retailReference must include exact-model evidence, date and regular price.
+  const r=p.retailReference;
+  if(r&&r.verified===true&&r.kind==='regular'&&r.sourceUrl&&r.checkedOn&&r.price>p.price){
+   photo.append(el('span','card-save','Save ₵'+(r.price-p.price).toLocaleString('en-GH',{minimumFractionDigits:2,maximumFractionDigits:2})));
+   const old=el('del','card-retail',money(r.price));old.title='Other retailer regular price, checked '+r.checkedOn;
+   card.querySelector('.details').prepend(old);
+  }
+  return card;
+ };
+ const style=el('style');style.textContent=`
+ .grid .card,.rail .card{background:#fff;border:0;border-radius:0;padding:0;box-shadow:none;transform:none;transition:none;display:flex;flex-direction:column;min-width:0}
+ .card .photo{position:relative;background:#fff;border-radius:0;aspect-ratio:1/1;overflow:hidden;width:100%;margin:0 0 14px}
+ .card .photo img{object-fit:contain;padding:0;filter:none;transform:none;transition:none;animation:none;width:100%;height:100%}
+ .card .card-brand{font-size:10px;font-weight:600;line-height:1;color:#989898;text-transform:uppercase;letter-spacing:.04em;margin:0 0 9px}
+ .card h4{color:#252525;font-size:16px;font-weight:500;line-height:1.4;margin:0 0 9px;overflow-wrap:anywhere}
+ .card .details{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin:0 0 12px;padding:0}
+ .card .price{font-size:16px;font-weight:700;line-height:1.15;color:#252525;border:0;padding:0;white-space:normal}
+ .card .card-retail{font-size:14px;font-weight:400;color:#777;line-height:1.15}
+ .card .card-save{position:absolute;left:0;top:0;background:#cf2929;color:#fff;font-size:10px;font-weight:600;line-height:1;padding:4px 7px;border-radius:0;pointer-events:none}
+ .card .card-new{position:absolute;left:8px;bottom:8px;background:#fff;color:#252525;border-radius:20px;padding:5px 9px;font-size:10px;line-height:1;font-weight:600;pointer-events:none}
+ .card .photo-placeholder{display:flex;align-items:center;justify-content:center;width:100%;height:100%;background:#f5f5f5;color:#777;font-size:12px}
+ .grid .card .buttons,.rail .card .buttons{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;padding-top:0}
+ .card .buttons button{flex:1;min-width:0;min-height:40px;padding:8px 5px;border-radius:3px;font-size:11px;font-weight:600;box-shadow:none}
+ .card .buttons .add{background:#fff;border:1px solid #ddd;color:#252525}
+ .card .buttons .buy{background:#252525;border:1px solid #252525;color:#fff}
+ .card .buttons .add:hover{border-color:#a9ed36;background:#fff}
+ .grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:30px 22px}
+ .rail{grid-auto-columns:calc((100% - 66px)/4);gap:22px}
+ @media(max-width:1000px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+ @media(max-width:700px){.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:26px 14px}.rail{grid-auto-columns:calc((100% - 14px)/2);gap:14px}.card .photo{margin-bottom:12px}}
+ `;
+ document.head.append(style);renderCatalog();$('#rail').replaceChildren(...PRODUCTS.map(makeCard));
+})();
