@@ -215,4 +215,18 @@ document.addEventListener('DOMContentLoaded',()=>{
 })();
 </script>
 <style id="pill-tap-feedback">@media(width < 700px){.veyora-pill .pn-item{touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:transform 90ms ease,background-color 90ms ease}.veyora-pill .pn-item[aria-current]{background:#a9ed36!important;background-image:none!important;color:#0a0a0a!important}.veyora-pill .pn-item.pn-pressed{transform:scale(.94);background:#c4f47a!important;background-image:none!important;color:#0a0a0a!important}.veyora-pill .pn-item.pn-pressed:before{transform:translateY(105%)}}</style>
+
+<style id="shared-touch-feedback">@media(any-pointer:coarse),(width < 700px){.veyora-touch-pressed:not(.pn-item){scale:.97!important;background-color:#e8f6d3!important;background-image:linear-gradient(#a9ed3626,#a9ed3626)!important;box-shadow:inset 0 0 0 2px #a9ed3699!important;transition:scale 70ms ease,background-color 70ms ease!important}}@media(prefers-reduced-motion:reduce){.veyora-touch-pressed{scale:1!important}}</style>
+<script>
+(()=>{
+ const selector='a[href],button,input:not([type="hidden"]),select,textarea,summary,[role="button"],[tabindex]:not([tabindex="-1"]),label[for]';
+ let item=null,timer=0,startX=0,startY=0;
+ function clear(){clearTimeout(timer);item?.classList.remove('veyora-touch-pressed');item=null}
+ function down(e){if(e.pointerType&&e.pointerType!=='touch'&&e.pointerType!=='pen')return;const p=e.touches?e.touches[0]:e;const el=e.target.closest?.(selector);clear();if(!el||el.disabled||el.getAttribute('aria-disabled')==='true'||el.closest('[inert]'))return;item=el;startX=p.clientX;startY=p.clientY;item.classList.add('veyora-touch-pressed')}
+ function up(){clearTimeout(timer);timer=setTimeout(clear,140)}
+ function move(e){const p=e.touches?e.touches[0]:e;if(item&&Math.hypot(p.clientX-startX,p.clientY-startY)>10)clear()}
+ if(window.PointerEvent){document.addEventListener('pointerdown',down,{passive:true,capture:true});document.addEventListener('pointerup',up,{passive:true,capture:true});document.addEventListener('pointercancel',clear,{passive:true,capture:true});document.addEventListener('pointermove',move,{passive:true,capture:true})}else{document.addEventListener('touchstart',down,{passive:true,capture:true});document.addEventListener('touchend',up,{passive:true,capture:true});document.addEventListener('touchcancel',clear,{passive:true,capture:true});document.addEventListener('touchmove',move,{passive:true,capture:true})}
+ window.addEventListener('blur',clear);window.addEventListener('pagehide',clear);document.addEventListener('visibilitychange',clear);
+})();
+</script>
 </body></html>
