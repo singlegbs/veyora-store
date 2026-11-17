@@ -1,0 +1,20 @@
+name: Generate PWA icons
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  icons:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate unchanged logo icons
+        run: |
+          convert photo-dcedf36b.jpg -auto-orient -resize 192x192 -background white -gravity center -extent 192x192 icon-192.png
+          convert photo-dcedf36b.jpg -auto-orient -resize 512x512 -background white -gravity center -extent 512x512 icon-512.png
+          convert photo-dcedf36b.jpg -auto-orient -resize 400x400 -background white -gravity center -extent 512x512 icon-512-maskable.png
+          convert photo-dcedf36b.jpg -auto-orient -resize 180x180 -background white -gravity center -extent 180x180 apple-touch-icon.png
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add icon-192.png icon-512.png icon-512-maskable.png apple-touch-icon.png
+          git diff --cached --quiet || git commit -m "Generate PWA icons from original logo"
+          git push origin HEAD:main
