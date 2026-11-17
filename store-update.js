@@ -276,9 +276,10 @@ openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.m
  const key='veyora-recent-products';
  const recent=()=>{try{const a=JSON.parse(localStorage.getItem(key)||'[]');return Array.isArray(a)?a.filter(x=>typeof x==='string').slice(0,12):[];}catch{return [];}};
  const route=()=>PRODUCTS.find(p=>p.id===new URL(location.href).searchParams.get('product'));
- function leave(){page.hidden=true;document.body.classList.remove('product-open');document.title='Veyora | Home appliances & decor';window.scrollTo(0,previousScroll);}
+ function leave(){document.documentElement.removeAttribute('data-product-route');page.hidden=true;document.body.classList.remove('product-open');document.title='Veyora | Home appliances & decor';window.scrollTo(0,previousScroll);}
  function shop(category){const u=new URL(location.href);u.searchParams.delete('product');u.hash='shop';history.pushState({},'',u);filter=category||'All';renderCatalog();leave();document.querySelector('#shop')?.scrollIntoView();}
  function showProduct(p,push=true){
+  document.documentElement.setAttribute('data-product-route','');
   if(detailDialog.open)detailDialog.close();
   if(!document.body.classList.contains('product-open'))previousScroll=scrollY;
   const earlier=recent().filter(id=>id!==p.id);current=p;qty=1;
@@ -312,5 +313,5 @@ openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.m
  openDetail=p=>showProduct(p);
  window.addEventListener('popstate',()=>{const p=route();if(p)showProduct(p,false);else leave();});
  window.addEventListener('hashchange',()=>{if(location.hash&&document.body.classList.contains('product-open')){const u=new URL(location.href);u.searchParams.delete('product');history.replaceState({},'',u);leave();document.querySelector(location.hash)?.scrollIntoView();}});
- const initial=route();if(initial)showProduct(initial,false);
+ const initial=route();if(initial)showProduct(initial,false);else document.documentElement.removeAttribute('data-product-route');
 })();
