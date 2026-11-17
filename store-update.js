@@ -174,12 +174,12 @@ openDetail=function(p){openDetailWithContact(p);detailContact.href='https://wa.m
     "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
   },
   "appliance-bruhmbfd145md": {
-    "price": 4351.2,
+    "price": 4500,
     "currency": "GHS",
     "model": "BFD-145MD",
     "kind": "regular",
     "verified": true,
-    "sourceUrl": "https://www.electromart.com.gh/product/bruhm132l-top-mount-refrigerator-bfd-145md/",
+    "sourceUrl": "https://www.jumia.com.gh/bruhm-bfd-145md-132l-double-door-top-mount-direct-cool-refrigerator-silver-300522381.html",
     "checkedOn": "2026-11-17",
     "evidence": "Original price was (non-discounted regular price); discounted Current price excluded"
   },
