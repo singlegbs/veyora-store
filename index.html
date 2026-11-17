@@ -36,17 +36,17 @@ dialog::backdrop{touch-action:none}
 <style>
 .veyora-pill{display:none}
 @media(max-width:700px){
-body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))}
 .veyora-pill{position:fixed;bottom:calc(14px + env(safe-area-inset-bottom,0px));left:max(12px,env(safe-area-inset-left,0px));right:max(12px,env(safe-area-inset-right,0px));z-index:40;display:flex;align-items:center;justify-content:center;font:650 13px/1 system-ui,-apple-system,sans-serif;color:var(--ink);animation:pn-intro .65s cubic-bezier(.22,1,.36,1) both}
 .pn-bar,.pn-toggle{background:rgba(240,244,241,.87);border:1px solid #00382a12;box-shadow:inset 0 1px 0 #fff,0 12px 28px -12px #00382a55;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border-radius:999px}
-.pn-bar{position:relative;padding:3px;min-width:0}
-.pn-items{position:relative;display:flex;gap:3px;width:max-content}
-.pn-item{position:relative;isolation:isolate;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;width:65px;height:44px;border:0;border-radius:999px;background:linear-gradient(#fff,#f6f8f6);box-shadow:inset 0 0 0 1px #00382a0e,0 3px 8px -5px #00382a77;color:var(--ink);text-decoration:none;font:inherit;font-size:11px;overflow:hidden}
+.pn-bar{position:relative;padding:6px 6px 9px;min-width:0}
+.pn-items{position:relative;display:flex;gap:6px;width:max-content}
+.pn-item{position:relative;isolation:isolate;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;width:65px;height:44px;padding:0;border:0;border-radius:999px;background:linear-gradient(#fff,#f6f8f6);box-shadow:inset 0 0 0 1px #00382a0e,0 3px 8px -5px #00382a77;color:var(--ink);text-decoration:none;font:inherit;font-size:11px;overflow:hidden}
 .pn-item:before{content:'';position:absolute;z-index:-1;inset:0;background:var(--ink);border-radius:inherit;transform:translateY(105%);transition:transform .35s cubic-bezier(.22,1,.36,1)}
 .pn-item[aria-current]{color:#fff;background:var(--ink)}
 .veyora-pill svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-.pn-count{position:absolute;top:2px;right:6px;min-width:14px;max-width:31px;padding:2px 3px;border-radius:99px;background:var(--lime);color:var(--ink);font-size:9px;overflow:hidden}
-.pn-dot{position:absolute;left:0;bottom:-3px;width:5px;height:5px;border-radius:50%;background:var(--lime);pointer-events:none;z-index:2}
+.pn-count{position:absolute;top:3px;right:3px;min-width:14px;max-width:31px;padding:2px 3px;border-radius:99px;background:var(--lime);color:var(--ink);font-size:9px;overflow:hidden}
+.pn-dot{position:absolute;left:0;bottom:-6px;width:5px;height:5px;border-radius:50%;background:var(--lime);pointer-events:none;z-index:2}
 .pn-toggle{display:none;width:48px;height:48px;color:var(--ink);font:inherit}
 .pn-burger,.pn-burger:after{display:block;width:18px;height:2px;background:currentColor;margin:auto;content:'';transition:transform .2s}
 .pn-burger:after{transform:translateY(6px)}
@@ -55,9 +55,10 @@ body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
 .veyora-pill[data-collapsed] .pn-toggle{display:block}
 .veyora-pill[data-collapsed] .pn-bar{position:absolute;bottom:62px;left:0;right:0;border-radius:24px;padding:8px;max-height:calc(100dvh - 150px);overflow:auto;visibility:hidden;pointer-events:none;opacity:0;transform:translateY(10px);transition:opacity .2s,transform .3s,visibility .2s}
 .veyora-pill[data-open] .pn-bar{visibility:visible;pointer-events:auto;opacity:1;transform:none}
-.veyora-pill[data-collapsed] .pn-items{flex-direction:column;width:100%;gap:5px}
+.veyora-pill[data-collapsed] .pn-items{flex-direction:column;width:100%;gap:6px}
 .veyora-pill[data-collapsed] .pn-item{width:100%;height:44px;flex-direction:row;justify-content:flex-start;padding:0 18px;gap:12px;font-size:13px;border-radius:18px}
 .veyora-pill[data-open] .pn-item{animation:pn-row .35s both;animation-delay:calc(var(--i)*35ms)}
+.veyora-pill[data-collapsed] .pn-count{top:50%;margin-top:-6.5px;right:14px}
 .veyora-pill[data-collapsed] .pn-dot{display:none}
 .veyora-pill :focus-visible{outline:2px solid var(--ink);outline-offset:3px}
 .floating-whatsapp,.status{bottom:calc(88px + env(safe-area-inset-bottom,0px))}
