@@ -1,0 +1,551 @@
+{
+  "checkedOn": "2026-11-18",
+  "status": "partial-safety-confirmed-benchmark-incomplete",
+  "catalogCount": 89,
+  "verifiedReferenceCount": 0,
+  "safetyCommit": "2d1e5129a852f96c6cbd70f44f378c8140c104c8",
+  "note": "Only seven candidate models have partial retailer coverage. None qualifies for a regular-price reference. All remaining models need benchmarking. verified:false is never completed.",
+  "candidates": [
+    {
+      "model": "H65S80GUX",
+      "status": "unverified",
+      "electromart": {
+        "model": "H65S80GUX",
+        "url": "https://www.electromart.com.gh/product/haier-65-qled-google-tv-h65s80gux/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "HAIER 65” QLED GOOGLE TV -H65S80GUX ₵ 14,263.20 Original price was: ₵ 14,263.20. ₵ 8,990.00 Current price is: ₵ 8,990.00.",
+              "parsed": "HAIER 65” QLED GOOGLE TV -H65S80GUX ₵ 14,263.20 Original price was: ₵ 14,263.20. ₵ 8,990.00 Current price is: ₵ 8,990.00.",
+              "url": "https://www.electromart.com.gh/product/haier-65-qled-google-tv-h65s80gux/",
+              "value": "HAIER 65” QLED GOOGLE TV -H65S80GUX ₵ 14,263.20 Original price was: ₵ 14,263.20. ₵ 8,990.00 Current price is: ₵ 8,990.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "H65S80GUX",
+          "url": "https://compughana.com/search?q=H65S80GUX&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “H65S80GUX”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “H65S80GUX”.",
+                "url": "https://compughana.com/search?q=H65S80GUX&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “H65S80GUX”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "H65S80GUX",
+          "url": "https://melcom.com/catalogsearch/result/?q=H65S80GUX",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "parsed": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "url": "https://melcom.com/catalogsearch/result/?q=H65S80GUX",
+                "value": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "H65S80GUX",
+          "url": "https://www.jumia.com.gh/catalog/?q=H65S80GUX",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": " Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Haier Clear All Save Price - Reset Save Haier H65S80GUX-65'',QLED GOOGLE TV HD DISPLAY -BLACK GH₵ 9 031 GH₵ 10 000 -10% Low Stock Official Store Recently Viewed See All New to Jumia?",
+                "parsed": " Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Haier Clear All Save Price - Reset Save Haier H65S80GUX-65'',QLED GOOGLE TV HD DISPLAY -BLACK GH₵ 9 031 GH₵ 10 000 -10% Low Stock Official Store Recently Viewed See All New to Jumia?",
+                "url": "https://www.jumia.com.gh/catalog/?q=H65S80GUX",
+                "value": " Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Haier Clear All Save Price - Reset Save Haier H65S80GUX-65'',QLED GOOGLE TV HD DISPLAY -BLACK GH₵ 9 031 GH₵ 10 000 -10% Low Stock Official Store Recently Viewed See All New to Jumia?"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "H65S80GUX",
+        "evidence": "Applied search shows No results for H65S80GUX",
+        "url": "https://www.frankotrading.com/"
+      },
+      "official": {
+        "url": "https://www.haier.com/sa/tvs/h65s80gux.shtml",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    },
+    {
+      "model": "BAS-12RC3W",
+      "status": "unverified",
+      "electromart": {
+        "model": "BAS-12RC3W",
+        "url": "https://www.electromart.com.gh/product/bruhm-split-bas-12rc3w-1-5hp-r32/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "BRUHM 1.5HP SPLIT AC – R32 BAS-12RC3W ₵ 5,359.20 Original price was: ₵ 5,359.20. ₵ 3,590.00 Current price is: ₵ 3,590.00.",
+              "parsed": "BRUHM 1.5HP SPLIT AC – R32 BAS-12RC3W ₵ 5,359.20 Original price was: ₵ 5,359.20. ₵ 3,590.00 Current price is: ₵ 3,590.00.",
+              "url": "https://www.electromart.com.gh/product/bruhm-split-bas-12rc3w-1-5hp-r32/",
+              "value": "BRUHM 1.5HP SPLIT AC – R32 BAS-12RC3W ₵ 5,359.20 Original price was: ₵ 5,359.20. ₵ 3,590.00 Current price is: ₵ 3,590.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "BAS-12RC3W",
+          "url": "https://compughana.com/search?q=BAS-12RC3W&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “BAS-12RC3W”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “BAS-12RC3W”.",
+                "url": "https://compughana.com/search?q=BAS-12RC3W&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “BAS-12RC3W”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "BAS-12RC3W",
+          "url": "https://melcom.com/catalogsearch/result/?q=BAS-12RC3W",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Filter View as Grid List 1 Item 2 3 4 5 Show 12 24 32 40 48 per page Sort By Product Name Price Newest Relevance Set Descending Direction Sale ELECTRICAL APPLIANCES BRUHM AC SPLIT 1.5HP R32 BAS-12RC3W Special Price ₵3,199.00 Regular Price ₵3,799.00 Add to Cart View as Grid List ",
+                "parsed": "Email Submit Go back Filter View as Grid List 1 Item 2 3 4 5 Show 12 24 32 40 48 per page Sort By Product Name Price Newest Relevance Set Descending Direction Sale ELECTRICAL APPLIANCES BRUHM AC SPLIT 1.5HP R32 BAS-12RC3W Special Price ₵3,199.00 Regular Price ₵3,799.00 Add to Cart View as Grid List ",
+                "url": "https://melcom.com/catalogsearch/result/?q=BAS-12RC3W",
+                "value": "Email Submit Go back Filter View as Grid List 1 Item 2 3 4 5 Show 12 24 32 40 48 per page Sort By Product Name Price Newest Relevance Set Descending Direction Sale ELECTRICAL APPLIANCES BRUHM AC SPLIT 1.5HP R32 BAS-12RC3W Special Price ₵3,199.00 Regular Price ₵3,799.00 Add to Cart View as Grid List "
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "BAS-12RC3W",
+          "url": "https://www.jumia.com.gh/catalog/?q=BAS-12RC3W",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "als Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BAS-12RC3W 1.5HP - R32 - GOLDEN FIN-WHITE 5 (1) GH₵ 3 392 GH₵ 4 000 -15% Low Stock Recently Viewed See All New to Jumia?",
+                "parsed": "als Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BAS-12RC3W 1.5HP - R32 - GOLDEN FIN-WHITE 5 (1) GH₵ 3 392 GH₵ 4 000 -15% Low Stock Recently Viewed See All New to Jumia?",
+                "url": "https://www.jumia.com.gh/catalog/?q=BAS-12RC3W",
+                "value": "als Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BAS-12RC3W 1.5HP - R32 - GOLDEN FIN-WHITE 5 (1) GH₵ 3 392 GH₵ 4 000 -15% Low Stock Recently Viewed See All New to Jumia?"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "BAS-12RC3W",
+        "evidence": "Applied search shows No results for BAS-12RC3W",
+        "url": "https://www.frankotrading.com/"
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BAS-12RC3W",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    },
+    {
+      "model": "BFC-140MD",
+      "status": "unverified",
+      "electromart": {
+        "model": "BFC-140MD",
+        "url": "https://www.electromart.com.gh/product/bruhm-128l-bottom-mount-refrigerator-bfc-140md/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "BRUHM REFRIGERATOR BFC-140MD ₵ 5,191.20 Original price was: ₵ 5,191.20. ₵ 3,390.00 Current price is: ₵ 3,390.00.",
+              "parsed": "BRUHM REFRIGERATOR BFC-140MD ₵ 5,191.20 Original price was: ₵ 5,191.20. ₵ 3,390.00 Current price is: ₵ 3,390.00.",
+              "url": "https://www.electromart.com.gh/product/bruhm-128l-bottom-mount-refrigerator-bfc-140md/",
+              "value": "BRUHM REFRIGERATOR BFC-140MD ₵ 5,191.20 Original price was: ₵ 5,191.20. ₵ 3,390.00 Current price is: ₵ 3,390.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "BFC-140MD",
+          "url": "https://compughana.com/search?q=BFC-140MD&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “BFC-140MD”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “BFC-140MD”.",
+                "url": "https://compughana.com/search?q=BFC-140MD&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “BFC-140MD”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "BFC-140MD",
+          "url": "https://melcom.com/catalogsearch/result/?q=BFC-140MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "parsed": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "url": "https://melcom.com/catalogsearch/result/?q=BFC-140MD",
+                "value": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "BFC-140MD",
+          "url": "https://www.jumia.com.gh/catalog/?q=BFC-140MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "ewest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BFC-140MD-128L BOTTOM MOUNT DIRECT COOL- REFRIGERATOR - SILVER GH₵ 2 768 GH₵ 4 997 -45% Official Store Recently Viewed See All New to Jumia?",
+                "parsed": "ewest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BFC-140MD-128L BOTTOM MOUNT DIRECT COOL- REFRIGERATOR - SILVER GH₵ 2 768 GH₵ 4 997 -45% Official Store Recently Viewed See All New to Jumia?",
+                "url": "https://www.jumia.com.gh/catalog/?q=BFC-140MD",
+                "value": "ewest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BFC-140MD-128L BOTTOM MOUNT DIRECT COOL- REFRIGERATOR - SILVER GH₵ 2 768 GH₵ 4 997 -45% Official Store Recently Viewed See All New to Jumia?"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "BFC-140MD",
+        "evidence": "- textbox \"Search products...\" [ref=f1e103]: BFC-140MD\n- generic [ref=f1e795]: No results for “BFC-140MD”"
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BFC-140MD",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    },
+    {
+      "model": "BFD-135MD",
+      "status": "unverified",
+      "electromart": {
+        "model": "BFD-135MD",
+        "url": "https://www.electromart.com.gh/product/bruhm-118l-top-mount-refrigerator-bfd-135md/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "BRUHM REF – BFD-135MD ₵ 4,015.20 Original price was: ₵ 4,015.20. ₵ 2,790.00 Current price is: ₵ 2,790.00.",
+              "parsed": "BRUHM REF – BFD-135MD ₵ 4,015.20 Original price was: ₵ 4,015.20. ₵ 2,790.00 Current price is: ₵ 2,790.00.",
+              "url": "https://www.electromart.com.gh/product/bruhm-118l-top-mount-refrigerator-bfd-135md/",
+              "value": "BRUHM REF – BFD-135MD ₵ 4,015.20 Original price was: ₵ 4,015.20. ₵ 2,790.00 Current price is: ₵ 2,790.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "BFD-135MD",
+          "url": "https://compughana.com/search?q=BFD-135MD&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-135MD”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-135MD”.",
+                "url": "https://compughana.com/search?q=BFD-135MD&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-135MD”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "BFD-135MD",
+          "url": "https://melcom.com/catalogsearch/result/?q=BFD-135MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "parsed": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "url": "https://melcom.com/catalogsearch/result/?q=BFD-135MD",
+                "value": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "BFD-135MD",
+          "url": "https://www.jumia.com.gh/catalog/?q=BFD-135MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": ": Popularity Popularity Newest Arrivals Price: Low to High Price: High to Low Product Rating Express Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Black Friday deal Bruhm BFD-135MD Double Door Refrigerator-118liters-Silver 4.7 (3) GH₵ 2 268 GH₵ 3 400 -33% Jumia E",
+                "parsed": ": Popularity Popularity Newest Arrivals Price: Low to High Price: High to Low Product Rating Express Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Black Friday deal Bruhm BFD-135MD Double Door Refrigerator-118liters-Silver 4.7 (3) GH₵ 2 268 GH₵ 3 400 -33% Jumia E",
+                "url": "https://www.jumia.com.gh/catalog/?q=BFD-135MD",
+                "value": ": Popularity Popularity Newest Arrivals Price: Low to High Price: High to Low Product Rating Express Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Black Friday deal Bruhm BFD-135MD Double Door Refrigerator-118liters-Silver 4.7 (3) GH₵ 2 268 GH₵ 3 400 -33% Jumia E"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "BFD-135MD",
+        "evidence": "- textbox \"Search products...\" [ref=f1e103]: BFD-135MD\n- generic [ref=f1e863]: No results for “BFD-135MD”"
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BFD-135MD",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    },
+    {
+      "model": "BFD-145MD",
+      "status": "unverified",
+      "electromart": {
+        "model": "BFD-145MD",
+        "url": "https://www.electromart.com.gh/product/bruhm132l-top-mount-refrigerator-bfd-145md/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "BRUHM TOP MOUNT REFRIGERATOR – BFD-145MD ₵ 4,351.20 Original price was: ₵ 4,351.20. ₵ 3,090.00 Current price is: ₵ 3,090.00.",
+              "parsed": "BRUHM TOP MOUNT REFRIGERATOR – BFD-145MD ₵ 4,351.20 Original price was: ₵ 4,351.20. ₵ 3,090.00 Current price is: ₵ 3,090.00.",
+              "url": "https://www.electromart.com.gh/product/bruhm132l-top-mount-refrigerator-bfd-145md/",
+              "value": "BRUHM TOP MOUNT REFRIGERATOR – BFD-145MD ₵ 4,351.20 Original price was: ₵ 4,351.20. ₵ 3,090.00 Current price is: ₵ 3,090.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "BFD-145MD",
+          "url": "https://compughana.com/search?q=BFD-145MD&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-145MD”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-145MD”.",
+                "url": "https://compughana.com/search?q=BFD-145MD&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-145MD”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "BFD-145MD",
+          "url": "https://melcom.com/catalogsearch/result/?q=BFD-145MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "parsed": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "url": "https://melcom.com/catalogsearch/result/?q=BFD-145MD",
+                "value": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "BFD-145MD",
+          "url": "https://www.jumia.com.gh/catalog/?q=BFD-145MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "ewest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save ✆0302740642 to Order Bruhm BFD-145MD-132L DOUBLE DOOR TOP MOUNT DIRECT COOL- REFRIGERATOR-SILVER 2.8 (8) GH₵ 2 540 GH₵ 4 500 -44% Recently Viewed See",
+                "parsed": "ewest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save ✆0302740642 to Order Bruhm BFD-145MD-132L DOUBLE DOOR TOP MOUNT DIRECT COOL- REFRIGERATOR-SILVER 2.8 (8) GH₵ 2 540 GH₵ 4 500 -44% Recently Viewed See",
+                "url": "https://www.jumia.com.gh/catalog/?q=BFD-145MD",
+                "value": "ewest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save ✆0302740642 to Order Bruhm BFD-145MD-132L DOUBLE DOOR TOP MOUNT DIRECT COOL- REFRIGERATOR-SILVER 2.8 (8) GH₵ 2 540 GH₵ 4 500 -44% Recently Viewed See"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "BFD-145MD",
+        "evidence": "- textbox \"Search products...\" [ref=f1e103]: BFD-145MD\n- generic [ref=f1e903]: No results for “BFD-145MD”"
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BFD-145MD",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    },
+    {
+      "model": "BFD-330MD",
+      "status": "unverified",
+      "electromart": {
+        "model": "BFD-330MD",
+        "url": "https://www.electromart.com.gh/product/bruhm-311l-top-freezer-refrigerator-bfd-330md-inox/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "BRUHM REFRIGERATOR BFD-330MD ( INOX ) ₵ 8,047.20 Original price was: ₵ 8,047.20. ₵ 5,190.00 Current price is: ₵ 5,190.00.",
+              "parsed": "BRUHM REFRIGERATOR BFD-330MD ( INOX ) ₵ 8,047.20 Original price was: ₵ 8,047.20. ₵ 5,190.00 Current price is: ₵ 5,190.00.",
+              "url": "https://www.electromart.com.gh/product/bruhm-311l-top-freezer-refrigerator-bfd-330md-inox/",
+              "value": "BRUHM REFRIGERATOR BFD-330MD ( INOX ) ₵ 8,047.20 Original price was: ₵ 8,047.20. ₵ 5,190.00 Current price is: ₵ 5,190.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "BFD-330MD",
+          "url": "https://compughana.com/search?q=BFD-330MD&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-330MD”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-330MD”.",
+                "url": "https://compughana.com/search?q=BFD-330MD&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “BFD-330MD”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "BFD-330MD",
+          "url": "https://melcom.com/catalogsearch/result/?q=BFD-330MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "parsed": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "url": "https://melcom.com/catalogsearch/result/?q=BFD-330MD",
+                "value": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "BFD-330MD",
+          "url": "https://www.jumia.com.gh/catalog/?q=BFD-330MD",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "pularity Newest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BFD-330MD-311L TOP MOUNT DOUBLE DOOR -DIRECT COOL REFRIGERATOR WITH WATER DISPENSER- INOX GH₵ 4 927 GH₵ 7 000 -30% Low Stock Official",
+                "parsed": "pularity Newest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BFD-330MD-311L TOP MOUNT DOUBLE DOOR -DIRECT COOL REFRIGERATOR WITH WATER DISPENSER- INOX GH₵ 4 927 GH₵ 7 000 -30% Low Stock Official",
+                "url": "https://www.jumia.com.gh/catalog/?q=BFD-330MD",
+                "value": "pularity Newest Arrivals Price: Low to High Price: High to Low Product Rating Brand catalog_quick_filter_no-results-text Bruhm Clear All Save Price - Reset Save Bruhm BFD-330MD-311L TOP MOUNT DOUBLE DOOR -DIRECT COOL REFRIGERATOR WITH WATER DISPENSER- INOX GH₵ 4 927 GH₵ 7 000 -30% Low Stock Official"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "BFD-330MD",
+        "evidence": "- textbox \"Search products...\" [ref=f1e103]: BFD-330MD\n- generic [ref=f1e968]: No results for “BFD-330MD”"
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BFD-330MD",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    },
+    {
+      "model": "NRX475S",
+      "status": "unverified",
+      "electromart": {
+        "model": "NRX475S",
+        "url": "https://www.electromart.com.gh/product/tamashi-ref-nrx475s/",
+        "error": null,
+        "details": [
+          {
+            "exact-model current price and struck original price and sale indicators": {
+              "context": "TAMASHI NO FROST SIDE-BY-SIDE REFRIGERATOR REF NRX475S ₵ 11,743.20 Original price was: ₵ 11,743.20. ₵ 7,490.00 Current price is: ₵ 7,490.00.",
+              "parsed": "TAMASHI NO FROST SIDE-BY-SIDE REFRIGERATOR REF NRX475S ₵ 11,743.20 Original price was: ₵ 11,743.20. ₵ 7,490.00 Current price is: ₵ 7,490.00.",
+              "url": "https://www.electromart.com.gh/product/tamashi-ref-nrx475s/",
+              "value": "TAMASHI NO FROST SIDE-BY-SIDE REFRIGERATOR REF NRX475S ₵ 11,743.20 Original price was: ₵ 11,743.20. ₵ 7,490.00 Current price is: ₵ 7,490.00."
+            }
+          }
+        ]
+      },
+      "retailers": [
+        {
+          "site": "https://compughana.com",
+          "model": "NRX475S",
+          "url": "https://compughana.com/search?q=NRX475S&type=product",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Check out Log in Search Log in Cart Search results Search No results found for “NRX475S”.",
+                "parsed": "Check out Log in Search Log in Cart Search results Search No results found for “NRX475S”.",
+                "url": "https://compughana.com/search?q=NRX475S&type=product",
+                "value": "Check out Log in Search Log in Cart Search results Search No results found for “NRX475S”."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://melcom.com",
+          "model": "NRX475S",
+          "url": "https://melcom.com/catalogsearch/result/?q=NRX475S",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "parsed": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience.",
+                "url": "https://melcom.com/catalogsearch/result/?q=NRX475S",
+                "value": "Email Submit Go back Your search returned no results. ; Shop at Melcom Online for a seamless and convenient buying experience."
+              }
+            }
+          ]
+        },
+        {
+          "site": "https://www.jumia.com.gh",
+          "model": "NRX475S",
+          "url": "https://www.jumia.com.gh/catalog/?q=NRX475S",
+          "error": null,
+          "answer": [
+            {
+              "search results for exact model; no-results message or exact product listing price and sale indicators": {
+                "context": "For further information on how we use cookies you can read our Privacy and Cookie notice Accept cookies There are no results for “nrx475s”. - Check your spelling for typing errors - Try searching with short and simple keywords - Try searching more general terms - you can then filter the search resul",
+                "parsed": "For further information on how we use cookies you can read our Privacy and Cookie notice Accept cookies There are no results for “nrx475s”. - Check your spelling for typing errors - Try searching with short and simple keywords - Try searching more general terms - you can then filter the search resul",
+                "url": "https://www.jumia.com.gh/catalog/?q=NRX475S",
+                "value": "For further information on how we use cookies you can read our Privacy and Cookie notice Accept cookies There are no results for “nrx475s”. - Check your spelling for typing errors - Try searching with short and simple keywords - Try searching more general terms - you can then filter the search resul"
+              }
+            }
+          ]
+        }
+      ],
+      "franko": {
+        "model": "NRX475S",
+        "evidence": "- textbox \"Search products...\" [ref=f1e103]: NRX475S\n- generic [ref=f1e1015]: No results for “NRX475S”"
+      },
+      "official": {
+        "url": "https://tamashi.com/?s=NRX475S",
+        "status": "No verified regular retail price established; BAS search returned BAS-09RC3W, not exact BAS-12RC3W."
+      }
+    }
+  ]
+      }
