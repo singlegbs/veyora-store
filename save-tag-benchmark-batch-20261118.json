@@ -1,0 +1,70 @@
+{
+  "checkedOn": "2026-11-18",
+  "status": "partial-no-new-references",
+  "verifiedReferenceCount": 0,
+  "safety": "Live version safety-confirmed-20261118; seven rejected product pages rendered with zero comparison/save elements. Cart empty, badge 0.",
+  "batch": [
+    {
+      "model": "BTF 100W",
+      "veyoraPrice": 26990,
+      "status": "unverified",
+      "electromart": {
+        "url": "https://www.electromart.com.gh/product/bruhm-100%e2%80%b3-qled-web-smart-tv-btf-100w/",
+        "listedPrice": 27990,
+        "reason": "Product tagged Electric Friday; regular price outside promotion not established."
+      },
+      "compughana": "https://compughana.com/search?q=BTF100W&type=product",
+      "melcom": "https://melcom.com/catalogsearch/result/?q=BTF%20100W",
+      "franko": "Applied BTF 100W search at https://www.frankotrading.com/ showed no results.",
+      "jumia": {
+        "url": "https://www.jumia.com.gh/catalog/?q=BTF100W",
+        "reason": "Sale 26098 versus 26200 (-1%). Rejected."
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BTF%20100W",
+        "reason": "BTF-100W result says See retailer prices; no regular price established."
+      }
+    },
+    {
+      "model": "BFC-185MD",
+      "veyoraPrice": 4499,
+      "status": "unverified",
+      "electromart": {
+        "url": "https://www.electromart.com.gh/?s=BFC-185MD",
+        "reason": "Nothing matched exact search."
+      },
+      "compughana": "https://compughana.com/search?q=BFC-185MD&type=product",
+      "melcom": "https://melcom.com/catalogsearch/result/?q=BFC-185MD",
+      "franko": "Applied BFC-185MD search at https://www.frankotrading.com/ showed no results.",
+      "jumia": {
+        "url": "https://www.jumia.com.gh/catalog/?q=BFC-185MD",
+        "reason": "Sale 3222 versus 4500 (-28%). Rejected."
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BFC-185MD",
+        "reason": "Exact search result says See retailer prices; no regular price established."
+      }
+    },
+    {
+      "model": "BFQ-510EN",
+      "veyoraPrice": 14399,
+      "status": "unverified",
+      "electromart": {
+        "url": "https://www.electromart.com.gh/?s=BFQ-510EN",
+        "reason": "BFQ-510ENI and BFQ-510ENG are not exact full-model matches."
+      },
+      "compughana": "https://compughana.com/search?q=BFQ-510EN&type=product",
+      "melcom": "https://melcom.com/catalogsearch/result/?q=BFQ-510EN",
+      "franko": "Applied BFQ-510EN search at https://www.frankotrading.com/ showed no results.",
+      "jumia": {
+        "url": "https://www.jumia.com.gh/catalog/?q=BFQ-510EN",
+        "reason": "No results."
+      },
+      "official": {
+        "url": "https://bruhm.com/international/search?q=BFQ-510EN",
+        "reason": "Results BFQ-510ENG and BFQ-510ENI are not exact full-model matches."
+      }
+    }
+  ],
+  "note": "CompuGhana and Melcom listed searches showed no results. Melcom initial timeouts recovered via www route redirect. Search no-results do not prove retailer absence. All ten researched models remain unverified, including seven earlier candidates. Remaining 79 need research. No selling prices changed."
+}
