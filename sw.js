@@ -1,5 +1,5 @@
 'use strict';
-const VERSION = 'veyora-pwa-v15-20261121-holding-refresh';
+const VERSION = 'veyora-pwa-v16-20261121-hero-brand';
 const SHELL = ["/","/index.html","/style.css?v=20261117-product10","/products.js?v=20261117-product10","/catalog.js?v=20261117-product10","/store.js?v=20261117-product10","/catalog-view.js?v=20261117-product10","/store-update.js?v=first-paint-20261118","/account.js?v=20261117-product10","/offline.html","/manifest.webmanifest","/icon-192.png","/icon-512.png","/icon-512-maskable.png","/apple-touch-icon.png"];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(VERSION).then(cache => cache.addAll(SHELL.map(path => new Request(path, {cache: 'reload'})))).then(() => self.skipWaiting()));
