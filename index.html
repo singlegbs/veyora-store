@@ -187,6 +187,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 <style>
 #pwa-invite{position:fixed;left:12px;right:12px;bottom:100px;z-index:45;max-width:420px;margin:auto;padding:12px 16px;background:#fff;color:#0a0a0a;border:1px solid #d9d9d9;border-radius:22px;box-shadow:0 4px 20px #0001;display:flex;align-items:center;gap:10px;font:14px/1.3 system-ui,sans-serif}#pwa-invite[hidden]{display:none}#pwa-invite span{flex:1;min-width:0}#pwa-invite button{border:0;padding:10px 14px;background:#a9ed36;color:#0a0a0a;border-radius:999px}#pwa-invite .pwa-dismiss{background:#f5f5f5;padding:10px}body:has(dialog[open]) #pwa-invite{display:none}
 </style>
+<style id="pwa-help-style">#pwa-help{box-sizing:border-box;position:fixed;inset:0;width:calc(100% - 32px);max-width:380px;height:fit-content;max-height:80dvh;margin:auto;padding:24px;background:#fff;color:#22262a;border:1px solid #d9d9d9;border-radius:22px;font:14px/1.5 system-ui,sans-serif;overflow:auto}#pwa-help::backdrop{background:#0006}#pwa-help h2{font-size:20px;margin:0 0 12px}#pwa-help button{border:0;padding:10px 18px;border-radius:999px;background:#a9ed36;color:#0a0a0a;font:inherit}</style><dialog id="pwa-help" aria-labelledby="pwa-help-title"><h2 id="pwa-help-title">Install Veyora</h2><p id="pwa-help-steps"></p><button type="button">Close</button></dialog>
 <aside id="pwa-invite" aria-label="Install Veyora" hidden><span>Veyora, one tap away.</span><button type="button" id="pwa-install">Install</button><button type="button" class="pwa-dismiss" aria-label="Dismiss install invite">&#215;</button></aside>
 <script>
 (() => {
@@ -194,24 +195,52 @@ document.addEventListener('DOMContentLoaded',()=>{
     const wasControlled = !!navigator.serviceWorker.controller;     let refreshing = false;     navigator.serviceWorker.addEventListener('controllerchange', () => {       if (wasControlled && !refreshing) { refreshing = true; location.reload(); }     });     navigator.serviceWorker.register('/sw.js', {updateViaCache:'none'}).then(registration => {       registration.update().catch(() => {});       document.addEventListener('visibilitychange', () => {         if (document.visibilityState === 'visible') registration.update().catch(() => {});       });     }).catch(() => {});
   });
   const banner = document.getElementById('pwa-invite');
-  let pending;
-  let dismissed = false;
+  const sheet = document.getElementById('pwa-help');
+  const standalone = matchMedia('(display-mode: standalone)');
+  const ios = /iPad|iPhone|iPod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  let pending, installed = false, dismissed = false;
   try { dismissed = sessionStorage.getItem('veyora-install-dismissed') === '1'; } catch (_) {}
+  const running = () => standalone.matches || navigator.standalone === true;
+  const hide = () => { banner.hidden = true; if (sheet.open) sheet.close(); };
+  async function alreadyInstalled() {
+    if (running() || installed) return true;
+    if (navigator.getInstalledRelatedApps) {
+      try {
+        const apps = await navigator.getInstalledRelatedApps();
+        installed = apps.some(app => app.platform === 'webapp' && app.url && new URL(app.url, location.href).href === new URL('/manifest.webmanifest', location.origin).href);
+      } catch (_) {}
+    }
+    return running() || installed;
+  }
+  async function reveal() {
+    if (await alreadyInstalled()) { hide(); return; }
+    if (!dismissed) banner.hidden = false;
+  }
+  const ready = () => { if (ios) reveal(); else setTimeout(reveal, 3000); };
+  if (document.readyState === 'complete') ready(); else window.addEventListener('load', ready, {once:true});
   window.addEventListener('beforeinstallprompt', event => {
-    // iOS uses Safari's own Add to Home Screen; never show it an invite.
-    if (!/Android/i.test(navigator.userAgent) || matchMedia('(display-mode: standalone)').matches || dismissed) return;
-    event.preventDefault(); pending = event; banner.hidden = false;
+    event.preventDefault(); pending = event; reveal();
   });
   banner.querySelector('.pwa-dismiss').addEventListener('click', () => {
-    dismissed = true; banner.hidden = true; pending = null;
+    dismissed = true; hide();
     try { sessionStorage.setItem('veyora-install-dismissed','1'); } catch (_) {}
   });
   document.getElementById('pwa-install').addEventListener('click', async () => {
-    if (!pending) return;
-    const invitation = pending; pending = null; banner.hidden = true;
-    try { await invitation.prompt(); await invitation.userChoice; } catch (_) {}
+    if (running() || installed) { hide(); return; }
+    if (pending && !ios) {
+      const invitation = pending; pending = null;
+      try { await invitation.prompt(); const choice = await invitation.userChoice; if (choice.outcome === 'accepted') { installed = true; hide(); } return; } catch (_) {}
+    }
+    document.getElementById('pwa-help-steps').textContent = ios
+      ? 'Tap the Share button (square with an arrow), then scroll and tap "Add to Home Screen".'
+      : 'Open your browser menu (⋮ or ⋯), then choose "Install app" or "Add to Home screen". On desktop Chrome, look for "Install Veyora" in the address bar or menu.';
+    sheet.showModal();
   });
-  window.addEventListener('appinstalled', () => { banner.hidden = true; pending = null; });
+  sheet.querySelector('button').addEventListener('click', () => sheet.close());
+  sheet.addEventListener('click', event => { if (event.target === sheet) { const r = sheet.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) sheet.close(); } });
+  window.addEventListener('appinstalled', () => { installed = true; pending = null; hide(); });
+  standalone.addEventListener('change', () => { if (running()) hide(); else reveal(); });
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') reveal(); });
 })();
 </script>
 <style id="pill-tap-feedback">@media(width < 700px){.veyora-pill .pn-item{touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:transform 90ms ease,background-color 90ms ease}.veyora-pill .pn-item[aria-current]{background:#a9ed36!important;background-image:none!important;color:#0a0a0a!important}.veyora-pill .pn-item.pn-pressed{transform:scale(.94);background:#c4f47a!important;background-image:none!important;color:#0a0a0a!important}.veyora-pill .pn-item.pn-pressed:before{transform:translateY(105%)}}</style>
