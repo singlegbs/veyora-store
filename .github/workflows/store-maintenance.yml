@@ -1,0 +1,27 @@
+name: Store maintenance
+on:
+  push:
+    paths: [".github/workflows/store-maintenance.yml"]
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply authorized store change
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          g = "<script data-veyora-pause>(function(){let ok=false;try{if(new URLSearchParams(location.search).get(\"preview\")===\"bright\")sessionStorage.setItem(\"veyora-preview\",\"bright\");ok=sessionStorage.getItem(\"veyora-preview\")===\"bright\"}catch(e){ok=new URLSearchParams(location.search).get(\"preview\")===\"bright\"}if(!ok){if(\"serviceWorker\" in navigator)navigator.serviceWorker.register(\"/sw.js\").then(r=>r.update()).catch(()=>{});document.write(\"<!doctype html><html lang=\\\"en\\\"><meta charset=\\\"utf-8\\\"><meta name=\\\"viewport\\\" content=\\\"width=device-width,initial-scale=1\\\"><meta name=\\\"theme-color\\\" content=\\\"#103e32\\\"><title>Veyora • Back soon</title><style>*{box-sizing:border-box}body{margin:0;background:#0c2e26;color:#f5f3e9;font:16px/1.65 system-ui,sans-serif;min-height:100dvh;display:grid;place-items:center;padding:28px;background:radial-gradient(ellipse at top right,#245c48,transparent 65%),#0c2e26}main{max-width:540px}small{letter-spacing:.23em;text-transform:uppercase;color:#b9d5ba}h1{font-size:clamp(36px,8vw,64px);line-height:1.08;letter-spacing:-.05em;font-weight:500;margin:32px 0 24px}p{color:#c6d5cc;max-width:32em}.brand{font-size:26px;font-weight:650;letter-spacing:-1px;margin-bottom:64px}a{display:inline-block;background:#dce9bd;color:#163b30;padding:14px 22px;border-radius:30px;text-decoration:none;font-weight:650;margin-top:20px}footer{font-size:12px;letter-spacing:.08em;margin-top:64px;color:#a5bfb0}</style><main><div class=\\\"brand\\\">Veyora<span style=\\\"color:#bdd292\\\">.</span></div><small>A little refresh. A better experience.</small><h1>We’re making Veyora even better.</h1><p>Your next home upgrade deserves something special. We’re refreshing our store and will be back soon.</p><a href=\\\"https://wa.me/233538181600\\\">Urgent question? WhatsApp us ↗</a><p>+233 53 818 1600</p><footer>THOUGHTFULLY CHOSEN. BEAUTIFULLY LIVED.</footer></main></html><plaintext hidden>\")}})();</script>"
+          for p in Path(".").rglob("*.html"):
+           s=p.read_text(); s=re.sub(r"(<head\b[^>]*>)",lambda m:m[0]+g,s,count=1,flags=re.I);p.write_text(s)
+          p=Path("sw.js");p.write_text(re.sub(r"const VERSION = .*?;", "const VERSION = 'veyora-pwa-v21-20261122-lock';",p.read_text(),count=1))
+          PY
+          rm .github/workflows/store-maintenance.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "Pause store while removing install invitation"
+          git push origin HEAD:main
